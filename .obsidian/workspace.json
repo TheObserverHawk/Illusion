@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.34 - Ornithologie.md",
-                "mode": "preview",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.39 - Saltationnisme.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.34 - Ornithologie.md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.39 - Saltationnisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.34 - Ornithologie.md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.39 - Saltationnisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.34 - Ornithologie.md"
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.39 - Saltationnisme.md"
               }
             }
           },
@@ -182,6 +182,11 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.38 - Orthogenèse.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.37 - Finalisme (Biologie).md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.36 - Biotique & Abiotique.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.35 - Dérive génétique.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.34 - Ornithologie.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.33 - Théorie chromosomique de l'hérédité.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.32 - Population panmictique.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
@@ -208,11 +213,6 @@
     "1 - Science/Mathématique 3/Calculus/1.8 - Développement de Taylor/1.8.1 - Formule = Développement de Taylor d'ordre ''n'' de ''f''.md",
     "1 - Science/Mathématique 3/Calculus/1.8 - Développement de Taylor/1.8.3 - Thm = Formule du reste.md",
     "1 - Science/Mathématique 3/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.3 - Déf = Adhérence.md",
-    "1 - Science/Mathématique 3/Math élémentaire/2 - Géométrie/2.4 - Plan (espace)/2.4.4 - Droite dans l'espace R au cube.md",
-    "1 - Science/Mathématique 3/Calculus/1.1 - Convergence/1.1.1.0 - Prop = Caractère asymptotique.md",
-    "1 - Science/Mathématique 3/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
-    "1 - Science/Mathématique 3/Calculus/1.1 - Convergence/1.1.3.2 - Thm = Cgce dominée au sens strict d'une suite.md",
-    "1 - Science/Mathématique 3/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.7 - Prop = Equiv de la déf de la cgce de lim de fonc.md",
     "1 - Science/Mathématique 3/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.3 - Racine carré",
     "1 - Science/Mathématique 3/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.2 - Valeur absolue",
     "1 - Science/Mathématique 3/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.1 - Intervalle de R",
