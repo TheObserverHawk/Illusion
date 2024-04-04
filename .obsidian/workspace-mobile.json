@@ -109,8 +109,12 @@
             "id": "4f2354f073d2ec23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -180,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0 - Dossier Template/Note Biologie.md",
+            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,7 +201,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0 - Dossier Template/Note Biologie.md",
+            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -209,7 +213,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0 - Dossier Template/Note Biologie.md"
+            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md"
           }
         }
       },
@@ -238,6 +242,20 @@
   },
   "active": "4f2354f073d2ec23",
   "lastOpenFiles": [
+    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240404171130.png",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240404170511.png",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240404171350.png",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240404170537.png",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240404170630.png",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.1 - Mémoire DDR SDRAM.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2 - Module mémoire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3 - Mémoire SDRAM.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.1 - Accès en rafale (burst).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.2 - Mémoire DRAM.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires",
     "1. Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1.4.1 - Assembleur (détaillé) (Compilation - fonc ordi).md",
     "1. Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1.4.1.1 - Carte mémoire (Compilation - fonc ordi) (MIPS).md",
     "1. Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3 - Mémoire SDRAM.md",
@@ -250,7 +268,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331225905.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331223748.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331223207.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240331225002.png",
     "1. Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4 - Architecture MIPS.md",
     "1. Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4.1 - Banque de registres (Circuit logique).md",
     "1. Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4 - Registre.md",
@@ -262,18 +279,6 @@
     "1. Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.9 - Pipeline (MIPS).md",
     "1. Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.6.2 - Adressage immédiat (MIPS).md",
     "1. Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5.1 - Addition en binaire (entiers non-signés).md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.3 - Taille des mots binaires.md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.6.5 - Multiplication en binaire (entiers signés).md",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240330163830.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240330170934.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240330170848.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240330165038.png",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.8 - Instruction de contrôle de flux (MIPS).md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.1 - Décodage d'instruction de type-R (MIPS).md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.3 - Décodage d'instructions ''Load'' & ''Store'' (MIPS).md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/Fonctionnement des ordinateurs.md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.6.6 - Instructions Load & Store (MIPS).md",
     "1. Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires",
     "1. Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation",
     "1. Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture",
@@ -282,7 +287,6 @@
     "Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss",
     "Physique/2 - Electromagnétisme/2.4 - Potentiel électrique",
     "Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu",
-    "Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique",
-    "Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique"
+    "Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique"
   ]
 }
