@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.2.1 - Unité de contrôle (MIPS).md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.30 - Homéose.md",
                 "mode": "preview",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.2.1 - Unité de contrôle (MIPS).md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.30 - Homéose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.2.1 - Unité de contrôle (MIPS).md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.30 - Homéose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.2.1 - Unité de contrôle (MIPS).md"
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.30 - Homéose.md"
               }
             }
           },
@@ -182,6 +182,15 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.31 - Gène.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.29 - Protiste.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.28 - Nématode.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.25.2 - Méiose.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.26 - Chromatine.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.25.1 - Mitose.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.21 - Transformisme (Biologie).md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.19 - Physiologie.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.2.1 - Unité de contrôle (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.1 - Mémoire DDR SDRAM.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.37 - Finalisme (Biologie).md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.38 - Orthogenèse.md",
@@ -204,15 +213,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404170511.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.6.1.1 - Overflow & Underflow entier signé (Dépassement).md",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
-    "1 - Science/Mathématique/Calculus/2.0 - Intégration/2.0.1.2 - Prop = Propriétés de base de l'intégration.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.6 - Champ électrique d'un objet chargé.md",
-    "1 - Science/Mathématique 3/Calculus/1.1 - Convergence/1.1.6 - Déf = Sous-suite exhaustive.md",
-    "1 - Science/Mathématique 3/Calculus/1.1 - Convergence/1.1.1 - Déf = Convergence au sens strict d'une suite.md",
-    "1 - Science/Mathématique 3/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md",
-    "1 - Science/Mathématique 3/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.1 - Déf = Convergence de limite de fonctions.md",
-    "1 - Science/Mathématique 3/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
-    "1 - Science/Mathématique 3/Calculus/1.4 - Continuité d'une limite de fonction/1.4.1 - Déf = Continuité d'une fonction.md",
-    "1 - Science/Mathématique 3/Calculus/1.8 - Développement de Taylor/1.8.1 - Formule = Développement de Taylor d'ordre ''n'' de ''f''.md",
     "1 - Science/Mathématique 3/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.3 - Racine carré",
     "1 - Science/Mathématique 3/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.2 - Valeur absolue",
     "1 - Science/Mathématique 3/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.1 - Intervalle de R",
