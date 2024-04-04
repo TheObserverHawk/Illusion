@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.7 - Organisation de la mémoire (MIPS).md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.34 - Ornithologie.md",
                 "mode": "preview",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.7 - Organisation de la mémoire (MIPS).md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.34 - Ornithologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.7 - Organisation de la mémoire (MIPS).md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.34 - Ornithologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.7 - Organisation de la mémoire (MIPS).md"
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.34 - Ornithologie.md"
               }
             }
           },
@@ -182,10 +182,12 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.33 - Théorie chromosomique de l'hérédité.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.32 - Population panmictique.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.7 - Organisation de la mémoire (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.6.5 - Adressage indirect indexé (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.6.6 - Instructions Load & Store (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.7 - Organisation de la mémoire (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.5 - Instructions de type-R (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.1 - Instruction Add Word (ADD) (MIPS).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404171350.png",
@@ -211,8 +213,6 @@
     "1 - Science/Mathématique 3/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
     "1 - Science/Mathématique 3/Calculus/1.1 - Convergence/1.1.3.2 - Thm = Cgce dominée au sens strict d'une suite.md",
     "1 - Science/Mathématique 3/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.7 - Prop = Equiv de la déf de la cgce de lim de fonc.md",
-    "1 - Science/Mathématique 3/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.18 - Prop = (Propriétés d'application linéaire).md",
-    "1 - Science/Mathématique 3/Math élémentaire/2 - Géométrie/2.2 - Droite/2.2.5 - Perpendicularité de 2 droites.md",
     "1 - Science/Mathématique 3/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.3 - Racine carré",
     "1 - Science/Mathématique 3/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.2 - Valeur absolue",
     "1 - Science/Mathématique 3/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.1 - Intervalle de R",
