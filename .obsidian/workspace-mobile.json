@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
                 "mode": "preview",
                 "source": false
               }
@@ -184,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
+            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
+            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -213,7 +213,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md"
+            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md"
           }
         }
       },
@@ -242,14 +242,26 @@
   },
   "active": "4f2354f073d2ec23",
   "lastOpenFiles": [
+    "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
+    "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6 - Mémoire à accès aléatoire (RAM).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6.1 - Type de mémoires (fonc ordi).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6.2.2 - Combinaison de plusieurs mémoires.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6.3 - Modèle de mémoire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.2 - Appel de fonction par adressage indirect (MIPS).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo - Fonction récursive factorielle (MIPS).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6.2 - Bus (fonc ordi).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers 2/2.2 - Nombre.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404171130.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404170511.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404171350.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404170537.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404170630.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.1 - Mémoire DDR SDRAM.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2 - Module mémoire.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3 - Mémoire SDRAM.md",
@@ -267,18 +279,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331223223.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331225905.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331223748.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240331223207.png",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4 - Architecture MIPS.md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4.1 - Banque de registres (Circuit logique).md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4 - Registre.md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.2.1 - Instruction Jump And Link (JAL) (MIPS).md",
-    "1. Science/Informatique/Algo et progra 1 (Python)/7 - Listes/7.1 - Gradient d'une image & Détection de contours/7.1.1 - Image digitale.md",
-    "1. Science/Mathématique/Calculus/1.1 - Convergence/1.1.6 - Déf = Sous-suite exhaustive.md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.2.1 - Unité de contrôle (MIPS).md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.2 - Décodage d'instruction de type-I (MIPS).md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.9 - Pipeline (MIPS).md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.6.2 - Adressage immédiat (MIPS).md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5.1 - Addition en binaire (entiers non-signés).md",
     "1. Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires",
     "1. Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation",
     "1. Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture",
