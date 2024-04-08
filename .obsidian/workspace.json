@@ -11,8 +11,12 @@
             "id": "e827bc4d68f36b60",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.5 - Thm = Cgce dominée d'une limite de fonc.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.5 - Thm = Cgce dominée d'une limite de fonc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.5 - Thm = Cgce dominée d'une limite de fonc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.5 - Thm = Cgce dominée d'une limite de fonc.md"
+              }
             }
           },
           {
@@ -188,6 +196,11 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.5 - Prop = Règle de l'Hospital.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.7 - Thm = Critère de Cauchy.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6.1 - Limite supérieure.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.5 - Thm = Convergence dominée d'une série.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.4 - Déf = Série absolument convergente.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.06-22 - Analyse de la racine et du comportement local d'une fonction linéaire avec un terme négligeable.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q7E.b.06.22 - Analyse de la croissance de la fonction cubique.md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/Q6E.b.01.24 - Continuité asymptotique et positivité locale.md",
@@ -211,11 +224,6 @@
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.-7 - Orthogenèse.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.41 - Anagenèse.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.48 - Neutralisme (Biologie).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.49 - Fixisme.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.10.1 - Fécondation.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.13 - Phylogénie.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.12 - Biologie cellulaire.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.11 - Sélection naturelle.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404233629.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404171350.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404171130.png",
