@@ -111,8 +111,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
-                "mode": "source",
+                "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -184,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
+            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
+            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -213,7 +213,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md"
+            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md"
           }
         }
       },
@@ -242,10 +242,11 @@
   },
   "active": "4f2354f073d2ec23",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11.0 - Formule d'Euler.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6 - Mémoire à accès aléatoire (RAM).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6.1 - Type de mémoires (fonc ordi).md",
@@ -278,7 +279,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331225848.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331223223.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331225905.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240331223748.png",
     "1. Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires",
     "1. Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation",
     "1. Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture",
