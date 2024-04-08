@@ -35,4 +35,8 @@ _Calculus : Série_
 1. 
 
 # Question  d'examen du juin 2022
-## Enoncé : 
+## Enoncé : Pour chacune des affirmations suivantes, cochez la case adéquate selon que vous pensez qu'elle est vraie ou fausse. Justifiez votre réponse rigoureusement. Une affirmation telle que "vu au cours" n'est pas une justification
+### Si $0\in\operatorname{Dom}f, f(0)=0$ et $\frac{f(x)}{x}\to 1$ quand $x\to 0$, alors $\exists r>0,\forall x\in\ ]0,r[, f(x)>0$ 
+_Réponse_ : Vrai
+\
+Montrons que par l'absurde i.e. supposons que $$0\in\operatorname{Dom}f, f(0)=0\text{ et }\frac{f(x)}{x}\to 1$$ 
