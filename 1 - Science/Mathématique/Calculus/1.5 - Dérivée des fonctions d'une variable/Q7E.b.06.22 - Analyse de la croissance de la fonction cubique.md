@@ -19,7 +19,7 @@ _Réponse_ : Faux
 Montrons que $f(x)=x^3$ est strictement croissante partout sur $\mathbb{R}$ 
 Posons $f:\mathbb{R}\to\mathbb{R}:x\mapsto x^3$ et $\operatorname{Dom}f=\mathbb{R}$ 
 Soient $x_1, x_2\in\mathbb{R}$ 
-Supposons que $x_1< x_2$ 
+Supposons que $$x_1< x_2$$ 
 On veut montrer que $$f(x_1)<f(x_2)$$
 On a que $$f(x_1)<f(x_2)\iff (x_1)^3<(x_2)^3\iff\sqrt[3]{(x_1)^3}<\sqrt[3]{(x_2)^3}$$ car $f(x)=\sqrt[3]{x}$ est une fonction croissante 
 Donc $x^3$ est bien strictement croissante pour toute $x\in\operatorname{Dom}f=\mathbb{R}$, y compris 0
