@@ -39,4 +39,6 @@ _Calculus : Série_
 ### Si $0\in\operatorname{Dom}f, f(0)=0$ et $\frac{f(x)}{x}\to 1$ quand $x\to 0$, alors $\exists r>0,\forall x\in\ ]0,r[, f(x)>0$ 
 _Réponse_ : Vrai
 \
-Montrons que par l'absurde i.e. supposons que $$0\in\operatorname{Dom}f, f(0)=0\text{ et }\frac{f(x)}{x}\to 1$$ 
+Montrons que par l'absurde i.e. supposons que $$0\in\operatorname{Dom}f, f(0)=0\text{ et }\frac{f(x)}{x}\to 1$$ et supposons que $$\forall r>0,\exists x\in\ ]0,r[, f(x)\le0\quad\color{red}\text{ (*)}$$
+Particularisons $\color{red}\text{(*)}$ avec $r=1$, on sait qu'il existe $$x_1\in\ ]0,1[, f(x)\le0$$ Etape 2, particularisons $\color{red}\text{(*)}$ avec $r=\frac{1}{2}$, on sait qu'il existe $$x_2\in\ \left]0,\frac{1}{2}\right[, f(x)\le0$$ Même processus pour l'étape 3 et ainsi de suite... 
+En général, pour l'étape $n\in\mathbb{N}_0$, on particularise $\color{red}\text{(*)}$ avec $r=\frac{1}{n}$ 
