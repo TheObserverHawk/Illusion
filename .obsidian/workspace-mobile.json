@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md",
+                "file": "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/Q1E.01.24 - Théorème des bornes atteintes et illustration de la nécessité de l'hypothèse de continuité.md",
                 "mode": "preview",
                 "source": false
               }
@@ -184,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md",
+            "file": "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/Q1E.01.24 - Théorème des bornes atteintes et illustration de la nécessité de l'hypothèse de continuité.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md",
+            "file": "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/Q1E.01.24 - Théorème des bornes atteintes et illustration de la nécessité de l'hypothèse de continuité.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -213,7 +213,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md"
+            "file": "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/Q1E.01.24 - Théorème des bornes atteintes et illustration de la nécessité de l'hypothèse de continuité.md"
           }
         }
       },
@@ -242,6 +242,7 @@
   },
   "active": "4f2354f073d2ec23",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11.0 - Formule d'Euler.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
@@ -275,7 +276,6 @@
     "1. Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.1 - Mémoire DDR SDRAM.md",
     "1. Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2 - Module mémoire.md",
     "1. Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.2.1 - SRAM Cypress CY7C199.md",
-    "1. Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.2 - Mémoire DRAM.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331225848.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331223223.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331225905.png",
