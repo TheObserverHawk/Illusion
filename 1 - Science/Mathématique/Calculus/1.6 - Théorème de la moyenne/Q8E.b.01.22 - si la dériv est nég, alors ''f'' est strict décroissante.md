@@ -28,7 +28,7 @@ _Réponse_ : Vrai
 Supposons que $f$ vérifie $∀x ∈ \mathbb{R}, ∂ f(x) < 0$ 
 On doit établir $$\forall x_1,\ x_2 \in \operatorname{Dom}f,\ x_1 < x_2 \Rightarrow f(x_1) > f(x_2)$$
 Soient $x_1,\ x_2 \in \operatorname{Dom}f = \mathbb{R}$ 
-Supposons que $x_1 < x_2$ 
+Supposons que $$x_1 < x_2$$ 
 Montrons que $$f(x_1) > f(x_2)$$
 Comme $f ∈ \mathscr{C}^1 (\mathbb{R};\mathbb{R})$, on a $f$ continue sur $[x_1; x_2]$ et dérivable sur $]x_1;x_2[$ 
 On peut donc appliquer le théorème de la moyenne i.e. 
