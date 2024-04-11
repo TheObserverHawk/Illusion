@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md",
+                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3 - Thm = Théorème de la moyenne.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md",
+            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3 - Thm = Théorème de la moyenne.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md",
+            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3 - Thm = Théorème de la moyenne.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -213,7 +213,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md"
+            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3 - Thm = Théorème de la moyenne.md"
           }
         }
       },
@@ -242,6 +242,7 @@
   },
   "active": "4f2354f073d2ec23",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.3 - Lemme = Point critique.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.2.0 - Déf = Point minimum de la fonction.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.2 - Déf = Point de minimum local.md",
@@ -269,7 +270,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6 - Mémoire à accès aléatoire (RAM).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6.1 - Type de mémoires (fonc ordi).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6.2.2 - Combinaison de plusieurs mémoires.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404171130.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404170511.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404171350.png",
