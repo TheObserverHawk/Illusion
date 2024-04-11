@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.3 - Lemme = Point critique.md",
+                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md",
                 "mode": "preview",
                 "source": false
               }
@@ -184,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.3 - Lemme = Point critique.md",
+            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.3 - Lemme = Point critique.md",
+            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -213,7 +213,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.3 - Lemme = Point critique.md"
+            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md"
           }
         }
       },
@@ -242,8 +242,8 @@
   },
   "active": "4f2354f073d2ec23",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.2.0 - Déf = Point minimum de la fonction.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.3 - Lemme = Point critique.md",
+    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.2.0 - Déf = Point minimum de la fonction.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.2 - Déf = Point de minimum local.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.1 - Déf = Point de maximum local.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.1.0 - Déf = Point maximum de la fonction.md",
