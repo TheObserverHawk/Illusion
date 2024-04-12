@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
+                "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/1.8.1 - Formule = Développement de Taylor d'ordre ''n'' de ''f''.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
+                "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/1.8.1 - Formule = Développement de Taylor d'ordre ''n'' de ''f''.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
+                "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/1.8.1 - Formule = Développement de Taylor d'ordre ''n'' de ''f''.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md"
+                "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/1.8.1 - Formule = Développement de Taylor d'ordre ''n'' de ''f''.md"
               }
             }
           },
@@ -196,6 +196,11 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.3 - Déf = (Classe de fonctions dérivables).md",
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.2 - Déf = Dériv de fonc d'ordres supérieures.md",
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1.2 - Déf =  (Fonc indéfiniment dérivable).md",
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1.1 - Dérivée seconde.md",
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q10E.a.01.22 - fonc inverse est strict décroissante car sa dériv est strict négatif.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q9E.b.06.22 - Démonstration de la croissance stricte de la fonction tangente.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.c.01.22 - si ''f'' est strict décroissante, alors sa dériv est strict nég.md",
@@ -217,11 +222,6 @@
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.12 - Prop Prop 9 = Dériv fonc log népériens et expo de base ''e''.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11.3.1 - Dérivée des fonctions hyperboliques.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11.3 - Fonction hyperbolique.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11.2 - Fonction impaire.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11.1 - Fonction paire.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11.0.2 - Corollaire de la formule d'Euler.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11.0.1 - Identité d'Euler.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11 - Prop Prop 8 = Dériv des fonct trigonométriques.md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404233629.png",
