@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md",
+                "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
                 "mode": "preview",
                 "source": false
               }
@@ -184,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md",
+            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md",
+            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -213,7 +213,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md"
+            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md"
           }
         }
       },
@@ -242,6 +242,10 @@
   },
   "active": "4f2354f073d2ec23",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1.2 - Série telescopique.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
+    "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/1.8.4 - Prop = (Règle du DT d'une fonc composée).md",
+    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.1 - Déf = Intérieur d'un intervalle.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3 - Thm = Théorème de la moyenne.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.8 - Prop Prop 5 = Dériv fonc de puissance.md",
@@ -264,10 +268,6 @@
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.3 - Prop Prop 1 = Si ''f'' dériv en ''a'', alors ''f'' cont en ''a''.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.2 - Déf = Dérivabilité d'une fonc sur un ensemble.md",
     "1 - Science/Mathématique/Calcul tensoriel/1.0 - Notion d’espace/1.0.1 - Espace topologique.md",
-    "0 - Dossier Template/Note Biologie.md",
-    "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11.0 - Formule d'Euler.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404171130.png",
