@@ -27,6 +27,7 @@ _Math élémentaire : Logique_
 ## Enoncé : Supposons que $f ∈ \mathscr{C}^1 (\mathbb{R};\mathbb{R})$. Pour chacune des affirmations suivantes, cochez la case adéquate selon que vous pensez qu’elle est vraie ou fausse. Justifiez vos réponses par une preuve ou un contre-exemple.
 ### Question 8.$a$ : Si $f$ est strictement décroissante, alors $\forall x \in \mathbb{R},\ \partial f(x) < 0$ 
 _Réponse_ : Faux
+\
 Donnons un contre-exemple, c’est-à-dire une fonction $f ∈ \mathscr{C}^1 (\mathbb{R};\mathbb{R})$ qui soit strictement décroissante mais qui ne vérifie pas $$∀x ∈ \mathbb{R}, ∂ f(x) < 0$$
 \
 Autrement dit, on veut une fonction strictement décroissante $f ∈ \mathscr{C}^1 (\mathbb{R};\mathbb{R})$ qui vérifie la négation de la thèse, à savoir $$∃x ∈ \mathbb{R}, ∂ f(x) ⩾0$$ 

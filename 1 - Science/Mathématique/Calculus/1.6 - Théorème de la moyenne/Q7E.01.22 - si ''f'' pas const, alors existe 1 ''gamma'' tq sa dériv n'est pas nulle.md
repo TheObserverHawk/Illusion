@@ -27,8 +27,7 @@ Argumentons par contradiction et supposons au contraire que la thèse n’est pa
 1. $f$ n'est pas constante et $∀γ ∈ \mathbb{R}, ∂ f(γ) = 0$. 
 
 On a vu au cours que cela impliquait que $f$ est constante, ce qui donne la contradiction recherchée. 
-Montrons cette dernière implication : soient $x_1 \neq x_2$ deux réels arbitraires et prouvons que $f(x_1) = f(x_2$). 
-Puisque $f ∈ \mathscr{C}^1 (\mathbb{R};\mathbb{R})$, elle est en particulier continue sur $[x_1, x_2]$ et dérivable sur $]x_1, x_2[$. 
+Montrons cette dernière implication : soient $x_1 \neq x_2$ deux réels arbitraires et prouvons que $$f(x_1) = f(x_2)$$ Puisque $f ∈ \mathscr{C}^1 (\mathbb{R};\mathbb{R})$, elle est en particulier continue sur $[x_1, x_2]$ et dérivable sur $]x_1, x_2[$. 
 On peut donc appliquer le théorème de la moyenne i.e. 
 
 ---
@@ -40,5 +39,4 @@ alors il existe $\xi \in\ ]a;b[$ tel que $$\begin{align*}f(b)-f(a) &=\partial f(
 
 ---
 
-et on obtient l’existence d’un $ξ ∈\ ]x_1, x_2[$ tel que $$f(x_2)-f(x_1)=\partial f(\xi)(x_2-x_1)$$
-Comme la dérivée est nulle partout, on a en particulier que $∂ f(ξ ) = 0$ et donc que $f(x_2)− f(x_1) = 0$, ce qu’on voulait démontrer
+et on obtient l’existence d’un $ξ ∈\ ]x_1, x_2[$ tel que $$f(x_2)-f(x_1)=\partial f(\xi)(x_2-x_1)$$Comme la dérivée est nulle partout, on a en particulier que $∂ f(ξ ) = 0$ et donc que $$f(x_2)− f(x_1) = 0$$, ce qu’on voulait démontrer
