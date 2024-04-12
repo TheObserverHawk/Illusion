@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
-                "mode": "preview",
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6 - Thm = Critère de d'Alembert.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6 - Thm = Critère de d'Alembert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6 - Thm = Critère de d'Alembert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md"
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6 - Thm = Critère de d'Alembert.md"
               }
             }
           },
@@ -196,6 +196,9 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.5 - Thm = Convergence dominée d'une série.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.4 - Déf = Série absolument convergente.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
     "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.2.2 - Prop = Cgce de série frac{1}{''n'' expo ''alpha''}.md",
     "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.2.1 - Prop = Convergence de la série ''a'' expo ''n''.md",
     "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1.1 - Série de puissance.md",
@@ -219,9 +222,6 @@
     "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q10E.a.01.22 - fonc inverse est strict décroissante car sa dériv est strict négatif.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q9E.b.06.22 - Démonstration de la croissance stricte de la fonction tangente.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.c.01.22 - si ''f'' est strict décroissante, alors sa dériv est strict nég.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.b.01.22 - si la dériv est nég, alors ''f'' est strict décroissante.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.a.01.22 - si ''f'' est strict décroissante, alors sa dériv est négative.md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404233629.png",
