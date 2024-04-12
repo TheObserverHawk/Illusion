@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6 - Thm = Critère de d'Alembert.md",
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.7 - Thm = Critère de Cauchy.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6 - Thm = Critère de d'Alembert.md",
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.7 - Thm = Critère de Cauchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6 - Thm = Critère de d'Alembert.md",
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.7 - Thm = Critère de Cauchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6 - Thm = Critère de d'Alembert.md"
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.7 - Thm = Critère de Cauchy.md"
               }
             }
           },
@@ -196,6 +196,11 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6.1 - Limite supérieure.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6.2 - Limite inférieure.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.6 - Thm = Critère de d'Alembert.md",
+    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.10.1 - Supremum.md",
     "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.5 - Thm = Convergence dominée d'une série.md",
     "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.4 - Déf = Série absolument convergente.md",
     "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
@@ -217,11 +222,6 @@
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.14 - Lemme = (Nullité du Petit-o).md",
     "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.3 - Déf = (Classe de fonctions dérivables).md",
     "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.2 - Déf = Dériv de fonc d'ordres supérieures.md",
-    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1.2 - Déf =  (Fonc indéfiniment dérivable).md",
-    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1.1 - Dérivée seconde.md",
-    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q10E.a.01.22 - fonc inverse est strict décroissante car sa dériv est strict négatif.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q9E.b.06.22 - Démonstration de la croissance stricte de la fonction tangente.md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404233629.png",
