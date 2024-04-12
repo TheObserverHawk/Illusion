@@ -109,12 +109,8 @@
             "id": "4f2354f073d2ec23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -184,7 +180,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,7 +196,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -212,9 +206,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md"
-          }
+          "state": {}
         }
       },
       {
@@ -242,6 +234,10 @@
   },
   "active": "4f2354f073d2ec23",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.6 - Thm = Théorème des bornes atteintes.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.5 - Thm = Convergence dominée d'une série.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.4 - Déf = Série absolument convergente.md",
+    "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
     "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1.2 - Série telescopique.md",
     "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
     "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/1.8.4 - Prop = (Règle du DT d'une fonc composée).md",
@@ -264,10 +260,6 @@
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.2 - Maximal.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.6.4 - Exemple = Dérivée de Arctan(x).md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.6.5 - Exemple = Dérivée de l'Expo de base ''e''.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.4 - Prop Prop 2 (RDC) = 2 fonc dériv en un point ''a''.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.3 - Prop Prop 1 = Si ''f'' dériv en ''a'', alors ''f'' cont en ''a''.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.2 - Déf = Dérivabilité d'une fonc sur un ensemble.md",
-    "1 - Science/Mathématique/Calcul tensoriel/1.0 - Notion d’espace/1.0.1 - Espace topologique.md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404171130.png",
