@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1 - Déf = Série (Calculus).md",
-                "mode": "source",
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1 - Déf = Série (Calculus).md",
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1 - Déf = Série (Calculus).md",
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1 - Déf = Série (Calculus).md"
+                "file": "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md"
               }
             }
           },
@@ -196,6 +196,12 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.2.2 - Prop = Cgce de série frac{1}{''n'' expo ''alpha''}.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.2.1 - Prop = Convergence de la série ''a'' expo ''n''.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1.1 - Série de puissance.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.2 - Déf = Convergence d'une série.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1.2 - Série telescopique.md",
+    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1 - Déf = Série (Calculus).md",
     "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
     "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/1.8.4 - Prop = (Règle du DT d'une fonc composée).md",
     "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/1.8.3 - Thm = Formule du reste.md",
@@ -216,12 +222,6 @@
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.c.01.22 - si ''f'' est strict décroissante, alors sa dériv est strict nég.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.b.01.22 - si la dériv est nég, alors ''f'' est strict décroissante.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.a.01.22 - si ''f'' est strict décroissante, alors sa dériv est négative.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q7E.01.22 - si ''f'' pas const, alors existe 1 ''gamma'' tq sa dériv n'est pas nulle.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.5 - Prop = Règle de l'Hospital.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.4 - Thm = Théorème de la moyenne de Cauchy.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.4 - Prop = Si ''f'' décroissante, alors dériv de ''f'' sur ''I'' est négatif.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.3 - Prop = Si ''f'' croissante, alors dériv de ''f'' sur ''I'' est positif.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404233629.png",
