@@ -48,6 +48,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.1 - Sous-espace vectoriel.md",
+                "file": "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.1 - Sous-espace vectoriel.md",
+                "file": "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.1 - Sous-espace vectoriel.md"
+                "file": "0 - Dossier Template/Note fonctionnement des ordinateurs.md"
               }
             }
           },
@@ -194,8 +195,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e827bc4d68f36b60",
+  "active": "d7a831904ad17549",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.1 - Sous-espace vectoriel.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.10 - Coordonnées (Algèbre linéaire).md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.1 - Prop = Suite bornée.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.1.1 - Déf = Ensemble borné.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.2 - Déf = Croissance d'une suite.md",
@@ -220,8 +223,6 @@
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.10.1 - Supremum.md",
     "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.5 - Thm = Convergence dominée d'une série.md",
-    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.4 - Déf = Série absolument convergente.md",
-    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404233629.png",
