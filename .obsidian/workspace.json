@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.-4 - Lamarckisme.md",
-                "mode": "source",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.4 - Physiologie.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -50,17 +50,18 @@
           {
             "id": "e676a5e44bf78078",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Biologie/Biologie.md",
-                "mode": "source",
+                "file": "0 - Dossier Template/Note Biologie.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Biologie/Biologie.md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.4 - Physiologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Biologie/Biologie.md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.4 - Physiologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Biologie/Biologie.md"
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.4 - Physiologie.md"
               }
             }
           },
@@ -207,16 +208,22 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e676a5e44bf78078",
+  "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.2 - Neurophysiologie.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.2 - Écologie.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.1 - Botanique.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.100 - Zoogéographie.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-4.1 - Néo-lamarckisme.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.-4 - Lamarckisme.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.-5 - Orthogenèse.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-9 - Saltationnisme.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-5 - Epigénèse.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-4 - Théorie chromosomique de l'hérédité.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-10 - Néo-lamarckisme.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.200 - Théorie synthétique de l'évolution (Néo-darwinisme).md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-6 - Saltationnisme.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.100 - Epigénèse.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.100 - Théorie chromosomique de l'hérédité.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.-3 - Transformisme (Biologie).md",
+    "0 - Dossier Template/Note Biologie.md",
+    "1 - Science/Biologie/Biologie.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.200 - Théorie synthétique de l'évolution (Néo-darwinisme).md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.111 - Génétique évolutive (Evo-devo).md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.-1 - Théorie de la génération spontanée.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.-2 - Finalisme (Biologie).md",
@@ -228,13 +235,7 @@
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.11 - Sélection naturelle.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.10.1 - Fécondation.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.10 - Embryologie.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.9 - Physiologie.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.8 - Génétique.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.7 - Paléontologie.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.0 - Zoologie.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.1 - Botanique.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.3.1 - Famille génératrice.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.3 - Espace vectoriel engendré.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.4 - Physiologie.md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404233629.png",
