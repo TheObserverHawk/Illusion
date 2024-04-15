@@ -106,11 +106,15 @@
             }
           },
           {
-            "id": "4f2354f073d2ec23",
+            "id": "aa39b4e32c5049a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.2 - Division euclidienne.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -180,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0 - Dossier Template/Note Biologie.md",
+            "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.2 - Division euclidienne.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,7 +201,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0 - Dossier Template/Note Biologie.md",
+            "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.2 - Division euclidienne.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -209,7 +213,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0 - Dossier Template/Note Biologie.md"
+            "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.2 - Division euclidienne.md"
           }
         }
       },
@@ -236,34 +240,35 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4f2354f073d2ec23",
+  "active": "aa39b4e32c5049a3",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.6 - Thm = Théorème des bornes atteintes.md",
-    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.5 - Thm = Convergence dominée d'une série.md",
-    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.4 - Déf = Série absolument convergente.md",
-    "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
-    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.1.2 - Série telescopique.md",
-    "1 - Science/Mathématique/Calculus/1.9 - Séries/1.9.3 - Déf = Divergence d'une série.md",
-    "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/1.8.4 - Prop = (Règle du DT d'une fonc composée).md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.1 - Déf = Intérieur d'un intervalle.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3 - Thm = Théorème de la moyenne.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.8 - Prop Prop 5 = Dériv fonc de puissance.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.5 - Prop Prop 3 = Dériv des fonc composées.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.3 - Lemme = Point critique.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.2.0 - Déf = Point minimum de la fonction.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.2 - Déf = Point de minimum local.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.1 - Déf = Point de maximum local.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.1.0 - Déf = Point maximum de la fonction.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.10.1 - Supremum.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.10.2 - Infimum.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.7 - Lemme = Théorème de la Bijection continue.md",
-    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.1 - Maximum.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.2 - Maximal.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.6.4 - Exemple = Dérivée de Arctan(x).md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.6.5 - Exemple = Dérivée de l'Expo de base ''e''.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.1 - Division.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.2 - Adressage de données multi-octets (Endianness).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1.1 - Relation Alignement en mémoire & Langage de programmation.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4 - Format d'adressage de la mémoire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
+    "0 - Dossier Template/Note Examen.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique 2/4.6.6.4 - Format d'adressage de la mémoire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.5 - Multiplexeur binaire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5.2 - Machine à état de Mealy.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5.1 - Machine à état de Moore.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.2 - Bus (fonc ordi).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5 - Logique combinatoire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.8.1 - Rotation à droite & Rotation à gauche.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.3 - Somme canonique & Produit canonique.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.1 - Circuit logique.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4 - Registre.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4.0.1 - Haute-impédance (High-Z).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.9 - Unité arithmétique et logique (ALU).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4.1 - Banque de registres (Circuit logique).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.2.1 - SRAM Cypress CY7C199.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6 - Mémoire à accès aléatoire (RAM).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.1 - Type de mémoires (fonc ordi).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5.1.1 - Contrôleur de feux de signalisation.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1.2 - Padding.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.2 - Transistor.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404171130.png",
@@ -282,7 +287,6 @@
     "Physique/2 - Electromagnétisme/2.2 - Champ électrique",
     "Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss",
     "Physique/2 - Electromagnétisme/2.4 - Potentiel électrique",
-    "Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu",
-    "Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique"
+    "Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu"
   ]
 }
