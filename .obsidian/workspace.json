@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Thm = (Famille libre d'application linéaire).md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.1.4 - Déterminant (Matrice).md",
                 "mode": "preview",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Thm = (Famille libre d'application linéaire).md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.1.4 - Déterminant (Matrice).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Thm = (Famille libre d'application linéaire).md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.1.4 - Déterminant (Matrice).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Thm = (Famille libre d'application linéaire).md"
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.1.4 - Déterminant (Matrice).md"
               }
             }
           },
@@ -210,6 +210,13 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.1.3 - Opérations sur les matrices.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.1.2 - Matrice inversible.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.1.1 - Matrice identité.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.1 - Ensemble de matrices.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.21 - Théorème de Rang.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.20 - Prop = (Relation injectivité-Noyau).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Thm = (Famille libre d'application linéaire).md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.18 - Prop = (Propriétés d'application linéaire).md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.17 - Image d'une application linéaire.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16.1 - Application linéaire d'une fonction composée.md",
@@ -229,13 +236,6 @@
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.4.1 - Dépendance linéaire.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.9 - Composition d'une relation avec elle-même.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.4 - Partition d'un ensemble.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.4.1 - Prop = Infinité de nombres premiers.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.4 - Nombre premier.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.3 - Congruence.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.11 - Sélection naturelle.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4 - Format d'adressage de la mémoire.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.3 - Cachalot (Physeter macrocephalus).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.2 - Calmar colossal (Mesonychoteuthis hamiltoni).md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404233629.png",
