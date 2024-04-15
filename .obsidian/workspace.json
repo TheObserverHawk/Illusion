@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16.1 - Application linéaire d'une fonction composée.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Thm = (Famille libre d'application linéaire).md",
                 "mode": "preview",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16.1 - Application linéaire d'une fonction composée.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Thm = (Famille libre d'application linéaire).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16.1 - Application linéaire d'une fonction composée.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Thm = (Famille libre d'application linéaire).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16.1 - Application linéaire d'une fonction composée.md"
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Thm = (Famille libre d'application linéaire).md"
               }
             }
           },
@@ -210,6 +210,9 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.18 - Prop = (Propriétés d'application linéaire).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.17 - Image d'une application linéaire.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16.1 - Application linéaire d'une fonction composée.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16 - Noyau d'une application linéaire.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.15 - Application linéaire.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.14 - Principe de tiroirs (Pigeon Hole Principle).md",
@@ -233,9 +236,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4 - Format d'adressage de la mémoire.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.3 - Cachalot (Physeter macrocephalus).md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.2 - Calmar colossal (Mesonychoteuthis hamiltoni).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.1 - Calmar géant (Architeuthis dux).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.100 - Radiolaire.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.0 - Zoologie.md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404233629.png",
