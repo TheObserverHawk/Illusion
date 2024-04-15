@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.2 - Division euclidienne.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
                 "mode": "preview",
                 "source": false
               }
@@ -184,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.2 - Division euclidienne.md",
+            "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.2 - Division euclidienne.md",
+            "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -213,7 +213,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.2 - Division euclidienne.md"
+            "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md"
           }
         }
       },
@@ -242,6 +242,10 @@
   },
   "active": "aa39b4e32c5049a3",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.4 - Prop = (App liné de composé de matrices).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
+    "0 - Dossier Template/Dossier IMage/IMG_5265.jpeg",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.2 - Division euclidienne.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.1 - Division.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.2 - Adressage de données multi-octets (Endianness).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1.1 - Relation Alignement en mémoire & Langage de programmation.md",
@@ -265,9 +269,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6 - Mémoire à accès aléatoire (RAM).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.1 - Type de mémoires (fonc ordi).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5.1.1 - Contrôleur de feux de signalisation.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1.2 - Padding.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.2 - Transistor.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
@@ -279,7 +280,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331225848.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240331223223.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240331225905.png",
     "1. Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires",
     "1. Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation",
     "1. Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture",
