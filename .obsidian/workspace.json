@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
-                "mode": "source",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.21 -.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -55,6 +55,20 @@
               "type": "markdown",
               "state": {
                 "file": "0 - Dossier Template/Note Biologie.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3053833b7c022eb1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Dossier Template/Note.md",
                 "mode": "preview",
                 "source": false
               },
@@ -136,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.21 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.21 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md"
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.21 -.md"
               }
             }
           },
@@ -210,9 +224,16 @@
   },
   "active": "e827bc4d68f36b60",
   "lastOpenFiles": [
+    "0 - Dossier Template/Note.md",
+    "0 - Dossier Template/Note Biologie.md",
+    "0 - Dossier Template/Note Examen.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.21 -.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.18 - Prop = (Propriétés d'application linéaire).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.17.1 - Prop = (Relation surjective-image).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16.1 - Prop = (Relation injectivité-Noyau).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.4 - Prop = (App liné de composé de matrices).md",
     "0 - Dossier Template/Dossier IMage/IMG_5265.jpeg",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.2 - Application linéaire associée à une matrice.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.1.7 - Méthode de la matrice compagnon.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.1.6 - Méthode des cofacteurs.md",
@@ -229,13 +250,7 @@
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.21 - Théorème de Rang.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.20 - Prop = (Relation injectivité-Noyau).md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Thm = (Famille libre d'application linéaire).md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.18 - Prop = (Propriétés d'application linéaire).md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.17 - Image d'une application linéaire.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16.1 - Application linéaire d'une fonction composée.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16 - Noyau d'une application linéaire.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.15 - Application linéaire.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.14 - Principe de tiroirs (Pigeon Hole Principle).md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.10 - Coordonnées (Algèbre linéaire).md",
     "0 - Dossier Template/Dossier IMage/IMG_5060.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5059.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240404233629.png",
