@@ -11,12 +11,8 @@
             "id": "96295428aebba162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.4.1 - Puissance maximale d'une pile réelle dans un circuit fermé.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -32,7 +28,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.4 - Travail extérieur d'un dipôle ds un champ électrique uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.4 - Travail extérieur d'un dipôle ds un champ électrique uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.4 - Travail extérieur d'un dipôle ds un champ électrique uniforme.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +152,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcc51d9dd26b3f5b",
+  "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.4 - Travail extérieur d'un dipôle ds un champ électrique uniforme.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.4.1 - Puissance maximale d'une pile réelle dans un circuit fermé.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/9 - Complexité/9.1.5 - Complexité.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/7 - Listes/7.2.7 - Méthode 'isupper'.md",
@@ -198,7 +190,6 @@
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.13 - Déf = Petit-o.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.5 - Déf = Sous-suite.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.6 - Déf = Sous-suite exhaustive.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.5 - Prop Prop 3 = Dériv des fonc composées.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1 - Compresser & Décompression d'un fichier",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.3 - Système à ''n'' équations linéaires à ''p'' inconnues",
     "1 - Science/Mathématique/Math élémentaire/1 - Fonction et Inéquation/1.0 - Inégalité/1.1 - Ordre sur R + intervalles",
