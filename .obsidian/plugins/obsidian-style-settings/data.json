@@ -2,5 +2,16 @@
   "maple-basic@@color-use-custom": false,
   "maple-workspace@@titlebar-colorful": false,
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
-  "blue-topaz-theme@@background-settings-workplace-background-image": true
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default",
+  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@view-button-front": false,
+  "blue-topaz-theme@@tab-title-bar-position": false,
+  "blue-topaz-theme@@font-family-change-to-default": true,
+  "blue-topaz-theme@@print-h1-color@@dark": "#FF0000",
+  "blue-topaz-theme@@header-1-background": true,
+  "blue-topaz-theme@@h1-text-align-settings": "h1-text-align-center",
+  "blue-topaz-theme@@print-h2-color@@dark": "#FF9B00",
+  "blue-topaz-theme@@h2-toggle-underline": true,
+  "blue-topaz-theme@@h2-text-align-settings": "h2-text-align-center"
 }
