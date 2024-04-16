@@ -1,4 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Ultra Lobster"
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "theme",
+    "S - Images Adjustments",
+    "S - External Link Icons",
+    "S - Folder Styles Rewritten",
+    "S - Encoded Fonts"
+  ]
 }
