@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": true,
@@ -8,31 +8,38 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#Math",
+      "query": "#tag:Math",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "tag:#Biologie",
+      "query": "tag:#Informatique",
+      "color": {
+        "a": 1,
+        "rgb": 6083798
+      }
+    },
+    {
+      "query": "tag:#Physique ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#Biologie ",
       "color": {
         "a": 1,
         "rgb": 16774912
       }
     },
     {
-      "query": "tag:#Informatique",
+      "query": "tag:#Chimie ",
       "color": {
         "a": 1,
-        "rgb": 5424352
-      }
-    },
-    {
-      "query": "tag:#Physique",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 6084269
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.14750434034089424,
-  "close": true
+  "scale": 0.42967809143425195,
+  "close": false
 }

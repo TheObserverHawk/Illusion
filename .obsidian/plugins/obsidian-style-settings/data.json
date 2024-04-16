@@ -1,21 +1,6 @@
 {
-  "maple-workspace@@titlebar-colorful": true,
   "maple-basic@@color-use-custom": false,
-  "id@@colorblind_protan-deutan": false,
-  "id@@colorblind_tritan": false,
-  "maple-workspace@@explorer-title-wrap": false,
-  "maple-basic@@setting-accent-h-dark": 207,
-  "image-adjustments@@clear-hr": true,
-  "image-adjustments@@clear-headings": true,
-  "maple-workspace@@status-bar-style-center": false,
-  "maple-workspace@@search-internal-expand-on-focus": false,
-  "maple-workspace@@scrollbar-hide": false,
-  "maple-editor@@font-fix-latex": true,
-  "maple-editor@@font-latex-text": true,
-  "maple-editor@@heading-level-enable": true,
-  "maple-editor@@heading-level-fix": true,
-  "maple-editor@@heading-h1-underline": false,
-  "folder-styles@@file-explorer-flat": true,
-  "checkbox@@check-strike": false,
-  "checkbox@@check-text": false
+  "maple-workspace@@titlebar-colorful": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true
 }

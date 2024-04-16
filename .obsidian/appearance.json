@@ -1,20 +1,4 @@
 {
   "accentColor": "",
-  "cssTheme": "Ultra Lobster",
-  "enabledCssSnippets": [
-    "theme",
-    "S - Alt Color Scheme Template",
-    "S - Callouts",
-    "S - Dataview Cards",
-    "S - Checkboxes",
-    "S - Embed Adjustments",
-    "S - Encoded Fonts",
-    "S - Encoded Icons",
-    "S - External Link Icons",
-    "S - Folder Styles Rewritten",
-    "S - Images Adjustments"
-  ],
-  "baseFontSize": 20,
-  "theme": "obsidian",
-  "nativeMenus": true
+  "cssTheme": "Blue Topaz"
 }
