@@ -57,7 +57,5 @@
   "anuppuccin-theme-settings@@anp-h1-divider": true,
   "anuppuccin-theme-settings@@anp-h2-divider": true,
   "anuppuccin-theme-settings@@anp-h3-divider": false,
-  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
-  "ulu-theme-settings@@ulu-subtheme-selection": "ulu-gummy",
-  "ulu-theme-settings@@ulu-cards-border": false
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true
 }
