@@ -25,7 +25,7 @@
       "query": "tag:#Physique ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 10092288
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.12102024442731879,
+  "scale": 0.051999747650436995,
   "close": false
 }
