@@ -13,13 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Algo et progra 1 (Python)/9 - Complexité/9.1.5 - Complexité.md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.4.1 - Puissance maximale d'une pile réelle dans un circuit fermé.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcc51d9dd26b3f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.4 - Travail extérieur d'un dipôle ds un champ électrique uniforme.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 422.5
   },
   "right": {
     "id": "17ad7af312f7ca8a",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Algo et progra 1 (Python)/9 - Complexité/9.1.5 - Complexité.md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.4 - Travail extérieur d'un dipôle ds un champ électrique uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Algo et progra 1 (Python)/9 - Complexité/9.1.5 - Complexité.md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.4 - Travail extérieur d'un dipôle ds un champ électrique uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Algo et progra 1 (Python)/9 - Complexité/9.1.5 - Complexité.md"
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.4 - Travail extérieur d'un dipôle ds un champ électrique uniforme.md"
               }
             }
           }
@@ -147,8 +161,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96295428aebba162",
+  "active": "fcc51d9dd26b3f5b",
   "lastOpenFiles": [
+    "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.4.1 - Puissance maximale d'une pile réelle dans un circuit fermé.md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/9 - Complexité/9.1.5 - Complexité.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/7 - Listes/7.2.7 - Méthode 'isupper'.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/6 - Itérations et Chaînes de caractères/6.3.3 - Opérateur ''in''.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/4 - Instruction conditionnelles/4.1.6 - Evaluation lazy.md",
@@ -180,11 +196,9 @@
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1 - Déf = Dérivée d'une fonction en ''a''.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.7 - Déf = Convergence au sens large d'une suite.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.13 - Déf = Petit-o.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/9 - Complexité/9.1.5 - Complexité.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.5 - Déf = Sous-suite.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.6 - Déf = Sous-suite exhaustive.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.5 - Prop Prop 3 = Dériv des fonc composées.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.4 - Flux d'une symétrie sphérique.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1 - Compresser & Décompression d'un fichier",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.3 - Système à ''n'' équations linéaires à ''p'' inconnues",
     "1 - Science/Mathématique/Math élémentaire/1 - Fonction et Inéquation/1.0 - Inégalité/1.1 - Ordre sur R + intervalles",

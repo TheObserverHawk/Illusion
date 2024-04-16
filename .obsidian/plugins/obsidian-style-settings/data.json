@@ -13,5 +13,18 @@
   "blue-topaz-theme@@h1-text-align-settings": "h1-text-align-center",
   "blue-topaz-theme@@print-h2-color@@dark": "#FF9B00",
   "blue-topaz-theme@@h2-toggle-underline": true,
-  "blue-topaz-theme@@h2-text-align-settings": "h2-text-align-center"
+  "blue-topaz-theme@@h2-text-align-settings": "h2-text-align-center",
+  "blue-topaz-theme@@print-h3-color@@dark": "#67FF00",
+  "blue-topaz-theme@@h3-text-align-settings": "h3-text-align-center",
+  "blue-topaz-theme@@print-h4-color@@dark": "#00C1FF",
+  "blue-topaz-theme@@h4-text-align-settings": "h4-text-align-center",
+  "blue-topaz-theme@@print-h5-color@@dark": "#6500FF",
+  "blue-topaz-theme@@h5-text-align-settings": "h5-text-align-center",
+  "blue-topaz-theme@@print-h6-color@@dark": "#FF7070",
+  "blue-topaz-theme@@h6-text-align-settings": "h6-text-align-center",
+  "blue-topaz-theme@@link-underline-internal": true,
+  "blue-topaz-theme@@colorful-link-animation": true,
+  "blue-topaz-theme@@internal-link-color@@dark": "#00D6FF",
+  "blue-topaz-theme@@remove-external-link-icon": true,
+  "blue-topaz-theme@@retain-header-color": true
 }
