@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.3.1 - Cladogramme.md",
-                "mode": "source",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.4 - Monophylétique.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.3.1 - Cladogramme.md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.4 - Monophylétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.3.1 - Cladogramme.md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.4 - Monophylétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.3.1 - Cladogramme.md"
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.4 - Monophylétique.md"
               }
             }
           }
@@ -164,6 +164,9 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240417235552.png",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.3.1 - Cladogramme.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.4 - Monophylétique.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.1 - Arbre phylogénétique.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.2 - Anagenèse.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.3 - Cladistique.md",
@@ -190,10 +193,7 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240330163830.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417231303.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417231401.png",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.4 - Génome.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417230921.png",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.3 - Chromosome.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.2 - Chromatine.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417230521.png",
     "0 - Dossier Template/Dossier IMage/IMG_4004.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_3882.jpeg",
