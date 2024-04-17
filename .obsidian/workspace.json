@@ -11,12 +11,8 @@
             "id": "96295428aebba162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.4 - Effet fondateur.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.4 - Effet fondateur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.4 - Effet fondateur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.4 - Effet fondateur.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,9 +156,15 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.5 - Génétique évolutive (Evo-devo).md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.15.1 - Zoogéographie.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.15 - Biogéographie.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.52 - Théorie des équilibres ponctuels.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.7.0 - Epigénèse.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.200 - Théorie synthétique de l'évolution (Néo-darwinisme).md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.4.1 - Goulot d'étranglement (Biologie).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.14.2 - Nématode.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.4 - Effet fondateur.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.14.2 - Nématode.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.-4.1 - Néo-lamarckisme.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.-4 - Lamarckisme (Biologie).md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.-5 - Orthogenèse (Biologie).md",
@@ -185,12 +183,6 @@
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.3 - Cladistique.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.0 - Homologie (Biologie).md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.14.1 - Radiolaire.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.14 - Biologie marine.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.2 - Entomologie.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.8 - Biologie évolutive.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.36 - Biotique & Abiotique.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.1.1 - Allèle.md",
-    "0 - Dossier Template/Note Biologie.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240330163830.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417231303.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417231401.png",
