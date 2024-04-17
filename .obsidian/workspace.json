@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.1 - Gène.md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.26 - Chromatine.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.1 - Gène.md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.26 - Chromatine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.1 - Gène.md",
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.26 - Chromatine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.1 - Gène.md"
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.26 - Chromatine.md"
               }
             }
           }
@@ -164,6 +164,8 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.46 - Monophylétique.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.1 - Gène.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.6 - Génétique.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.5 - Paléontologie.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.100 - Zoogéographie.md",
@@ -172,7 +174,6 @@
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.2.1 - Protiste.md",
     "0 - Dossier Template/Note Biologie.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.15.1 - Radiolaire.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.1 - Gène.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.26 - Chromatine.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.3 - Cachalot (Physeter macrocephalus).md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.0.2 - Calmar colossal (Mesonychoteuthis hamiltoni).md",
@@ -189,7 +190,6 @@
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.57 - Génome.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.47 - Phylogénie moléculaire.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.12 - Biologie du développement.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.11 - Biologie de la conservation.md",
     "0 - Dossier Template/Dossier IMage/IMG_4004.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_3882.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5265.jpeg",
