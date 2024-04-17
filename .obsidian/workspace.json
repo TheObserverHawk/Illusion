@@ -11,8 +11,12 @@
             "id": "96295428aebba162",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.25.2 - Méiose.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.25.2 - Méiose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.25.2 - Méiose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 - Science/Biologie/0.1.0 - Introduction/1.0.25.2 - Méiose.md"
+              }
             }
           }
         ]
@@ -156,8 +164,19 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
-    "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.10 - Potentiomètre.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.10.1 - Mitose.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.10 - Biologie cellulaire.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.9 - Biologie moléculaire.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.6.1 - Gène.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.13 - Phylogénie.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.1 - Sélection naturelle.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.8 - Biologie évolutive.md",
     "0 - Dossier Template/Note Biologie.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.7.1 - Fécondation.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.7 - Embryologie.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.6 - Génétique.md",
+    "1 - Science/Biologie/0.1.0 - Introduction/1.0.5 - Paléontologie.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.10 - Potentiomètre.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.1 - Décodage d'instruction de type-R (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.6 - Préservation du contenu des registres (MIPS).md",
     "1.0.4 - Zoologie.md",
@@ -171,17 +190,6 @@
     "1 - Science/Biologie/0.1.3 - Thèmes unificateur de la biologie/1.3.3 - Relation entre structure et fonction est à la base des systèmes vivants.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/6 - Itérations et Chaînes de caractères/6.1.2 - Incrémenter & Décrémenter.md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.2.4.1 - Types primitifs (Java).md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/13 - Programmation Orientée Objet/13.2.4 - Méthode '__radd__'.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.4.1 - Puissance maximale d'une pile réelle dans un circuit fermé.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/9 - Complexité/9.1.5 - Complexité.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/7 - Listes/7.2.7 - Méthode 'isupper'.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/6 - Itérations et Chaînes de caractères/6.3.3 - Opérateur ''in''.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/4 - Instruction conditionnelles/4.1.6 - Evaluation lazy.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/2 - Types, variables et expressions/2.3.1 - Variable (python).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-4.1 - Néo-lamarckisme.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/9 - Complexité/9.1.5.1 - Complexité des opérations sur les listes.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-5 - Orthogenèse.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.6 - Dipôle ds un champ électrique non uniforme.md",
     "0 - Dossier Template/Dossier IMage/IMG_4004.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_3882.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5265.jpeg",
