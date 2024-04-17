@@ -11,8 +11,12 @@
             "id": "96295428aebba162",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.10 - Potentiomètre.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.10 - Potentiomètre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.10 - Potentiomètre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.10 - Potentiomètre.md"
+              }
             }
           }
         ]
