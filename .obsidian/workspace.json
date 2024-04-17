@@ -11,12 +11,8 @@
             "id": "96295428aebba162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Science/Informatique/Algo et progra 1 (Python)/7 - Listes/7.2.16 - Méthode 'join'.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -34,7 +30,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Dossier Template/Note Biologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Dossier Template/Note Biologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0 - Dossier Template/Note Biologie.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,8 +154,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcc51d9dd26b3f5b",
+  "active": "96295428aebba162",
   "lastOpenFiles": [
+    "0 - Dossier Template/Note Biologie.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/6 - Micro-architecture/6.2.1 - Décodage d'instruction de type-R (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.6 - Préservation du contenu des registres (MIPS).md",
     "1.0.4 - Zoologie.md",
@@ -190,7 +182,6 @@
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.-5 - Orthogenèse.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.6 - Dipôle ds un champ électrique non uniforme.md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.7.2 - Sortie prématurée ''break'' (Java).md",
-    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.4.2 - Méthodes pour chaînes de caractères (String) (Java).md",
     "0 - Dossier Template/Dossier IMage/IMG_4004.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_3882.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5265.jpeg",
