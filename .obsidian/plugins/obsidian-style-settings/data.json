@@ -60,5 +60,6 @@
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "ulu-theme-settings@@ulu-subtheme-selection": "ulu-gummy",
   "ulu-theme-settings@@ulu-cards-border": false,
-  "maple-editor@@setting-code-inline@@dark": "#FF0000"
+  "maple-editor@@setting-code-inline@@dark": "#FF0000",
+  "maple-workspace@@explorer-title-wrap": true
 }
