@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md"
               }
             }
           }
@@ -178,6 +178,10 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.1 - Mémoire DDR SDRAM.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3 - Mémoire SDRAM.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.2 - Mémoire DRAM.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
@@ -202,10 +206,6 @@
     "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.6.1 - Branchement conditionnel (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.7.3 - Itération suivante ''continue'' (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.7.2 - Sortie prématurée ''break'' (Java).md",
-    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.8.1 - Commentaire (Java).md",
-    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.6.2 - Bloc d'instructions (Java).md",
-    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.5.2 - Surcharge de méthode (Java).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.4 - Monophylétique.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418134403.jpg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418130554.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418130138.jpg",
