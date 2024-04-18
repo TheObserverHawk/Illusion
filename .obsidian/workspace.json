@@ -11,8 +11,12 @@
             "id": "96295428aebba162",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7 - Encapsulation (Java).md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7 - Encapsulation (Java).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7 - Encapsulation (Java).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7 - Encapsulation (Java).md"
+              }
             }
           }
         ]
@@ -156,6 +164,13 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.4.2 - Aliasing (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.2.5 - Littéral (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.2.2.1 - Variable locale (Java).md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5.1 - Relation entre champ électrique & potentiel électrique.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.2.3.1 - Angle solide.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.2.2 - Flux électrique d'une charge ponctuelle à l'extérieur d'une surface fermée.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.1 - Force électrique/2.1.1.3 - Charge élémentaire.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.8 - Darwinisme.md",
     "1 - Science/Biologie/0.1.0 - Introduction/Untitled.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.8.1 - Théorie synthétique de l'évolution (Néo-darwinisme).md",
@@ -178,13 +193,6 @@
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.52 - Théorie des équilibres ponctuels.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.7.0 - Epigénèse.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.200 - Théorie synthétique de l'évolution (Néo-darwinisme).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.4.1 - Goulot d'étranglement (Biologie).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.4 - Effet fondateur.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.14.2 - Nématode.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-4.1 - Néo-lamarckisme.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-4 - Lamarckisme (Biologie).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-5 - Orthogenèse (Biologie).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.-6 - Saltationnisme (Biologie).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417235552.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240330163830.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417231303.png",
