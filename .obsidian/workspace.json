@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
-                "mode": "preview",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -27,6 +27,20 @@
               "type": "markdown",
               "state": {
                 "file": "0 - Dossier Template/Note Biologie.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c4c57c0022fab7ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
                 "mode": "preview",
                 "source": false
               },
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md"
               }
             }
           }
@@ -164,10 +178,15 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
+    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2 - Module mémoire.md",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240418195344.png",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240418195231.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.5 - Pseudo-instruction (MIPS).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.6.1 - Transtypage (Java).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
     "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.9 - Pont de Wheatstone.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.4 - Instruction Load Upper Immediate (LUI) (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.6 - Instructions de type-I (MIPS).md",
@@ -187,9 +206,6 @@
     "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.6.2 - Bloc d'instructions (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.5.2 - Surcharge de méthode (Java).md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.4 - Monophylétique.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.3 - Argument mots-clefs.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.2.2.1 - Mammifère.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.16 - Anatomie.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418134403.jpg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418130554.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418130138.jpg",
@@ -198,8 +214,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417231303.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417231401.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417230921.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240417230521.png",
-    "0 - Dossier Template/Dossier IMage/IMG_4004.jpeg",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1 - Compresser & Décompression d'un fichier",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.3 - Système à ''n'' équations linéaires à ''p'' inconnues",
     "1 - Science/Mathématique/Math élémentaire/1 - Fonction et Inéquation/1.0 - Inégalité/1.1 - Ordre sur R + intervalles",
