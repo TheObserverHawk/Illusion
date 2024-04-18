@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7 - Encapsulation (Java).md",
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/3 - Tableaux/3.9 - Mémoïsation (Java).md",
                 "mode": "preview",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7 - Encapsulation (Java).md",
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/3 - Tableaux/3.9 - Mémoïsation (Java).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7 - Encapsulation (Java).md",
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/3 - Tableaux/3.9 - Mémoïsation (Java).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7 - Encapsulation (Java).md"
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/3 - Tableaux/3.9 - Mémoïsation (Java).md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7 - Encapsulation (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.4.2 - Aliasing (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.2.5 - Littéral (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.2.2.1 - Variable locale (Java).md",
@@ -192,7 +193,6 @@
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.15 - Biogéographie.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.52 - Théorie des équilibres ponctuels.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.7.0 - Epigénèse.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.200 - Théorie synthétique de l'évolution (Néo-darwinisme).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417235552.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240330163830.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240417231303.png",
