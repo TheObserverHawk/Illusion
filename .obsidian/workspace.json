@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.5 - Pseudo-instruction (MIPS).md",
-                "mode": "source",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.5 - Pseudo-instruction (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.5 - Pseudo-instruction (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.5 - Pseudo-instruction (MIPS).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md"
               }
             }
           }
@@ -164,7 +164,13 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.5 - Pseudo-instruction (MIPS).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.6.1 - Transtypage (Java).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.9 - Pont de Wheatstone.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.4 - Instruction Load Upper Immediate (LUI) (MIPS).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.6 - Instructions de type-I (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.4 - Etiquette (MIPS).md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.3 - Théorème (Classe d'équivalence).md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.9.2 - Propriété de symétrie pour les puissances successives d'une relation symétrique.md",
@@ -184,12 +190,6 @@
     "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.3 - Argument mots-clefs.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.2.2.1 - Mammifère.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.16 - Anatomie.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.4 - Physiologie.md",
-    "0 - Dossier Template/Note Biologie.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.10.3 - Mitochondrie.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.13.5 - Phylogénie moléculaire.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.18 - Histologie.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.16.1 - Morphologie.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418134403.jpg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418130554.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418130138.jpg",
