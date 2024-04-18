@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7 - Caches secondaires.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7 - Caches secondaires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7 - Caches secondaires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7 - Caches secondaires.md"
               }
             }
           }
@@ -178,14 +178,18 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.2 - Cache hit (Mémoire cache).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.1 - Cache miss (Mémoire cache).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240418203702.png",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240418203442.png",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240418203359.png",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7 - Caches secondaires.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.1 - Cache miss (Mémoire cache).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.2 - Cache hit (Mémoire cache).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.6 - Hiérarchie des mémoires.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418202509.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418202115.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418201819.png",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.6 - Hiérarchie des mémoires.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4 - Registre.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418200840.png",
@@ -208,12 +212,8 @@
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb12 - Propriétés des Relations Binaires sur un Ensemble à un Seul Élément.md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.10 - Redéfinition de méthode (Overriding) (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.10.2 - Constructeur ''super'' (Java).md",
-    "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.10.3 - Annotation ''@Override'' (Java).md",
-    "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.12 - Redéfinition de variable (Masquage de variable) (Java).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418134403.jpg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240418130554.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240418130138.jpg",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240417235552.png",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1 - Compresser & Décompression d'un fichier",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.3 - Système à ''n'' équations linéaires à ''p'' inconnues",
     "1 - Science/Mathématique/Math élémentaire/1 - Fonction et Inéquation/1.0 - Inégalité/1.1 - Ordre sur R + intervalles",
