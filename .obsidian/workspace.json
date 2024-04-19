@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1 - Relation d'ordre.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.4.1 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,8 +46,23 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "35fd7b9df8f41f21",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Dossier Template/Note.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -114,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1 - Relation d'ordre.md",
+                "file": "0 - Dossier Template/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1 - Relation d'ordre.md",
+                "file": "0 - Dossier Template/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1 - Relation d'ordre.md"
+                "file": "0 - Dossier Template/Note.md"
               }
             }
           }
@@ -176,13 +191,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96295428aebba162",
+  "active": "35fd7b9df8f41f21",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.4.1 -.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.4 - Ensemble totalement ordonné.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.5 - Ordre strict.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.3 - Eléments comparables.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1 - Relation d'ordre.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.6 - Théorème (Relation Partition-Quotient).md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.7 - Ensemble des parties.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.4 - Partition d'un ensemble.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.5 - Quotient d'un ensemble par une relation d’équivalence.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1 - Relation d'ordre.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7.1 - Cache L1 = Caches séparées pour instructions ou données.md",
     "0 - Dossier Template/Dossier IMage/IMG_5272.jpeg",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
@@ -210,10 +229,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.5 - Pseudo-instruction (MIPS).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.6.1 - Transtypage (Java).md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.9 - Pont de Wheatstone.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.4 - Instruction Load Upper Immediate (LUI) (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.6 - Instructions de type-I (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.4 - Etiquette (MIPS).md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1 - Compresser & Décompression d'un fichier",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.3 - Système à ''n'' équations linéaires à ''p'' inconnues",
     "1 - Science/Mathématique/Math élémentaire/1 - Fonction et Inéquation/1.0 - Inégalité/1.1 - Ordre sur R + intervalles",
