@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.3 - Modèle de mémoire.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -193,8 +193,13 @@
   "active": "96295428aebba162",
   "lastOpenFiles": [
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.1 - Type de mémoires (fonc ordi).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6 - Mémoire à accès aléatoire (RAM).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.3 - Modèle de mémoire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.3 - Taille des mots binaires.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.3 - Représentation hexadécimale.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.1.2 - Chiffre significatif.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2 - Représentation binaire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3 - Notation positionnelle généralisée.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6 - Mémoire à accès aléatoire (RAM).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1 - Adresse alignée en mémoire.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.2 - Adressage de données multi-octets (Endianness).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3 - Mémoire SDRAM.md",
@@ -213,11 +218,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5.4 - Multiplication en binaire (entiers non-signés).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5.3 - Décalage logique (entiers non-signés).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5.5 - Division en binaire (entiers non-signés).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.4 - Conversion de bases.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.2 - Verrou de type D.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.1.1 - Méta-stabilité.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.1 - Verrou S-R.md",
     "0 - Dossier Template/Dossier IMage/IMG_5273 1.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5273.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5272.jpeg",
