@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.3 - Modèle de mémoire.md",
-                "mode": "source",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.3 - Modèle de mémoire.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.3 - Modèle de mémoire.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.3 - Modèle de mémoire.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md"
               }
             }
           }
@@ -192,6 +192,7 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7.1 - Cache L1 = Caches séparées pour instructions ou données.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6 - Mémoire à accès aléatoire (RAM).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.3 - Modèle de mémoire.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
@@ -210,7 +211,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.2 - Cache hit (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.3 - Performance de la cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7 - Caches secondaires.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7.1 - Cache L1 = Caches séparées pour instructions ou données.md",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.6.3 - Soustraction en binaire (entiers signés).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.6.1.1 - Overflow & Underflow entier signé (Dépassement).md",
