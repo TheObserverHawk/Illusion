@@ -11,12 +11,8 @@
             "id": "96295428aebba162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -128,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -192,8 +184,10 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.11 - Liaison dynamique (Java).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11 - Branchement conditionnel (MIPS).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.3 - Directives d'assemblage (MIPS).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.11 - Liaison dynamique (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.10.5 - Type de retour Covariant (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.9 - Héritage sur les tableaux (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.8 - Méthode ''toString'' (Java).md",
@@ -216,8 +210,6 @@
     "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.2 - Instance (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.1.3 - Modificateur (Java).md",
     "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.1.2 - Spécificateur d'accès (Java).md",
-    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.6.2 - Bloc d'instructions (Java).md",
-    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.5.1.2 - Appel de méthode (Java).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240424195712.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240424194623.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240424194537.png",
