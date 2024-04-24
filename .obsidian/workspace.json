@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
+                "file": "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.3 - Argument mots-clefs.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
+                "file": "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.3 - Argument mots-clefs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
+                "file": "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.3 - Argument mots-clefs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md"
+                "file": "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.3 - Argument mots-clefs.md"
               }
             }
           }
@@ -192,10 +192,16 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240424195712.png",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.2 - Paramètre par défaut.md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.1 - Méthode de Héron.md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.1.2 - Récursivité infinie.md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.1.1 - Fonction récursive (python).md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/6 - Itérations et Chaînes de caractères/6.1.1 - Assignation multiple (python).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240424195712.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.2 - Cache direct-mapped.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.1 - Cache fully-associative.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.3 - Cache set-associative.md",
@@ -222,12 +228,6 @@
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.5 - Valeur propre & Vecteur propre.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.6 - Matrice diagonale.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.4 - Prop = (App liné de composé de matrices).md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.7 - Application linéaire diagonalisable.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.11 - Espace propre associé à une valeur propre.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.10 - Prop = (Valeurs Propres & Racines du Polynôme Caractéristique).md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.9 - Polynôme caractéristique.md",
-    "0 - Dossier Template/Dossier IMage/IMG_5289.jpeg",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1 - Compresser & Décompression d'un fichier",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.3 - Système à ''n'' équations linéaires à ''p'' inconnues",
     "1 - Science/Mathématique/Math élémentaire/1 - Fonction et Inéquation/1.0 - Inégalité/1.1 - Ordre sur R + intervalles",
