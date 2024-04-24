@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md",
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7.1 - Principe 1 ; données non modifiables (Encapsulation) (Java).md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md",
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7.1 - Principe 1 ; données non modifiables (Encapsulation) (Java).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md",
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7.1 - Principe 1 ; données non modifiables (Encapsulation) (Java).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md"
+                "file": "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7.1 - Principe 1 ; données non modifiables (Encapsulation) (Java).md"
               }
             }
           }
@@ -192,8 +192,23 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Algo et progra 1 (Python)/13 - Programmation Orientée Objet/13.3.1 - Définir le comportement des objets via les méthodes.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.7 - Encapsulation (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.6.1 - Variable d'instance ; de classe (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.4.2 - Aliasing (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.2 - Instance (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.1.3 - Modificateur (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/2 - Classes & Objets/2.1.2 - Spécificateur d'accès (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.6.2 - Bloc d'instructions (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.5.1.2 - Appel de méthode (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.2.3 - Constante (Java).md",
+    "1 - Science/Informatique/Algo et progra 2 (Java)/1 - Bases en Java/1.2.2.2 - Scope (Java).md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/13 - Programmation Orientée Objet/13.3.4 - Précaution lors de la manipulation des objets.md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/13 - Programmation Orientée Objet/13.3.5 - Héritage (POO - python).md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/13 - Programmation Orientée Objet/13.3.3 - Surcharge d'opérateur (POO - python).md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/13 - Programmation Orientée Objet/13.3.2 - Méthode mutateur.md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/13 - Programmation Orientée Objet/13.1.5 - Attribut (POO - python).md",
+    "1 - Science/Informatique/Algo et progra 1 (Python)/13 - Programmation Orientée Objet/13.3.1 - Définir le comportement des objets via les méthodes.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.4.2 - Gérer les exceptions.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.4.1 - Lancer une exception.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.3.6.1 - Chemin (informatique).md",
@@ -203,24 +218,9 @@
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1.1 - Programme persistent.md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/11 - Tuple/11.3.2 - Opérateur Scatter (Python).md",
     "1 - Science/Informatique/Algo et progra 1 (Python)/11 - Tuple/11.3.1 - Opérateur Gather (Python).md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/10 - Dictionnaire/10.2.1 - Algo = Recherche dichotomique.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/6 - Itérations et Chaînes de caractères/6.1.4 - Chaînes de caractères (python).md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.3 - Argument mots-clefs.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.2 - Paramètre par défaut.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.3.1 - Méthode de Héron.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.1.2 - Récursivité infinie.md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/5 - Récursivité/5.1.1 - Fonction récursive (python).md",
-    "1 - Science/Informatique/Algo et progra 1 (Python)/6 - Itérations et Chaînes de caractères/6.1.1 - Assignation multiple (python).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240424195712.png",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.2 - Cache direct-mapped.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.1 - Cache fully-associative.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.3 - Cache set-associative.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240424194623.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240424194537.png",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9 - Stratégie d'organisation d'une mémoire cache.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240423200947.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240423200358.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240423195814.png",
