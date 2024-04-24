@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
-                "mode": "preview",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.2 - Cache direct-mapped.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.2 - Cache direct-mapped.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.2 - Cache direct-mapped.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.2 - Cache direct-mapped.md"
               }
             }
           }
@@ -193,22 +193,23 @@
   "active": "96295428aebba162",
   "lastOpenFiles": [
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.3 - Cache set-associative.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.2 - Cache direct-mapped.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.1 - Cache fully-associative.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9 - Stratégie d'organisation d'une mémoire cache.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/Fonctionnement des ordinateurs.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.2 - Cache direct-mapped.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7.1 - Cache L1 = Caches séparées pour instructions ou données.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1.4.1 - Assembleur + (Compilation - fonc ordi).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/Fonctionnement des ordinateurs.md",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240423200947.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7 - Caches secondaires.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240423200358.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240423195814.png",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.1 - Cache fully-associative.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.3 - Performance de la cache.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.13 - Diagonalisation d'une matrice M.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240422211112.png",
@@ -224,7 +225,6 @@
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.10 - Prop = (Valeurs Propres & Racines du Polynôme Caractéristique).md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.9 - Polynôme caractéristique.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.8 - Multiplicité d’une racine d'un polynôme.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.2 - Application linéaire associée à une matrice.md",
     "0 - Dossier Template/Dossier IMage/IMG_5289.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5288.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240422094010.png",
