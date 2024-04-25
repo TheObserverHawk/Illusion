@@ -11,12 +11,8 @@
             "id": "96295428aebba162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.4 - Passage de paramètres & valeurs de retour (MIPS).md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -128,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.4 - Passage de paramètres & valeurs de retour (MIPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.4 - Passage de paramètres & valeurs de retour (MIPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.4 - Passage de paramètres & valeurs de retour (MIPS).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -192,6 +184,7 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.4 - Passage de paramètres & valeurs de retour (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.6 - Préservation du contenu des registres (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.7 - Organisation de la mémoire (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.8 - Instruction de contrôle de flux (MIPS).md",
@@ -201,7 +194,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.1 - Stored program.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.5 - Variable locale (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.4 - Passage de paramètres & valeurs de retour (MIPS).md",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (33).png",
     "0 - Dossier Template/Note.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
