@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.5 - Variable locale (MIPS).md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.5 - Variable locale (MIPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.5 - Variable locale (MIPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.5 - Variable locale (MIPS).md"
               }
             }
           }
@@ -192,8 +192,11 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.4 - Passage de paramètres & valeurs de retour (MIPS).md",
+    "0 - Dossier Template/Dossier IMage/Capture d’écran (33).png",
+    "0 - Dossier Template/Note.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
     "0 - Dossier Template/Dossier IMage/IMG_5300.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5299.jpeg",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.2.1 - Instruction Jump And Link (JAL) (MIPS).md",
@@ -221,13 +224,10 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1 - Compilation.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.3 - Directives d'assemblage (MIPS).md",
-    "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.11 - Liaison dynamique (Java).md",
-    "1 - Science/Informatique/Algo et progra 2 (Java)/4 - Héritage/4.10.5 - Type de retour Covariant (Java).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240424195712.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240424194623.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240424194537.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240423200947.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240423200358.png",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1 - Compresser & Décompression d'un fichier",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.3 - Système à ''n'' équations linéaires à ''p'' inconnues",
     "1 - Science/Mathématique/Math élémentaire/1 - Fonction et Inéquation/1.0 - Inégalité/1.1 - Ordre sur R + intervalles",
