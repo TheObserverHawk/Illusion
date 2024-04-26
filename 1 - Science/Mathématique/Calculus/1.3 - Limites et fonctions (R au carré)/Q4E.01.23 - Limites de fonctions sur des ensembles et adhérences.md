@@ -1,9 +1,8 @@
 ---
-## Metadata
-tags : 
- - Note_done Note_WIP Math
- - 
-source : UMons - Calculus Examen
+tags:
+  - Note_done
+  - Math
+source: UMons - Calculus Examen
 ---
 
 Link :
@@ -23,4 +22,9 @@ Comme on sait que $a\in\operatorname{adh}B$ et que $B\subseteq A$, on a que $$\e
 Supposons que $$\underset{\overset{x\to a}{x\in A}}{\lim}f(x) = b$$ i.e. $$\forall (x_n)\subseteq\operatorname{Dom}f\cap A,\quad (x_n)\to a\quad\Rightarrow\quad f(x_n)\to f(a)=b$$ Montrons que $$\underset{\overset{x\to a}{x\in B}}{\lim}f(x) = b$$ i.e. $$\forall (x_n)\subseteq\operatorname{Dom}f\cap B,\quad (x_n)\to a\quad\Rightarrow\quad f(x_n)\to f(a)=b$$ Soit $(x_n)\subseteq B\cap\operatorname{Dom}f$, on a que $$(x_n)\subseteq A\cap\operatorname{Dom}f$$ car $(x_n)\subseteq B\subseteq A,\quad x_n\to a$ et $(x_n)\subseteq\operatorname{Dom} f$, donc on a $$(x_n)\subseteq A\cap\operatorname{Dom}f$$, de plus on a que par hypothèse $$\forall (x_n)\subseteq\operatorname{Dom}f\cap A,\quad (x_n)\to a\quad\Rightarrow\quad f(x_n)\to f(a)=b$$
 #### iii) La réciproque de cette implication est-elle vraie ? Justifiez votre réponse.
 Non, elle ne l'est pas. Prenons le contre-exemple suivant : $$f(x)=\begin{cases}x-1\quad\text{ si } n\ge 2\\x^2\quad\text{ si } x< 2\end{cases}$$
-- $$\underset{\overset{x\to 2}{x<2}}{\lim}f(x)=$$
+- $$\underset{\overset{x\to 2}{x<2}}{\lim}f(x)=\underset{\overset{x\to2}{]-\infty,2[}}{\lim}x^2=4$$
+- $$\underset{\overset{x\to 2}{x\le 2}}{\lim}f(x)=\underset{\overset{x\to2}{]-\infty,2]}}{\lim}x-1=1$$ Regardons cette limite quand $x\in\ ]-\infty,2[$ et quand $x\in\{2\}$ :
+	- $$\underset{\overset{x\to2}{]-\infty,2[}}{\lim}f(x)=4 \quad\text{ déjà calculé}$$
+	-  $$\underset{\overset{x\to2}{x=2}}{\lim}f(x)=\underset{\overset{x\to2}{x=2}}{\lim}x-1=1$$
+
+On a que $\underset{\overset{x\to 2}{x<2}}{\lim}f(x)$ existe et que $\underset{\overset{x\to 2}{x\le 2}}{\lim}f(x)$ n’existe pas car pas d’unicité, alors que pourtant $$]-\infty,2[\ \subseteq\ ]-\infty,2]$$
