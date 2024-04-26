@@ -1,9 +1,8 @@
 ---
-## Metadata
-tags : 
- - Note_done Note_WIP Math
- - 
-source : UMons - Calculus Examen
+tags:
+  - Note_done
+  - Math
+source: UMons - Calculus Examen
 ---
 
 Link :
@@ -16,30 +15,9 @@ _Calculus : Caractéristique d'une suite_
 3. [[1.2.5 - Prop = Suite minorée]]
 4. [[1.2.7 - Thm = (Convergence bornée)]]
 
-_Calculus : Limite de fonctions_
-1.
-
-_Calculus : Continuité d'une fonction_
-1.
-
-_Calculus : Dérivée de fonctions d'une variable_
-1.
-
-_Calculus : Théorème de la moyenne_
-1.
-
-_Calculus : Dérivée d'ordre supérieur_
-1.
-
-_Calculus : Développement de Taylor_
-1.
-
-_Calculus : Série_
-1. 
-
-_Math discrète :_
+_Math discrète : Relation d'ordre_
 1. [[../../Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.3 - Minimum|1.4.8.3 - Minimum]]
-# Question 3 d'examen de août 2022
+# Question 3 point $a$ d'examen de août 2022
 ## Enoncé :
 ### $a$) Soient $(x_n)_{n∈\mathbb{N}}$ et $(y_n)_{n∈\mathbb{N}}$ des suites réelles, $f : \mathbb{R} → \mathbb{R}$ une fonction et $a ∈ \operatorname{Dom} f$ . 
 #### Définissez $(x_n)_{n∈\mathbb{N}}$ est non bornée : 
