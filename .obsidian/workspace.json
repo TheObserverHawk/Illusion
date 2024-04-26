@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11 - Branchement conditionnel (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5.5 - Division en binaire (entiers non-signés).md",
                 "mode": "preview",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11 - Branchement conditionnel (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5.5 - Division en binaire (entiers non-signés).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11 - Branchement conditionnel (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5.5 - Division en binaire (entiers non-signés).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11 - Branchement conditionnel (MIPS).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5.5 - Division en binaire (entiers non-signés).md"
               }
             }
           }
@@ -193,9 +193,10 @@
   "active": "96295428aebba162",
   "lastOpenFiles": [
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.4 - Conversion de bases.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2 - Représentation binaire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11 - Branchement conditionnel (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.5 - Instructions de type-R (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11 - Branchement conditionnel (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.1 - Pseudo-instruction de branchement conditionnel (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.9.1 - Potentiel du disque non conducteur chargé.md",
@@ -219,7 +220,6 @@
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.5 - Thm = Cgce dominée d'une limite de fonc.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.8 - Thm = Cgce dominée au sens large d'une suite.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.7.1 - Cas d'indétermination.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.4 - Passage de paramètres & valeurs de retour (MIPS).md",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (33).png",
     "0 - Dossier Template/Dossier IMage/IMG_5300.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5299.jpeg",
