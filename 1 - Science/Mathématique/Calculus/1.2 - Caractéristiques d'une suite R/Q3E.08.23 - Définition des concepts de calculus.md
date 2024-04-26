@@ -38,4 +38,5 @@ _Calculus : Série_
 ## Enoncé :
 ### $a$) Soient $(x_n)_{n∈\mathbb{N}}$ et $(y_n)_{n∈\mathbb{N}}$ des suites réelles, $f : \mathbb{R} → \mathbb{R}$ une fonction et $a ∈ \operatorname{Dom} f$ . 
 #### Définissez $(x_n)_{n∈\mathbb{N}}$ est non bornée : 
-$$$$
+$$\begin{aligned}\text{bornée }&\to\exists R_1,R_2\in\mathbb{\mathbb{R}},\forall n\in\mathbb{N},\quad R_1 \le x_n\le R_2\quad\text{ i.e. }\quad R_1\le x_n\cap x_n\le R_2\\\text{non bornée }&\to\forall R_1, R_2\in\mathbb{R},\exists n\in\mathbb{N},\quad R_1>  x_n\cup x_n>R_2\end{aligned}$$
+#### Définissez $(yn)n∈N est une sous-suite de (xn)n∈N
