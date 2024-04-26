@@ -48,5 +48,6 @@ Prenons $$x_n=\begin{cases}x\quad\text{ si } n\in2\mathbb{N}\\1\quad\text{ si }n
 Soient $R_1, R_2\in\mathbb{R}$ 
 Prenons $$n=[2R_2]$$ On a : $$x_n> R_2\iff [2R_2]\ge R_2$$ car $|2R_1|>R_2$ et par la définition de la partie entière
 \
-Prenons $$(y_n)_{n\in\mathbb{N}}=(x_{2n})_{n\in\mathbb{N}}$$ on a bien que $(y_n)_{n\in\mathbb{N}}$ est une sous-suite de $(x_n)_{n\in\mathbb{N}}$ car 
-1. Prenons $$\varphi:\mathbb{N}\to\mathbb{N}:n\mapsto 2n$$ Montrons que $\varphi$ est strictement croissante i.e. $$\forall$$
+Prenons $$(y_n)_{n\in\mathbb{N}}=(x_{2n})_{n\in\mathbb{N}}$$ on a bien que $(y_n)_{n\in\mathbb{N}}$ est une sous-suite de $(x_n)_{n\in\mathbb{N}}$ car prenons $$\varphi:\mathbb{N}\to\mathbb{N}:n\mapsto 2n$$ 
+1. Montrons que $\varphi$ est strictement croissante i.e. $$\forall n\in\mathbb{N},\varphi(n)<\varphi(n+1)$$ Soit $n\in\mathbb{N}$, on a $$\varphi(n)<\varphi(2n)\quad\iff\quad 2n<2(n+1)\quad\iff\quad2n<2n+2\quad\iff\quad 0< 2$$
+2. Montrons que $$\forall n\in\mathbb{N}, y_n=x_{\varphi(n)}$$ Soit $n\in\mathbb{N}$, on a $$\begin{aligned}\end{alig}$$
