@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.2 - Déf = Suite ultimement constante.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
                 "mode": "preview",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.2 - Déf = Suite ultimement constante.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.2 - Déf = Suite ultimement constante.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.2 - Déf = Suite ultimement constante.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md"
               }
             }
           }
@@ -192,6 +192,8 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.8.1 - Instruction de Type-J (MIPS).md",
+    "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.2 - Déf = Suite ultimement constante.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.1 - Déf = Suite constante.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.6 - Suite converge vers le nombre d'or.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.2.1 - Coro = Lim des inégalités larges avec suite de const c.md",
@@ -218,8 +220,6 @@
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.100 - Horloge moléculaire.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.15 - Biogéographie.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.7 - Phénomène de spéciation.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.100 - Mandibule.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.100 - Paraphylétique.md",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (33).png",
     "0 - Dossier Template/Dossier IMage/IMG_5300.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5299.jpeg",
