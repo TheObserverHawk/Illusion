@@ -44,4 +44,9 @@ $$\exists\varphi:\mathbb{N}\to\mathbb{N}, \text{ strictement croissante  tels qu
 #### Définissez $a$ est un point minimum de $f$
 $$\forall x\in\operatorname{Dom}f, f(x)\ge f(a)$$
 ### $b$) Donnez un exemple d’une suite $(x_n)_{n∈\mathbb{N}}$ non bornée qui possède une sous-suite $(y_n)_{n∈\mathbb{N}}$ convergeant au sens strict. Le fait que votre exemple satisfasse ce qui est demandé doit être rigoureusement établi.
-Prenons $$x_n=\begin{cases}\end{cases}$$
+Prenons $$x_n=\begin{cases}x\quad\text{ si } n\in2\mathbb{N}\\1\quad\text{ si }n\in2\mathbb{N}+1\end{cases}$$ On a bien que $x_n$ est non bornée, et prouvons le 
+Soient $R_1, R_2\in\mathbb{R}$ 
+Prenons $$n=[2R_2]$$ On a : $$x_n> R_2\iff [2R_2]\ge R_2$$ car $|2R_1|>R_2$ et par la définition de la partie entière
+\
+Prenons $$(y_n)_{n\in\mathbb{N}}=(x_{2n})_{n\in\mathbb{N}}$$ on a bien que $(y_n)_{n\in\mathbb{N}}$ est une sous-suite de $(x_n)_{n\in\mathbb{N}}$ car 
+1. Prenons $$\varphi:\mathbb{N}\to\mathbb{N}:n\mapsto 2n$$ Montrons que $\varphi$ est strictement croissante i.e. $$\forall$$
