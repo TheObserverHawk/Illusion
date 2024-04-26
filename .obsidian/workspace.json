@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.5 - Instructions de type-R (MIPS).md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q9E.a.06.22 - Si ''f'' dérivable en ''a'', alors ''f'' continue en ''a''.md",
                 "mode": "preview",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.5 - Instructions de type-R (MIPS).md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q9E.a.06.22 - Si ''f'' dérivable en ''a'', alors ''f'' continue en ''a''.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.5 - Instructions de type-R (MIPS).md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q9E.a.06.22 - Si ''f'' dérivable en ''a'', alors ''f'' continue en ''a''.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.5 - Instructions de type-R (MIPS).md"
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q9E.a.06.22 - Si ''f'' dérivable en ''a'', alors ''f'' continue en ''a''.md"
               }
             }
           }
@@ -192,10 +192,12 @@
   },
   "active": "96295428aebba162",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q7E.b.06.22 - Analyse de la croissance de la fonction cubique.md",
+    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.06-22 - Analyse de la racine et du comportement local d'une fonction linéaire avec un terme négligeable.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.5 - Instructions de type-R (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.1 - Pseudo-instruction de branchement conditionnel (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11 - Branchement conditionnel (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.10 - Branch delay slot (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.5 - Instructions de type-R (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.8.1 - Instruction de Type-J (MIPS).md",
@@ -218,8 +220,6 @@
     "0 - Dossier Template/Note Biologie.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.10.3 - Mitochondrie.md",
     "1 - Science/Biologie/0.1.0 - Introduction/1.0.8.3 - Neutralisme (Biologie).md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.100 - Horloge moléculaire.md",
-    "1 - Science/Biologie/0.1.0 - Introduction/1.0.15 - Biogéographie.md",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (33).png",
     "0 - Dossier Template/Dossier IMage/IMG_5300.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5299.jpeg",
