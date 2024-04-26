@@ -39,4 +39,6 @@ _Calculus : Série_
 ### a) Soient $E ⊆ \mathbb{R}, f : \mathbb{R} → \mathbb{R}$ une fonction, $a ∈ \operatorname{adh}E$ et $b ∈ \mathbb{R}$. Définissez $\underset{\overset{x\to a}{x\in E}}{\lim}f(x)=b$ 
 $$\forall (x_n)\subseteq\operatorname{Dom}f\cap E,\quad x_n\to a\quad\Rightarrow\quad f(x_n)\to f(x_n)=b$$
 ### b) Soient $A,B ⊆ \mathbb{R}, f : \mathbb{R} → \mathbb{R}$ une fonction, $a ∈ \operatorname{adh}B$ et $b ∈ \mathbb{R}$. Supposons que $B ⊆ A$.
-#### 
+#### i) Montrez que $a\in\operatorname{adh}A$
+Comme on sait que $a\in\operatorname{adh}B$ et que $B\subseteq A$, on a que $$\exists (x_n)\subseteq B\subseteq A,\quad x_n\to a$$ et donc $$\exists(x_n)\subseteq A,\quad x_n\to a$$
+#### ii) En utilisant la définition donnée au point (a), montrez que si $\underset{\overset{x\to a}{x\in A}}{\lim}f(x) = b$ alors on a limx→a x∈B f(x) = b
