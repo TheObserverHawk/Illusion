@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
+                "file": "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
+                "file": "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
+                "file": "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md"
+                "file": "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md"
               }
             }
           }
@@ -206,6 +206,8 @@
   },
   "active": "fafffb3d64311fbe",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.9.1 - Coro = Exhaustivité.md",
+    "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.2 - Adressage de données multi-octets (Endianness).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4 - Architecture MIPS.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.0 - Architecture RISC.md",
@@ -230,8 +232,6 @@
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/Q6E.b.01.24 - Continuité asymptotique et positivité locale.md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/Q6E.a.01.24 - Vérification de l'Unicité de la Limite et de l'Égalité à la Valeur en un Point.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.3 - Minimum.md",
-    "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.7 - Thm = (Convergence bornée).md",
-    "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.2 - Déf = Croissance d'une suite.md",
     "0 - Dossier Template/Dossier IMage/IMG_5309.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5308.jpeg",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (33).png",
