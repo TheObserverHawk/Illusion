@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q1E.06.23 - Théorème de Rolle (+ Interprétation géométrique).md",
+                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/Q3E.a.08.23 - Définition des concepts de calculus.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q1E.06.23 - Théorème de Rolle (+ Interprétation géométrique).md",
+                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/Q3E.a.08.23 - Définition des concepts de calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q1E.06.23 - Théorème de Rolle (+ Interprétation géométrique).md",
+                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/Q3E.a.08.23 - Définition des concepts de calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q1E.06.23 - Théorème de Rolle (+ Interprétation géométrique).md"
+                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/Q3E.a.08.23 - Définition des concepts de calculus.md"
               }
             }
           }
@@ -206,8 +206,9 @@
   },
   "active": "fafffb3d64311fbe",
   "lastOpenFiles": [
-    "0 - Dossier Template/Note Examen.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q1E.06.23 - Théorème de Rolle (+ Interprétation géométrique).md",
+    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.2 - Thm = Théorème de Rolle.md",
+    "0 - Dossier Template/Note Examen.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/Q3E.a.08.23 - Définition des concepts de calculus.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.b.01.22 - si la dériv est nég, alors ''f'' est strict décroissante.md",
     "0 - Dossier Template/Note Biologie.md",
@@ -231,7 +232,6 @@
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.4 - Prop = Suite majorée.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.1.1 - Déf = Ensemble borné.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.a.01.22 - si ''f'' est strict décroissante, alors sa dériv est négative.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q7E.01.22 - si ''f'' pas const, alors existe 1 ''gamma'' tq sa dériv n'est pas nulle.md",
     "0 - Dossier Template/Dossier IMage/IMG_5309.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5308.jpeg",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (33).png",
