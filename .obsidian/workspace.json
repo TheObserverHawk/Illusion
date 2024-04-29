@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md"
               }
             }
           }
@@ -206,12 +206,15 @@
   },
   "active": "fafffb3d64311fbe",
   "lastOpenFiles": [
+    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240429134909.png",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240429134336.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429133348.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429122453.png",
     "0 - Dossier Template/Note Examen.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429121636.png",
-    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429115200.png",
@@ -227,9 +230,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429113408.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429113121.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429112720.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240429112417.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240429112129.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240429111910.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.1 - Déf = Continuité d'une fonction.md",
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.2 - Prop = Continuité d'une composition de fonc.md",
