@@ -8,22 +8,12 @@ source : UMons - Fonctionnement des ordinateurs
 
 Link :
 _Fonctionnement des ordinateurs : Représentation des nombres naturels & entiers_
-1.
-
-_Fonctionnement des ordinateurs : Caractères & Chaînes de caractères_
-1.
-
-_Fonctionnement des ordinateurs : Eléments de conception logique_
-1.
+1. [[../2 - Représentation des nombres naturels & entiers/2.3.2.1 - Bit|2.3.2.1 - Bit]]
+2. [[../2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet|2.3.2.2 - Octet]]
+3. [[../2 - Représentation des nombres naturels & entiers/2.3.3 - Représentation hexadécimale|2.3.3 - Représentation hexadécimale]]
 
 _Fonctionnement des ordinateurs : Processeur_
-1.
-
-_Fonctionnement des ordinateurs : Micro-architecture_
-1.
-
-_Fonctionnement des ordinateurs : Assemblage & Compilation_
-1.
+1. [[../5 - Processeur/5.4.6.6.5 - Adressage indirect indexé (MIPS)|5.4.6.6.5 - Adressage indirect indexé (MIPS)]]
 
 _Fonctionnement des ordinateurs : Hiérarchie de mémoires_
 1. [[8.5 - Mémoire cache]]
@@ -44,3 +34,9 @@ Considérez les caches suivantes :
 
 Le processeur effectue des lectures aux adresses suivantes et dans cet ordre : `0xA3C9`, `0xA3CB`, `0xB5EA`, `0xB5E1`, `0xB7E5`, `0xB9C9`, `0xA3C9`, `0xB5E1`, `0xB5EA`, `0xB5E1`, `0x12AA`, `0x122A`, `0xA3C8`, `0xA3CE`
 Déterminez le hit ratio pour chaque cache 
+### Cache $A$ : 4-way set-associative
+**Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429114959.png]]
+Hit ratio = 7/14 = 50%
+### Cache $B$ : Direct-mapped
+**Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429115200.png]]
+Hit ratio = 5/14 = 35,7%
