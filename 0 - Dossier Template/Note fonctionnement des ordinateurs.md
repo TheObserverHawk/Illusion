@@ -29,5 +29,8 @@ _Fonctionnement des ordinateurs : Assemblage & Compilation_
 _Fonctionnement des ordinateurs : Hiérarchie de mémoires_
 1.
 
+_Fonctionnement des ordinateurs : Nombres flottants_
+1.
+
 # Définition
 
