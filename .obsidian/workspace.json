@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md"
               }
             }
           }
@@ -206,9 +206,9 @@
   },
   "active": "fafffb3d64311fbe",
   "lastOpenFiles": [
-    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
+    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429134909.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429134336.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429133348.png",
