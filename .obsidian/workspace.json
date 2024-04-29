@@ -206,8 +206,9 @@
   },
   "active": "fafffb3d64311fbe",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.2 - Traducteur d'adresses (Mémoire virtuelle).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.2 - Traducteur d'adresses (Mémoire virtuelle).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
@@ -232,7 +233,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.1 - Cache fully-associative.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.3 - Cache set-associative.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.3 - Translation Lookaside Buffer (TLB) (Mémoire virtuelle).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.1 - Déf = Continuité d'une fonction.md",
