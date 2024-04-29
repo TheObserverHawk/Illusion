@@ -8,10 +8,10 @@ source: UMons - Fonctionnement des ordinateurs
 Link :
 _Fonctionnement des ordinateurs : Processeur_
 1. [[5.4 - Architecture MIPS]]
-2. [[5.4.2 - Registre d’usage général (GPR)]]
+2. [[5.4.2 - Registre d'usage général (GPR)]]
 4. [[5.4.4 - Etiquette (MIPS)]]
 5. [[5.4.5 - Pseudo-instruction (MIPS)]]
-6. [[5.4.6 - Jeu d’instructions (MIPS)]]
+6. [[5.4.6 - Jeu d'instructions (MIPS)]]
 7. [[5.4.6.3.3 - Instruction Add Word Immediate (ADDI) (MIPS)]]
 8. [[5.4.6.3.4 - Instruction Add Word Immediate Unsigned (ADDIU) (MIPS)]]
 9. [[5.4.6.3.5 - Instructions de type-R (MIPS)]]

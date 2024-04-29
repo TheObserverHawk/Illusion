@@ -17,7 +17,7 @@ _Python : Itérations et Chaînes de caractères_
 _Python : Fichiers et exceptions_
 1. [[Python]]
 2. [[12.3.3 - Fonction with open()]]
-1. [[12.2.1.1 - Méthode ‘strip’]]
+1. [[12.2.1.1 - Méthode 'strip']]
 
 # Exercice
 Ecrivez un script qui lit le fichier `words.txt` et qui n’affiche que le pourcentage de mots qui n'ont pas la lettre "e"
