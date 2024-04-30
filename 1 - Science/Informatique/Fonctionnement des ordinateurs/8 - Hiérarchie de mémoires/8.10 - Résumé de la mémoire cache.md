@@ -1,9 +1,8 @@
 ---
-## Metadata
-tags : 
- - Note_done Note_WIP Informatique
- - 
-source : UMons - Fonctionnement des ordinateurs
+tags:
+  - Note_done
+  - Informatique
+source: UMons - Fonctionnement des ordinateurs
 ---
 
 Link :

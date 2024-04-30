@@ -16,7 +16,7 @@ _Calculus : Limite de fonctions_
 _Math élémentaire : Logique_
 1. [[0.2.8 - Preuve par l'absurde]]
 
-# Question  d'examen du juin 2022
+# Question  6 point b d'examen du janvier 2024
 ## Enoncé : Pour chacune des affirmations suivantes, cochez la case adéquate selon que vous pensez qu'elle est vraie ou fausse. Justifiez votre réponse rigoureusement. Une affirmation telle que "vu au cours" n'est pas une justification
 ### Si $0\in\operatorname{Dom}f, f(0)=0$ et $\frac{f(x)}{x}\to 1$ quand $x\to 0$, alors $\exists r>0,\forall x\in\ ]0,r[, f(x)>0$ 
 _Réponse_ : Vrai

@@ -1,9 +1,8 @@
 ---
-## Metadata
-tags : 
- - Note_done Note_WIP Informatique
- - 
-source : UMons - Fonctionnement des ordinateurs
+tags:
+  - Note_done
+  - Informatique
+source: UMons - Fonctionnement des ordinateurs
 ---
 
 Link :
@@ -33,8 +32,15 @@ Considérez les caches suivantes :
 3. la stratégie de remplacement est LRU (Least Recently Used)
 
 Le processeur effectue des lectures aux adresses suivantes et dans cet ordre : `0xA3C9`, `0xA3CB`, `0xB5EA`, `0xB5E1`, `0xB7E5`, `0xB9C9`, `0xA3C9`, `0xB5E1`, `0xB5EA`, `0xB5E1`, `0x12AA`, `0x122A`, `0xA3C8`, `0xA3CE`
-Déterminez le hit ratio pour chaque cache 
+## Déterminez le hit ratio pour chaque cache 
 ### Cache $A$ : 4-way set-associative
+**Illustration du Modèle de la cache** : ![[IMG_5322.jpeg]]
+On sait que la cache $A$ : cache 4-way set-associative 128 octets, 16 lignes de 8 octets :
+1. $$128\text{ B}= 2^7\text{ B}\quad \text{ Taille de la cache sans tag + bit de validité }$$
+2. $$\text{ sets = }\frac{16\text{ lignes }}{4}=4\quad\Rightarrow\quad \log_2\left(4\right)=\log_2\left(2^2\right)=2\text{ bits de set}$$
+3. $$\text{Taille 1 ligne = 8 octets }\quad\Rightarrow\quad \log_2(8)=\log_2\left(2^3\right)=3\text{ bits d’offset}$$
+4. $$\text{32 - 2 - 3 = 27 bits de tag}$$
+
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429114959.png]]
 Hit ratio = 7/14 = 50%
 ### Cache $B$ : Direct-mapped

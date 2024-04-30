@@ -13,7 +13,7 @@ _Calculus : Limite de fonctions_
 4. [[1.3.4 - Thm = Théorème de localité]]
 
 
-# Question  d'examen du juin 2022
+# Question  4 d'examen du janvier 2024
 ## Enoncé :
 ### $a)$ Soient $(x_n)_{n\in\mathbb{N}}\subseteq\mathbb{R}$ et $a\in\mathbb{R}$. Traduisez la phrase suivante en une formule quantifiée : "Quel que soit l'intervalle centré en $a$, il existe un moment à partir duquel les éléments de la suite appartiennent à cet intervalle"
 ### $b)$ Soient $f:\mathbb{R}\to\mathbb{R}$ une fonction; $a\in\operatorname{adh(Dom}f)$ et $b\in\mathbb{R}$. Montrez que $\underset{x\to a}{\operatorname{lim}}f(x)=b$ si et seulement si $\underset{\overset{x\to a}{x\in[a-2,a+2]}}{\operatorname{lim}}f(x)=b$. INDICATION : vous pouvez utiliser, sans le démontrer, le fait que si une suite $(x_n)_{n\in\mathbb{N}}$ converge vers un réel $a$, alors la formule donnée au point $(a)$ est vérifiée
