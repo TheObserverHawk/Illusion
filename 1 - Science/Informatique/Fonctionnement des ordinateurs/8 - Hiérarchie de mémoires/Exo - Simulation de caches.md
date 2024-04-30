@@ -42,6 +42,8 @@ On sait que la cache $A$ : cache 4-way set-associative 128 octets, 16 lignes de 
 4. $$\text{32 - 2 - 3 = 27 bits de tag}$$
 
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429114959.png]]
+Nous avons :
+- `0x`
 Hit ratio = 7/14 = 50%
 ### Cache $B$ : Direct-mapped
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429115200.png]]
