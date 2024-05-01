@@ -49,7 +49,7 @@ Nous avons :
 	- Set : `01`
 	- Tag : `1010 0011 110` i.e. `101 0001 1110` i.e. `0x51E`
 
-C’est un miss, vu que par défaut, la cache est vide. De plus, la cache $A$ a 4 cellules (`BL=4`) en lecture rafale. (car mémoire en 16 bits puisque une adresse est composée de 16 bits)
+C’est un miss, vu que par défaut, la cache est vide. De plus, la cache $A$ a 4 cellules (`BL=4`) en lecture rafale. (car mémoire en 16 bits = 2 octets puisque une adresse est composée de 16 bits = 2 octets et une ligne de cache contient 8 octets)
 
 Hit ratio = 7/14 = 50%
 ### Cache $B$ : Direct-mapped
