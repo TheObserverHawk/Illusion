@@ -1,9 +1,8 @@
 ---
-## Metadata
-tags : 
- - Note_done Note_WIP
- - 
-source : UMons 
+tags:
+  - Note_done
+  - Math
+source: UMons - Math pour l'informatique
 ---
 
 Link :
@@ -12,7 +11,7 @@ _Math discrète : Relation d'équivalence_
 2. [[1.3.7 - Ensemble des parties]]
 
 _Math élémentaire : Logique_
-1. [[]]
+1. [[../../../Math élémentaire/0 - Logique/0.1 - Logique propositionnelle/0.1.3 - Sémantique (Logique)|0.1.3 - Sémantique (Logique)]]
 
 # Exo - Re 3
 Soient $A$ et $B$ 2 ensembles
