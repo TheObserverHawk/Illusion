@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.1 - Pseudo-instruction de branchement conditionnel (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo - Fonction récursive factorielle (MIPS).md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.1 - Pseudo-instruction de branchement conditionnel (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo - Fonction récursive factorielle (MIPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.1 - Pseudo-instruction de branchement conditionnel (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo - Fonction récursive factorielle (MIPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.1 - Pseudo-instruction de branchement conditionnel (MIPS).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo - Fonction récursive factorielle (MIPS).md"
               }
             }
           }
@@ -206,14 +206,15 @@
   },
   "active": "fafffb3d64311fbe",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.6 - Préservation du contenu des registres (MIPS).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.1 - Pseudo-instruction de branchement conditionnel (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.5 - Variable locale (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.4 - Passage de paramètres & valeurs de retour (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.2 - Registre d'usage général (GPR).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo - Fonction récursive factorielle (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.3 - Pile d'appel (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11 - Branchement conditionnel (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.1 - Pseudo-instruction de branchement conditionnel (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.2 - Bit significatif.md",
@@ -221,7 +222,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.6 - Préservation du contenu des registres (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.1 - Appel de fonction par adressage direct (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.3.5 - Instructions de type-R (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.2 - Appel de fonction par adressage indirect (MIPS).md",
