@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 12 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 12 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 12 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md"
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 12 -.md"
               }
             }
           }
@@ -206,8 +206,9 @@
   },
   "active": "fafffb3d64311fbe",
   "lastOpenFiles": [
-    "0 - Dossier Template/Note.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 12 -.md",
+    "0 - Dossier Template/Note.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.2 - Classe d'équivalence.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.1 - Maximum.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1.2 - (Ordre composante par composante).md",
@@ -232,7 +233,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.2 - Bit significatif.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5317.jpeg",
