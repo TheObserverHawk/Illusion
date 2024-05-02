@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.7 - Diagramme de Hasse (Math discrète).md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.11 - Treillis.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.7 - Diagramme de Hasse (Math discrète).md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.11 - Treillis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.7 - Diagramme de Hasse (Math discrète).md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.11 - Treillis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.7 - Diagramme de Hasse (Math discrète).md"
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.11 - Treillis.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "fafffb3d64311fbe",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.7 - Diagramme de Hasse (Math discrète).md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.10.2 - Infimum.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.11 - Treillis.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.12 - Ensemble bien ordonné.md",
@@ -233,7 +234,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.2 - Appel de fonction par adressage indirect (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.3 - Prop Prop 1 = Si ''f'' dériv en ''a'', alors ''f'' cont en ''a''.md",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5317.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429150602.png",
