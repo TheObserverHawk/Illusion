@@ -11,8 +11,12 @@
             "id": "fafffb3d64311fbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 -.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -138,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 -.md"
+              }
             }
           }
         ]
@@ -198,13 +206,18 @@
   },
   "active": "fafffb3d64311fbe",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 12 - Analyse de la Relation d'Intersection sur les Sous-ensembles Non-vides de Nombres Naturels.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb9 - Propriété de symétrie pour les puissances successives d'une relation symétrique.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb12 - Propriétés des Relations Binaires sur un Ensemble à un Seul Élément.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 -.md",
+    "0 - Dossier Template/Note.md",
+    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8.1 - Prop = (Équivalence de la Transitivité dans les Relations Binaires).md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb9 - Propriété de réflexivité pour les puissances successives d'une relation réflexive.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 12 - Analyse de la Relation d'Intersection sur les Sous-ensembles Non-vides de Nombres Naturels.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 3 - Preuve de l'inclusion des ensembles de parties sous une inclusion d'ensembles.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1 - Relation d'ordre.md",
     "1 - Science/Mathématique/Math élémentaire/0 - Logique/0.1 - Logique propositionnelle/0.1.3 - Sémantique (Logique).md",
-    "0 - Dossier Template/Note.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.15 - Application linéaire.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.15.1 - Application linéaire d'une fonction composée.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.14 - Principe de tiroirs (Pigeon Hole Principle).md",
@@ -220,11 +233,6 @@
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.7 - Ensemble des parties.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.6.2 - Association de la capacité en parallèle (Condensateur & Diélectrique).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo - Fonction récursive factorielle (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11 - Branchement conditionnel (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.12.6 - Préservation du contenu des registres (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.1 - Pseudo-instruction de branchement conditionnel (MIPS).md",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5317.jpeg",
