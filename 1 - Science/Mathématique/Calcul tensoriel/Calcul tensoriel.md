@@ -1,7 +1,6 @@
 ---
 tags:
   - Note_done
-  - Note_WIP
   - Math
 source: BingGPT
 ---

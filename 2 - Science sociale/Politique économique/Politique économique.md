@@ -1,7 +1,6 @@
 ---
 tags:
   - Note_done
-  - Note_WIP
   - "#Politique_Economique"
 source: Politique économique - Agnès Bénassy-Quéré - 3e édition
 source 2: https://fr.m.wikipedia.org/wiki/Politique_%C3%A9conomique
