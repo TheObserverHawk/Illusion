@@ -28,5 +28,8 @@ _Réponse_ : Vrai
 Soit $R$ une relation binaire sur $A$ 
 Supposons $R$ est réflexive i.e. $$\forall a\in A, aRa$$ Montrons que $R$ est transitive i.e. $$\forall a,b,c\in A, aRb\wedge bRc\Rightarrow aRc$$ Soient $a,b,c\in A$ 
 1. Cas 1 : $$a=b=c$$ Supposons $$aRa\wedge aRa$$ Donc $$aRa$$
-2. 
+2. Cas 2 : $$a=c\wedge a\neq b$$ Supposons que $$aRb\wedge bRa$$ Montrons que $$aRc$$ i.e. $$aRa$$ Vrai car $R$ est réflexive
+3. Cas 3 : $$a\neq b\wedge b=c$$ Supposons que $$aRb\wedge bRc$$ i.e. $$bRb$$ Montrons que $$aRb$$ Vrai par hypothèse $aRb$
+4. Cas 4 : $$a\neq b\wedge b\neq c$$ Supposons que $$aRb\wedge bRc$$ Montrons que $$aRc$$ vrai car par hypothèse $aRb\wedge bRc$ 
 ### c) Toute relation binaire sur $A$ est symétrique, est transitive
+Montrons que $R$ est symétrique i.e. $$\forall a\in A,\forall b\in A,\quad aRb\Rightarrow bRa$$ Soient $a,b\in A$ 
