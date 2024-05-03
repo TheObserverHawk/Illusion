@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.9 - Prop Prop 6 = Dériv fonc de puissance négative.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.9 - Prop Prop 6 = Dériv fonc de puissance négative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.9 - Prop Prop 6 = Dériv fonc de puissance négative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md"
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.9 - Prop Prop 6 = Dériv fonc de puissance négative.md"
               }
             }
           }
@@ -206,8 +206,10 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.1 - Déf = Intérieur d'un intervalle.md",
+    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.7 - Lemme = Théorème de la Bijection continue.md",
+    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.6.4 - Exemple = Dérivée de Arctan(x).md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.2 - Prop = Si dériv de ''f'' sur ''I'' est 0, alors ''f'' est const sur ''I''.md",
+    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.1 - Déf = Intérieur d'un intervalle.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.3 - Lemme = Point critique.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.3 - Prop = Si ''f'' croissante, alors dériv de ''f'' sur ''I'' est positif.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.4 - Prop = Si ''f'' décroissante, alors dériv de ''f'' sur ''I'' est négatif.md",
@@ -230,8 +232,6 @@
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re3 - Preuve de l'inclusion des ensembles de parties sous une inclusion d'ensembles.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re 3 - Preuve de l'inclusion des ensembles de parties sous une inclusion d'ensembles.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb12 - Propriétés des Relations Binaires sur un Ensemble à un Seul Élément.md",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
