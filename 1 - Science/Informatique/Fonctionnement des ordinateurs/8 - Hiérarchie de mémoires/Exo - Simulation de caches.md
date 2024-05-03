@@ -49,7 +49,11 @@ Nous avons :
 	- Set : `01`
 	- Tag : `1010 0011 110` i.e. `101 0001 1110` i.e. `0x51E`
 
-C’est un miss, vu que par défaut, la cache est vide. De plus, la cache $A$ a 4 cellules (`BL=4`) en lecture rafale. (car mémoire en 16 bits = 2 octets puisque une adresse est composée de 16 bits = 2 octets et une ligne de cache contient 8 octets)
+C’est un miss, vu que par défaut, la cache est vide. De plus, la cache $A$ a 4 cellules (`BL=4`) en lecture rafale. (car mémoire en 16 bits = 2 octets puisque une adresse est composée de 16 bits = 2 octets et une ligne de cache contient 8 octets). 
+\
+Pour accéder la première cellule, on a une valeur d'offset égale à `000`, la 2ème cellule a une valeur d'offset égale à `010`, la 3ème cellule a une valeur d'offset égale à `100` et la 4ème cellule a une valeur d'offset égale à `110`. 
+\
+Donc, la 1ère cellule stocke `0xA3C9` car l'offset vaut `001` 
 
 Hit ratio = 7/14 = 50%
 ### Cache $B$ : Direct-mapped
