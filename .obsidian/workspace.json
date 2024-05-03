@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5 - Logique combinatoire.md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.4 - Flux d'une symétrie sphérique.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5 - Logique combinatoire.md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.4 - Flux d'une symétrie sphérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5 - Logique combinatoire.md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.4 - Flux d'une symétrie sphérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5 - Logique combinatoire.md"
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.4 - Flux d'une symétrie sphérique.md"
               }
             }
           }
@@ -206,6 +206,9 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.2.3.1 - Angle solide.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.6.1 - Association de la capacité en série (Condensateur & Diélectrique).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5 - Logique combinatoire.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.4.1 - Décodeur binaire.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.4.2 - Décodeur binaire désactivable.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
@@ -229,9 +232,6 @@
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q10E.a.01.22 - fonc inverse est strict décroissante car sa dériv est strict négatif.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q9E.b.06.22 - Démonstration de la croissance stricte de la fonction tangente.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.c.01.22 - si ''f'' est strict décroissante, alors sa dériv est strict nég.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.b.01.22 - si la dériv est nég, alors ''f'' est strict décroissante.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.a.01.22 - si ''f'' est strict décroissante, alors sa dériv est négative.md",
-    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q7E.01.22 - si ''f'' pas const, alors existe 1 ''gamma'' tq sa dériv n'est pas nulle.md",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
