@@ -2,6 +2,7 @@
 tags:
   - Note_done
   - Informatique
+  - Note_WIP
 source: UMons - Fonctionnement des ordinateurs
 ---
 
@@ -53,7 +54,9 @@ C’est un miss, vu que par défaut, la cache est vide. De plus, la cache $A$ a 
 \
 Pour accéder la première cellule, on a une valeur d'offset égale à `000`, la 2ème cellule a une valeur d'offset égale à `010`, la 3ème cellule a une valeur d'offset égale à `100` et la 4ème cellule a une valeur d'offset égale à `110`. 
 \
-Donc, la 1ère cellule stocke `0xA3C9` car l'offset vaut `001` 
+Donc, la 1ère cellule stocke `0xA3C8` car l'offset vaut `000`, la 2ème cellule stocke `0xA3CA` car l'offset vaut `010`, la 3éme cellule stocke `0xA3CC` car l'offset vaut `100`, la 4ème cellule stocke `0xA3CE` car l'offset vaut `110`. 
+\
+Comme `0xA3C9` a une offset de `001`, 
 
 Hit ratio = 7/14 = 50%
 ### Cache $B$ : Direct-mapped
