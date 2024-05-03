@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
-                "mode": "source",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md"
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md"
               }
             }
           }
@@ -206,8 +206,13 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re12 - Analyse de la Relation d'Intersection sur les Sous-ensembles Non-vides de Nombres Naturels.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re3 - Preuve de l'inclusion des ensembles de parties sous une inclusion d'ensembles.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/Exo 16 - Preuve de la linéarité de l'inverse d'une application linéaire.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/Exo 17 - Surjectivité d'une application linéaire avec noyau réduit et espaces de même dimension.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.7.2 - Circuit RC ; Charge d'un conducteur.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9 - Stratégie d'organisation d'une mémoire cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
@@ -227,11 +232,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.4.1 - Décodeur binaire.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.4.2 - Décodeur binaire désactivable.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.6 - Hiérarchie des mémoires.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5.3 - Compteur (fonc ordi).md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.9 - Prop Prop 6 = Dériv fonc de puissance négative.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.7 - Lemme = Théorème de la Bijection continue.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.6.4 - Exemple = Dérivée de Arctan(x).md",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
