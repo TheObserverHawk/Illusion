@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
@@ -231,7 +232,6 @@
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8.1 - Prop = (Équivalence de la Transitivité dans les Relations Binaires).md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.9 - Composition d'une relation avec elle-même.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md",
-    "0 - Dossier Template/Note.md",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
