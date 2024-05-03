@@ -1,7 +1,6 @@
 ---
 tags:
   - Note_done
-  - Note_WIP
   - Math
 source: UMons - Math pour l'informatique
 ---
@@ -32,4 +31,7 @@ Supposons $R$ est réflexive i.e. $$\forall a\in A, aRa$$ Montrons que $R$ est t
 3. Cas 3 : $$a\neq b\wedge b=c$$ Supposons que $$aRb\wedge bRc$$ i.e. $$bRb$$ Montrons que $$aRb$$ Vrai par hypothèse $aRb$
 4. Cas 4 : $$a\neq b\wedge b\neq c$$ Supposons que $$aRb\wedge bRc$$ Montrons que $$aRc$$ vrai car par hypothèse $aRb\wedge bRc$ 
 ### c) Toute relation binaire sur $A$ est symétrique, est transitive
-Montrons que $R$ est symétrique i.e. $$\forall a\in A,\forall b\in A,\quad aRb\Rightarrow bRa$$ Soient $a,b\in A$ 
+_Réponse_ : Faux
+\
+Prenons le même exemple que $a)$ i.e. $$R=\{(a,b)\in A\times A\ |\ a\neq b \}$$Montrons que $R$ est symétrique i.e. $$\forall a\in A,\forall b\in A,\quad aRb\Rightarrow bRa$$ Soient $a,b\in A$ 
+Supposons que $$aRb$$ i.e. $$\{(a,b)\in A\times A\ |\ a\neq b\}$$ Par hypothèse, on sait que $a\neq b$ et donc par symétrique, on a $$b\neq a$$ Montrons que $R$ est transitive, qui est déjà fait par $a)$ 
