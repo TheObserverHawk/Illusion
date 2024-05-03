@@ -7,8 +7,12 @@ source: UMons - Math pour l'informatique
 ---
 
 Link :
-1.
+_Math discrète : Relation binaire_
+1. [[1.2.3 - Relation réflexive]]
+2. [[1.2.5 - Relation transitive]]
 
+_Math élémentaire : Logique_
+1. [[../../../Math élémentaire/0 - Logique/0.1 - Logique propositionnelle/0.1.3 - Sémantique (Logique)|0.1.3 - Sémantique (Logique)]]
 # Exo - Rb13
 ## Enoncé : Soit $A$ un ensemble contient 2 éléments. Déterminez si les affirmations suivantes sont vraies ou fausses
 ### a) Toute relation binaire sur $A$ est transitive
@@ -19,5 +23,10 @@ Prenons $$A=\{0,1\}$$ On a $$R=\{(0,1),(1,0)\}$$ par transitivité (négation), 
 
  
 ### b) Toute relation binaire sur $A$ qui est réflexive, est transitive
-Soit $R$ une rela
+_Réponse_ : Vrai
+\
+Soit $R$ une relation binaire sur $A$ 
+Supposons $R$ est réflexive i.e. $$\forall a\in A, aRa$$ Montrons que $R$ est transitive i.e. $$\forall a,b,c\in A, aRb\wedge bRc\Rightarrow aRc$$ Soient $a,b,c\in A$ 
+1. Cas 1 : $$a=b=c$$ Supposons $$aRa\wedge aRa$$ Donc $$aRa$$
+2. 
 ### c) Toute relation binaire sur $A$ est symétrique, est transitive
