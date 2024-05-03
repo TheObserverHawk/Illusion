@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md"
               }
             }
           }
@@ -206,8 +206,11 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.6 - Hiérarchie des mémoires.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5.3 - Compteur (fonc ordi).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.1 - Cache fully-associative.md",
@@ -229,9 +232,6 @@
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q7E.01.22 - si ''f'' pas const, alors existe 1 ''gamma'' tq sa dériv n'est pas nulle.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q1E.06.23 - Théorème de Rolle (+ Interprétation géométrique).md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb18 - Équivalence de composition de relations inverses - Une Question de Symétrie.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8.1 - Prop = (Équivalence de la Transitivité dans les Relations Binaires).md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.9 - Composition d'une relation avec elle-même.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
