@@ -1,7 +1,6 @@
 ---
 tags:
   - Note_done
-  - Note_WIP
   - Informatique
 source: UMons - Fonctionnement des ordinateurs
 ---
@@ -119,7 +118,14 @@ C'est un **hit**, puisque se trouve dans la ligne 1 du set 1 de la cache
 	- Set : `01`
 	- Tag : `0001 0010 101` i.e. `000 1001 0101` i.e. `0x095`
 
-C'est un **miss** (Compulsory miss), donc l'adresse `0x12AA` se charge à la ligne 3 du set 1 de la cache. De plus, la cache va charger dans les 4 cellules de la ligne 3 les adresses suivants : `0x12A8` (offset = `000`) mais c'est `0x12AC9` (offset = `001`), `0xB9CA` (offset = `010`), `0xB9CC` (offset = `100`) et `0xB9CE` (offset = `110`)
+C'est un **miss** (Compulsory miss), donc l'adresse `0x12AA` se charge à la ligne 3 du set 1 de la cache. De plus, la cache va charger dans les 4 cellules de la ligne 3 les adresses suivants : `0x12A8` (offset = `000`) , `0x12AA` (offset = `010`), `0x12AC` (offset = `100`) et `0x12AE` (offset = `110`)
+
+- `0x122A` i.e. `0001 0010 0010 1010` :
+	- Offset : `010`
+	- Set : `01`
+	- Tag : `0001 0010 001` i.e. `000 1001 0001` i.e. `0x091`
+
+C'est un miss (Conflict miss), donc l'adresse `0x12AA` se charge à la ligne 2 du set 1 de la cache car stratégie de remplacement est LRU (Least Recently Used) et l'adresse `0xB9C9` sera éjecté de la cache.  De plus, la cache va charger dans les 4 cellules de la ligne 3 les adresses suivants : `0x1228` (offset = `000`) , `0x122A` (offset = `010`), `0x122C` (offset = `100`) et `0x122E` (offset = `110`)
 
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429114959.png]]
 
