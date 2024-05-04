@@ -70,7 +70,7 @@ C'est hit, car mémoire cache à multiple cellules dans une entrée.
 	- Set : `00`
 	- Tag : `1011 0101 111` i.e. `101 1010 1111` i.e. `0x5AF`
 
-C'est un
+C'est un 
 Hit ratio = 7/14 = 50%
 ### Cache $B$ : Direct-mapped
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429115200.png]]
