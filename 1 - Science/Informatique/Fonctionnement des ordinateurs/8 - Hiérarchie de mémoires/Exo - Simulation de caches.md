@@ -65,7 +65,12 @@ Comme `0xA3C9` a une offset de `001`, l'adresse se trouve alors dans la 1ère ce
 
 C'est hit, car mémoire cache à multiple cellules dans une entrée. 
 
+- `0xB5E5` i.e. `1011 0101 1110 0101` : 
+	- Offset : `101`
+	- Set : `00`
+	- Tag : `1011 0101 111` i.e. `101 1010 1111` i.e. `0x5AF`
 
+C'est un
 Hit ratio = 7/14 = 50%
 ### Cache $B$ : Direct-mapped
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429115200.png]]
