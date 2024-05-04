@@ -50,25 +50,27 @@ Nous avons :
 	- Set : `01`
 	- Tag : `1010 0011 110` i.e. `101 0001 1110` i.e. `0x51E`
 
-C’est un miss, vu que par défaut, la cache est vide. De plus, la cache $A$ a 4 cellules (`BL=4`) en lecture rafale. (car mémoire en 16 bits = 2 octets puisque une adresse est composée de 16 bits = 2 octets et une ligne de cache contient 8 octets). 
+C’est un **miss**, vu que par défaut, la cache est vide. De plus, la cache $A$ a 4 cellules (`BL=4`) en lecture rafale. (car mémoire en 16 bits = 2 octets puisque une adresse est composée de 16 bits = 2 octets et une ligne de cache contient 8 octets). 
 \
 Pour accéder la première cellule, on a une valeur d'offset égale à `000`, la 2ème cellule a une valeur d'offset égale à `010`, la 3ème cellule a une valeur d'offset égale à `100` et la 4ème cellule a une valeur d'offset égale à `110`. 
 \
 Donc, la 1ère cellule stocke `0xA3C8` car l'offset vaut `000`, la 2ème cellule stocke `0xA3CA` car l'offset vaut `010`, la 3éme cellule stocke `0xA3CC` car l'offset vaut `100`, la 4ème cellule stocke `0xA3CE` car l'offset vaut `110`. 
 \
-Comme `0xA3C9` a une offset de `001`, l'adresse se trouve alors dans la 1ère cellule, de plus la cache charge les adresses suivants `0xA3CB`, `0xA3CD` et `0xA3CF` 
+Comme `0xA3C9` a une offset de `001`, l'adresse se trouve alors dans la 1ère cellule de la ligne 0, de plus la cache charge les adresses suivants `0xA3CB`, `0xA3CD` et `0xA3CF` dans la ligne 0
 
 - `0xA3CB` i.e. `1010 0011 1100 1011` :
 	- Offset : `011`
 	- Set : `01`
 	- Tag : `101 0001 1110` i.e. `0x51E`
 
-C'est hit, car mémoire cache à multiple cellules dans une entrée. 
+C'est **hit**, car mémoire cache à multiple cellules dans une entrée (2ème cellule de la ligne 0) 
 
-- `0xB5E5` i.e. `1011 0101 1110 0101` : 
-	- Offset : `101`
-	- Set : `00`
+- `0xB5EA` i.e. `1011 0101 1110 1010` : 
+	- Offset : `010`
+	- Set : `01`
 	- Tag : `1011 0101 111` i.e. `101 1010 1111` i.e. `0x5AF`
+
+C'est un **miss**, donc l'adresse `0xB5EA` se charge dans le set 1 à la ligne 1 de la cache.  
 
 C'est un 
 Hit ratio = 7/14 = 50%
