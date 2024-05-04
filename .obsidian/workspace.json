@@ -11,12 +11,8 @@
             "id": "9f9f81064454146b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.2 - Verrou de type D.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -142,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.2 - Verrou de type D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.2 - Verrou de type D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.2 - Verrou de type D.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -206,11 +198,12 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
+    "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.2 - Verrou de type D.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.2.1 - Write Enable (WE).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.6.2 - Additionneur à propagation de report.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.2 - Verrou de type D.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4 - Porte logique.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.1 - Cache miss (Mémoire cache).md",
@@ -232,7 +225,6 @@
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.6 - Thm = Théorème des bornes atteintes.md",
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.5 - Coro = Thm des valeurs intermédiaires généralisée.md",
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4.4 - Suite de Cauchy.md",
-    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4.3 - Algorithme bissection (Méthode dichotomie).md",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
@@ -241,7 +233,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429144802.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240429143454.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240423200947.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240429144113.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1 - Compresser & Décompression d'un fichier",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.3 - Système à ''n'' équations linéaires à ''p'' inconnues",
