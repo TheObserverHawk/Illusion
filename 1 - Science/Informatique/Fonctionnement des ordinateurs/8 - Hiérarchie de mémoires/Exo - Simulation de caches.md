@@ -43,14 +43,13 @@ On sait que la cache $A$ : cache 4-way set-associative 128 octets, 16 lignes de 
 3. $$\text{Taille 1 ligne = 8 octets }\quad\Rightarrow\quad \log_2(8)=\log_2\left(2^3\right)=3\text{ bits d’offset}$$
 4. $$\text{16 - 2 - 3 = 11 bits de tag}$$
 
-**Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429114959.png]]
 Nous avons :
 - `0xA3C9` i.e. `1010 0011 1100 1001` :
 	- Offset : `001`
 	- Set : `01`
 	- Tag : `1010 0011 110` i.e. `101 0001 1110` i.e. `0x51E`
 
-C’est un **miss**, vu que par défaut, la cache est vide. De plus, la cache $A$ a 4 cellules (`BL=4`) en lecture rafale. (car mémoire en 16 bits = 2 octets puisque une adresse est composée de 16 bits = 2 octets et une ligne de cache contient 8 octets). 
+C’est un **miss** (Compulsory miss), vu que par défaut, la cache est vide. De plus, la cache $A$ a 4 cellules (`BL=4`) en lecture rafale. (car mémoire en 16 bits = 2 octets puisque une adresse est composée de 16 bits = 2 octets et une ligne de cache contient 8 octets). 
 \
 Pour accéder la première cellule, on a une valeur d'offset égale à `000`, la 2ème cellule a une valeur d'offset égale à `010`, la 3ème cellule a une valeur d'offset égale à `100` et la 4ème cellule a une valeur d'offset égale à `110`. 
 \
@@ -70,10 +69,11 @@ C'est **hit**, car mémoire cache à multiple cellules dans une entrée (2ème c
 	- Set : `01`
 	- Tag : `1011 0101 111` i.e. `101 1010 1111` i.e. `0x5AF`
 
-C'est un **miss**, donc l'adresse `0xB5EA` se charge dans le set 1 à la ligne 1 de la cache.  
+C'est un **miss** (Compulsory miss), donc l'adresse `0xB5EA` se charge dans le set 1 à la ligne 1 de la cache. La cache va charger dans les 4 cellules de la ligne 1 du set 1 les adresses suivants : `0xB5E8` (offset = `000`), `0xB5EA` (offset = `010`), 
 
-C'est un 
-Hit ratio = 7/14 = 50%
+**Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429114959.png]]
+
+C'est un Hit ratio = 7/14 = 50%
 ### Cache $B$ : Direct-mapped
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429115200.png]]
 Hit ratio = 5/14 = 35,7%
