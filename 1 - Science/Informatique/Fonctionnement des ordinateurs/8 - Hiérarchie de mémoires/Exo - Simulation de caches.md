@@ -58,6 +58,14 @@ Donc, la 1ère cellule stocke `0xA3C8` car l'offset vaut `000`, la 2ème cellule
 \
 Comme `0xA3C9` a une offset de `001`, l'adresse se trouve alors dans la 1ère cellule, de plus la cache charge les adresses suivants `0xA3CB`, `0xA3CD` et `0xA3CF` 
 
+- `0xA3CB` i.e. `1010 0011 1100 1011` :
+	- Offset : `011`
+	- Set : `01`
+	- Tag : `101 0001 1110` i.e. `0x51E`
+
+C'est hit, car mémoire cache à multiple cellules dans une entrée. 
+
+
 Hit ratio = 7/14 = 50%
 ### Cache $B$ : Direct-mapped
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429115200.png]]
