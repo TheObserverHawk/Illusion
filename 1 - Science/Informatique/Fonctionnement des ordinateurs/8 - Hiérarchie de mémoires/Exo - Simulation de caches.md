@@ -77,7 +77,7 @@ C'est un **miss** (Compulsory miss), donc l'adresse `0xB5EA` se charge dans le s
 	- Set : `00`
 	- Tag : `1011 0101 111` i.e. `101 1010 1111` i.e. `0x5AF`
 
-C'est un **miss** 
+C'est un **miss** (Compulsory miss), donc l'adresse `0xB5E1` se charge à la ligne 0 du set 0 de la cache. De plus, la cache va charger dans les 4 cellules de la ligne 0 les adresses suivants : `0xB5E1` (offset = `001`)  
 
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429114959.png]]
 
