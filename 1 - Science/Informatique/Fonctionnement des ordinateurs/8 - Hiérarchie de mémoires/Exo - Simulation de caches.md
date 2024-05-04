@@ -64,12 +64,20 @@ Comme `0xA3C9` a une offset de `001`, l'adresse se trouve alors dans la 1ère ce
 
 C'est **hit**, car mémoire cache à multiple cellules dans une entrée (2ème cellule de la ligne 0) 
 
+
 - `0xB5EA` i.e. `1011 0101 1110 1010` : 
 	- Offset : `010`
 	- Set : `01`
 	- Tag : `1011 0101 111` i.e. `101 1010 1111` i.e. `0x5AF`
 
-C'est un **miss** (Compulsory miss), donc l'adresse `0xB5EA` se charge dans le set 1 à la ligne 1 de la cache. La cache va charger dans les 4 cellules de la ligne 1 du set 1 les adresses suivants : `0xB5E8` (offset = `000`), `0xB5EA` (offset = `010`), 
+C'est un **miss** (Compulsory miss), donc l'adresse `0xB5EA` se charge dans le set 1 à la ligne 1 de la cache car ligne 0 déjà occupé. La cache va charger dans les 4 cellules de la ligne 1 du set 1 les adresses suivants : `0xB5E8` (offset = `000`), `0xB5EA` (offset = `010`), `0xB5EC` (offset = `100`) et `0xB5EE` (offset = `110`) 
+
+- `0xB5E1` i.e. `1011 0101 1110 0001` 
+	- Offset : `001`
+	- Set : `00`
+	- Tag : `1011 0101 111` i.e. `101 1010 1111` i.e. `0x5AF`
+
+C'est un **miss** 
 
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429114959.png]]
 
