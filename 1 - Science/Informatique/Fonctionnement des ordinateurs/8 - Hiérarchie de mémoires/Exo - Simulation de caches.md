@@ -89,7 +89,37 @@ C'est un **miss** (Compulsory miss), donc l'adresse `0xB7E5` se charge à la lig
 - `0xB9C9` i.e. `1011 1001 1100 1001` :
 	- Offset : `001`
 	- Set : `01`
-	- Tag : `1011 1001 110` i.e. ``
+	- Tag : `1011 1001 110` i.e. `101 1100 1110` i.e. `0x5CE`
+
+C'est un **miss** (Compulsory miss), donc l'adresse `0xB9C9` se charge à la ligne 2 du set 1 de la cache. De plus, la cache va charger dans les 4 cellules de la ligne 2 les adresses suivants : `0xB9C8` (offset = `000`) mais c'est `0xB9C9` (offset = `001`), `0xB9CA` (offset = `010`), `0xB9CC` (offset = `100`) et `0xB9CE` (offset = `110`)
+
+- `0xA3C9` i.e. `1010 0011 1100 1001` :
+	- Offset : `001`
+	- Set : `01`
+	- Tag : `1010 0011 110` i.e. `101 0001 1110` i.e. `0x51E`
+
+C'est un **hit**, puisque se trouve dans la ligne 0 du set 1 de la cache
+
+- `0xB5E1` i.e. `1011 0101 1110 0001` 
+	- Offset : `001`
+	- Set : `00`
+	- Tag : `1011 0101 111` i.e. `101 1010 1111` i.e. `0x5AF`
+
+C'est un **hit**, puisque se trouve dans la ligne 0 du set 0 de la cache
+
+- `0xB5EA` i.e. `1011 0101 1110 1010` : 
+	- Offset : `010`
+	- Set : `01`
+	- Tag : `1011 0101 111` i.e. `101 1010 1111` i.e. `0x5AF`
+
+C'est un **hit**, puisque se trouve dans la ligne 1 du set 1 de la cache
+
+- `0x12AA` i.e. `0001 0010 1010 1010` :
+	- Offset : `010`
+	- Set : `01`
+	- Tag : `0001 0010 101` i.e. `000 1001 0101` i.e. `0x095`
+
+C'est un **miss** (Compulsory miss), donc l'adresse `0x12AA` se charge à la ligne 3 du set 1 de la cache. De plus, la cache va charger dans les 4 cellules de la ligne 3 les adresses suivants : `0x12A8` (offset = `000`) mais c'est `0x12AC9` (offset = `001`), `0xB9CA` (offset = `010`), `0xB9CC` (offset = `100`) et `0xB9CE` (offset = `110`)
 
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429114959.png]]
 
