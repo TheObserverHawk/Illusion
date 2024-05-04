@@ -1,8 +1,8 @@
 ---
 tags:
   - Note_done
-  - Informatique
   - Note_WIP
+  - Informatique
 source: UMons - Fonctionnement des ordinateurs
 ---
 
@@ -79,11 +79,21 @@ C'est un **miss** (Compulsory miss), donc l'adresse `0xB5EA` se charge dans le s
 
 C'est un **miss** (Compulsory miss), donc l'adresse `0xB5E1` se charge à la ligne 0 du set 0 de la cache. De plus, la cache va charger dans les 4 cellules de la ligne 0 les adresses suivants : `0xB5E0` (offset = `000`) mais c'est `0xB5E1` (offset = `001`), `0xB5E2` (offset = `010`), `0xB5E4` (offset = `100`) et `0xB5E6` (offset = `110`) 
 
+- `0xB7E5` i.e. `1011 0111 1110 0101` :
+	- Offset : `101`
+	- Set : `00`
+	- Tag : `1011 0111 111` i.e. `101 1011 1111` i.e. `0x5BF` 
 
+C'est un **miss** (Compulsory miss), donc l'adresse `0xB7E5` se charge à la ligne 1 du set 0 de la cache. De plus, la cache va charger dans les 4 cellules de la ligne 1 les adresses suivants : `0xB7E0` (offset = `000`), `0xB7E2` (offset = `010`), `0xB7E4` (offset = `100`) mais c'est `0xB7E5` (offset = `101`) et `0xB7E5` (offset = `110`)
+
+- `0xB9C9` i.e. `1011 1001 1100 1001` :
+	- Offset : `001`
+	- Set : `01`
+	- Tag : `1011 1001 110` i.e. ``
 
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429114959.png]]
 
-C'est un $$\text{Hit ratio}= \frac{N_{\text{hit}}}{N+N}=7/14 = 50\text{\%}$$
+C'est un $$\text{Hit ratio}= \frac{N_{\text{hit}}}{N_{\text{hit}}+N_{\text{Miss}}}=7/14 = 50\text{\%}$$
 ### Cache $B$ : Direct-mapped
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429115200.png]]
-Hit ratio = 5/14 = 35,7%
+C'est un $$\text{Hit ratio}= \frac{N_{\text{hit}}}{N_{\text{hit}}+N_{\text{Miss}}}=5/14 = 35,7\text{\%}$$
