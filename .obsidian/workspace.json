@@ -11,8 +11,12 @@
             "id": "9f9f81064454146b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1 - Adresse alignée en mémoire.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
@@ -138,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1 - Adresse alignée en mémoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1 - Adresse alignée en mémoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1 - Adresse alignée en mémoire.md"
+              }
             }
           }
         ]
@@ -198,6 +206,7 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.2 - Bus (fonc ordi).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
