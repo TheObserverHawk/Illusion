@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1 - Adresse alignée en mémoire.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1 - Adresse alignée en mémoire.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1 - Adresse alignée en mémoire.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1 - Adresse alignée en mémoire.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md"
               }
             }
           }
@@ -206,6 +206,15 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.1 - Pagination (Mémoire virtuelle).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.2 - Traducteur d'adresses (Mémoire virtuelle).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9 - Stratégie d'organisation d'une mémoire cache.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7.1 - Cache L1 = Caches séparées pour instructions ou données.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7 - Caches secondaires.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1.1 - Relation Alignement en mémoire & Langage de programmation.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.4.1 - Adresse alignée en mémoire.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.2 - Bus (fonc ordi).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
@@ -217,10 +226,7 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.1 - Cache miss (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.1 - Cache fully-associative.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9 - Stratégie d'organisation d'une mémoire cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7.1 - Cache L1 = Caches séparées pour instructions ou données.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.1 - Déf = Continuité d'une fonction.md",
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md",
@@ -228,12 +234,6 @@
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.1.2 - Limite frac{x expo n}{e expo x}.md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.1.3 - Limite avec le nombre Euler.md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.1.4 - Limite de racine 'x'-ème de 'x'.md",
-    "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.2 - Déf = Voisinage (Calculus).md",
-    "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.3 - Déf = Adhérence.md",
-    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.1.1 - Fonction lisse.md",
-    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.6 - Thm = Théorème des bornes atteintes.md",
-    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.5 - Coro = Thm des valeurs intermédiaires généralisée.md",
-    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4.4 - Suite de Cauchy.md",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
