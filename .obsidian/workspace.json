@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.13 - Déf = Petit-o.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.13 - Déf = Petit-o.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.13 - Déf = Petit-o.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.13 - Déf = Petit-o.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.13 - Déf = Petit-o.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q7E.b.06.22 - Analyse de la croissance de la fonction cubique.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.06-22 - Analyse de la racine et du comportement local d'une fonction linéaire avec un terme négligeable.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q9E.a.06.22 - Si ''f'' dérivable en ''a'', alors ''f'' continue en ''a''.md",
@@ -233,7 +234,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.1 - Cache fully-associative.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
-    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.1 - Déf = Continuité d'une fonction.md",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
