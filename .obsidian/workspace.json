@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
+                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.1 - Déf = Point de maximum local.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
+                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.1 - Déf = Point de maximum local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
+                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.1 - Déf = Point de maximum local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md"
+                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.1 - Déf = Point de maximum local.md"
               }
             }
           }
@@ -206,6 +206,8 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q1E.06.23 - Théorème de Rolle (+ Interprétation géométrique).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.1 - Pagination (Mémoire virtuelle).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.2 - Traducteur d'adresses (Mémoire virtuelle).md",
@@ -223,7 +225,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.2.1 - Write Enable (WE).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.6.2 - Additionneur à propagation de report.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4 - Porte logique.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.1 - Cache miss (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.1 - Cache fully-associative.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
@@ -233,7 +234,6 @@
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/Q6E.b.01.24 - Continuité asymptotique et positivité locale.md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.1.2 - Limite frac{x expo n}{e expo x}.md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.1.3 - Limite avec le nombre Euler.md",
-    "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.1.4 - Limite de racine 'x'-ème de 'x'.md",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
