@@ -12,7 +12,7 @@ _Algèbre linéaire : SEV_
 3. [[2.1.15 - Application linéaire]]
 4. [[2.1.16 - Noyau d'une application linéaire]]
 5. [[2.1.17 - Image d'une application linéaire]]
-6. [[2.1.20 - Théorème de Rang]]
+6. [[2.1.19 - Théorème de Rang]]
 
 # Exo 17
 ## Enoncé : Soient $E_1,E_2$ des espaces vectoriels, $f:E_1\to E_2$ une application linéaire. Prouvez que si $\operatorname{Ker}(L)=\{0_{E_1}\}$ et $\operatorname{dim}E_1=\operatorname{dim}E_2$, alors $\operatorname{Im}(f)=E_2$ 
