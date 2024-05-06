@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.7 - Dimension (Algèbre linéaire).md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.15 - Application linéaire.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.7 - Dimension (Algèbre linéaire).md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.15 - Application linéaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.7 - Dimension (Algèbre linéaire).md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.15 - Application linéaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.7 - Dimension (Algèbre linéaire).md"
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.15 - Application linéaire.md"
               }
             }
           }
@@ -206,8 +206,12 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.6 - Théorème (dimension pour les espaces vectoriels).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.14 - Principe de tiroirs (Pigeon Hole Principle).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.9 - Prop = (Corollaire du théorème de la base).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.10 - Coordonnées (Algèbre linéaire).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.8 - Théorème (Base d'un sous-espace vectoriel).md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.7 - Dimension (Algèbre linéaire).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.6 - Théorème (dimension pour les espaces vectoriels).md",
     "1 - Science/Mathématique/Math élémentaire/0 - Logique/0.3 - Probabilité/0.3.6 - Cardinalité d'un ensemble fini.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.4.1 - Dépendance linéaire.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.5 - Base (Algèbre linéaire).md",
@@ -228,10 +232,6 @@
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.1.1 - Déf = Point de maximum local.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q1E.06.23 - Théorème de Rolle (+ Interprétation géométrique).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.1 - Pagination (Mémoire virtuelle).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.2 - Traducteur d'adresses (Mémoire virtuelle).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9 - Stratégie d'organisation d'une mémoire cache.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
