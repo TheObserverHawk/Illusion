@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.0 - Produit cartésien.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.0 - Produit cartésien.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.0 - Produit cartésien.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.0 - Produit cartésien.md"
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md"
               }
             }
           }
@@ -206,9 +206,9 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.0 - Produit cartésien.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.2 - Relation binaire sur un ensemble.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.0 - Produit cartésien.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.10 - Petit théorème de Fermat.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.9 - Représentation des naturels en base b.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.8 - Propriété fondamentale de l'arithmétique.md",
