@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 - Analyse des Propriétés de Transitivité dans les Relations Binaires sur un Ensemble ''A''.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.2 - Classe d'équivalence.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 - Analyse des Propriétés de Transitivité dans les Relations Binaires sur un Ensemble ''A''.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.2 - Classe d'équivalence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 - Analyse des Propriétés de Transitivité dans les Relations Binaires sur un Ensemble ''A''.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.2 - Classe d'équivalence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 - Analyse des Propriétés de Transitivité dans les Relations Binaires sur un Ensemble ''A''.md"
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.2 - Classe d'équivalence.md"
               }
             }
           }
@@ -206,10 +206,19 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1 - Relation d'ordre.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1.2 - (Ordre composante par composante).md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.1.1 - Ordre lexicographique.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.3 - Eléments comparables.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.4 - Ensemble totalement ordonné.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.5 - Ordre strict.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re3 - Preuve de l'inclusion des ensembles de parties sous une inclusion d'ensembles.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.4 - Partition d'un ensemble.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.5 - Quotient d'un ensemble par une relation d'équivalence.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb12 - Propriétés des Relations Binaires sur un Ensemble à un Seul Élément.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 - Analyse des Propriétés de Transitivité dans les Relations Binaires sur un Ensemble ''A''.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb9 - Propriété de symétrie pour les puissances successives d'une relation symétrique.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb9 - Propriété de réflexivité pour les puissances successives d'une relation réflexive.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 - Analyse des Propriétés de Transitivité dans les Relations Binaires sur un Ensemble ''A''.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.9 - Composition d'une relation avec elle-même.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8.1 - Prop = (Équivalence de la Transitivité dans les Relations Binaires).md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md",
@@ -223,15 +232,6 @@
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.0 - Produit cartésien.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.10 - Petit théorème de Fermat.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.9 - Représentation des naturels en base b.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.8 - Propriété fondamentale de l'arithmétique.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.5 - Théorème fondamental de l'arithmétique.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.4.1 - Prop = Infinité de nombres premiers.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.4 - Nombre premier.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.6 - Plus Grand Commun Diviseur.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.7 - Plus Petit Commun Multiple.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.2 - Division euclidienne.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.3 - Congruence.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
