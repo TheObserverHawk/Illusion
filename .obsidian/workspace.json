@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md"
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md"
               }
             }
           }
@@ -206,9 +206,17 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.0 - Produit cartésien.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8.1 - Prop = (Équivalence de la Transitivité dans les Relations Binaires).md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.7 - Relation inverse.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.7.1 - Prop = Relation entre relation inverse & relation binaire.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.4 - Relation symétrique.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.5 - Relation transitive.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.6 - Relation antisymétrique.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.3 - Relation réflexive.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.2 - Relation binaire sur un ensemble.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.1 - Relation binaire entre deux ensembles.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.0 - Produit cartésien.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.10 - Petit théorème de Fermat.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.9 - Représentation des naturels en base b.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.1 - Arithmétique/1.1.8 - Propriété fondamentale de l'arithmétique.md",
@@ -224,14 +232,6 @@
     "1 - Science/Mathématique/Calculus/2.0 - Intégration/2.0.1 - Déf = Intégrale.md",
     "1 - Science/Mathématique/Calculus/2.0 - Intégration/2.0.1.1 - Déf = Intégrales impropres.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.5 - Déf = Sous-suite.md",
-    "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.6 - Déf = Sous-suite exhaustive.md",
-    "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.9 - Prop = Exhaustivité (Calculus).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.1 - Pagination (Mémoire virtuelle).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.3 - Translation Lookaside Buffer (TLB) (Mémoire virtuelle).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.2.1 - Banque de registre (MIPS).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.1 - Cache miss (Mémoire cache).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
