@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 -.md",
-                "mode": "source",
+                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 -.md",
+                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 -.md",
+                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 -.md"
+                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md"
               }
             }
           }
@@ -206,8 +206,12 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.5 - Coro = Thm des valeurs intermédiaires généralisée.md",
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.3 - Déf = (Classe de fonctions dérivables).md",
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.2 - Déf = Dériv de fonc d'ordres supérieures.md",
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1.2 - Déf =  (Fonc indéfiniment dérivable).md",
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 -.md",
+    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.5 - Coro = Thm des valeurs intermédiaires généralisée.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.06.22 - Analyse de la racine et du comportement local d'une fonction linéaire avec un terme négligeable.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q7E.b.06.22 - Analyse de la croissance de la fonction cubique.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q9E.a.06.22 - Si ''f'' dérivable en ''a'', alors ''f'' continue en ''a''.md",
@@ -228,10 +232,6 @@
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb12 - Propriétés des Relations Binaires sur un Ensemble à un Seul Élément.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb13 - Analyse des Propriétés de Transitivité dans les Relations Binaires sur un Ensemble ''A''.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb9 - Propriété de symétrie pour les puissances successives d'une relation symétrique.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb9 - Propriété de réflexivité pour les puissances successives d'une relation réflexive.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.9 - Composition d'une relation avec elle-même.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8.1 - Prop = (Équivalence de la Transitivité dans les Relations Binaires).md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
