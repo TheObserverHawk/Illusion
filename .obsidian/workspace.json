@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.1 - Force électrique/2.1.8 - Principe de superposition (force életrique).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.1 - Champ électrique.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.1 - Force électrique/2.1.8 - Principe de superposition (force életrique).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.1 - Champ électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.1 - Force électrique/2.1.8 - Principe de superposition (force életrique).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.1 - Champ électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.1 - Force électrique/2.1.8 - Principe de superposition (force életrique).md"
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.1 - Champ électrique.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Physique/2 - Electromagnétisme/2.1 - Force électrique/2.1.8 - Principe de superposition (force életrique).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.2 - Représentation normalisée (Nombre flottant).md",
@@ -231,7 +232,6 @@
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/Q1E.06-22 - si ''f'' continue en ''a'', alors ''g'' continue en ''0''.md",
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/Q1E.01.22 - si lim de ''f'' existe en ''a'', alors ''f'' cont en ''a''.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q7E.b.06.22 - Analyse de la croissance de la fonction cubique.md",
-    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 - Analyse des comportements asymptotiques.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
