@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/Q8E.01.20 - Analyse de la croissance d'une fonction différentiable sur un intervalle.md",
-                "mode": "source",
+                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/Q9E.01.20 - Caractérisation de l'isolation d'un point dans le domaine d'une fonction réelle.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/Q8E.01.20 - Analyse de la croissance d'une fonction différentiable sur un intervalle.md",
+                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/Q9E.01.20 - Caractérisation de l'isolation d'un point dans le domaine d'une fonction réelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/Q8E.01.20 - Analyse de la croissance d'une fonction différentiable sur un intervalle.md",
+                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/Q9E.01.20 - Caractérisation de l'isolation d'un point dans le domaine d'une fonction réelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/Q8E.01.20 - Analyse de la croissance d'une fonction différentiable sur un intervalle.md"
+                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/Q9E.01.20 - Caractérisation de l'isolation d'un point dans le domaine d'une fonction réelle.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/Q8E.01.20 - Analyse de la croissance d'une fonction différentiable sur un intervalle.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q1E.01.20 - Existence et unicité d'une solution pour une équation différentielle dans un intervalle donné.md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/Q9E.01.20 - Caractérisation de l'isolation d'un point dans le domaine d'une fonction réelle.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1 - Déf = Dérivée d'une fonction en ''a''.md",
@@ -223,7 +224,6 @@
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q7E.b.06.22 - Analyse de la croissance de la fonction cubique.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 - Analyse des comportements asymptotiques.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/Q8E.c.01.22 - si ''f'' est strict décroissante, alors sa dériv est strict nég.md",
-    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/Q8E.01.20 - Analyse de la croissance d'une fonction différentiable sur un intervalle.md",
     "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
     "1 - Science/Mathématique/Calculus/1.8 - Développement de Taylor/Q7E.c.06.22 - Développement de Taylor d'un polynôme quadratique.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.3 - Prop = Si ''f'' croissante, alors dériv de ''f'' sur ''I'' est positif.md",
