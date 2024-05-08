@@ -20,25 +20,12 @@ _Calculus : Limite de fonctions_
 _Calculus : Continuité d'une fonction_
 1.
 
-_Calculus : Dérivée de fonctions d'une variable_
-1.
-
-_Calculus : Théorème de la moyenne_
-1.
-
-_Calculus : Dérivée d'ordre supérieur_
-1.
-
-_Calculus : Développement de Taylor_
-1.
-
-_Calculus : Série_
-1. 
-
+_Math élémentaire : Logique_
+1. [[../../Math élémentaire/0 - Logique/0.2 - Logique du 1er ordre et technique de preuve/0.2.8 - Preuve par l'absurde|0.2.8 - Preuve par l'absurde]]
 # Question 9 d'examen du janvier 2020
 ## Enoncé : Soit $f : \mathbb{R} → \mathbb{R}$ une fonction et $a ∈ \operatorname{Dom} f$ . Prouvez l’équivalence suivante : $a\notin\operatorname{adh(Dom}f\text{ \\ }\{a\})\quad\iff\quad\exists r>0, [a-r,a+r]\cap\operatorname{Dom}f=\{a\}$
 (Pas sûr, à voir)
 \
 On sait que par définition d'adhérence, on a $$\operatorname{(Dom}f\text{ \\ }\{a\})\subseteq\mathbb{R},\quad \operatorname{adh(Dom}f\text{ \\ }\{a\})= \{\ a \in \mathbb{R}\ |\ \exists\ (X_n) \subseteq \operatorname{(Dom}f\text{ \\ }\{a\}),\ X_n  \longrightarrow a\ \} $$ comme $a\notin\operatorname{adh(Dom}f\text{ \\ }\{a\})$, cela signifie que $$\operatorname{(Dom}f\text{ \\ }\{a\})\subseteq\mathbb{R},\quad \operatorname{adh(Dom}f\text{ \\ }\{a\})= \{\ a \in \mathbb{R}\ |\ \forall\ (X_n) \subseteq \operatorname{(Dom}f\text{ \\ }\{a\}),\ X_n  \nrightarrow a\ \}$$
 ### $a\notin\operatorname{adh(Dom}f\text{ \\ }\{a\})\quad\Rightarrow\quad\exists r>0, [a-r,a+r]\cap\operatorname{Dom}f=\{a\}$
-Supposons que 
+Supposons que $$a\notin\operatorname{adh(Dom}f\text{ \\ }\{a\})$$ i.e. $$\operatorname{(Dom}f\text{ \\ }\{a\})\subseteq\mathbb{R},\quad \operatorname{adh(Dom}f\text{ \\ }\{a\})= \{\ a \in \mathbb{R}\ |\ \forall\ (X_n) \subseteq \operatorname{(Dom}f\text{ \\ }\{a\}),\ X_n  \nrightarrow a\ \}$$ Montrons que $$\exists r>0, [a-r,a+r]\cap\operatorname{Dom}f=\{a\}$$ 
