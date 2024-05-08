@@ -9,7 +9,7 @@ Link :
 _Calculus : Dérivée de fonctions d'une variable_
 1. [[1.5.13 - Déf = Petit-o]] 
 
-# Question  d'examen du juin 2022
+# Question 6 point c d'examen du janvier 2020
 ## Enoncé : Pour chacune des affirmations suivantes, cochez la case appropriée selon que vous pensez qu’elle est vraie ou fausse. Justifiez votre réponse par un bref argument (rigoureux) ou un contre-exemple.
 ### $\frac{o(x)}{1+o(x)}=o(x)$ lorsque $x\to 0$ 
 _Réponse_ : Vrai

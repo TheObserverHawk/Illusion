@@ -26,6 +26,4 @@ où $$p:=\sum^{n}_{i=0} \partial_i f(a).\frac{(x-a)^i}{i!}$$
 - - -
 On veut prouver que le développement de Taylor d’ordre 2 de la fonction $$f(x) = x^2 − 1$$ en $x = 1$ est $$x^2 −1$$
 Soit $$f:\mathbb{R}\to\mathbb{R} : x\mapsto x^2-1, \operatorname{Dom}f \cap\operatorname{adh(Dom}\mathbb{R}\text{ \\ } \{1\})=\mathbb{R}, 1\in\mathbb{R}, 2\in\mathbb{N}$$
-On aurait que développement de Taylor de $f(x)=x^2-1$ en 1 d'ordre 2 est $$\begin{aligned}\frac{f(1)}{0!}.(x-1)^0+\frac{\partial f(1)}{1!}.(x-1)^1+\frac{\partial^2 f(1)}{2!}.(x-1)^2&=\\\frac{1^2-1}{0!}.(x-1)^0+\frac{2.1}{1!}.(x-1)^1+\frac{2}{2!}.(x-1)^2&=\\0+2.(x-1)+1.(x-1)^2=(2x-2)+(x^2-2x+1)&=2x-1\end{aligned}$$
-Donc le développement de Taylor de $f$ d'ordre 2 en $1$ est $$2x-1$$
-Par conséquent, c'est vrai.
+On aurait que développement de Taylor de $f(x)=x^2-1$ en 1 d'ordre 2 est $$\begin{aligned}\frac{f(1)}{0!}.(x-1)^0+\frac{\partial f(1)}{1!}.(x-1)^1+\frac{\partial^2 f(1)}{2!}.(x-1)^2&=\\\frac{1^2-1}{0!}.(x-1)^0+\frac{2.1}{1!}.(x-1)^1+\frac{2}{2!}.(x-1)^2&=\\0+2.(x-1)+1.(x-1)^2=(2x-2)+(x^2-2x+1)&=x^2-1\end{aligned}$$Donc le développement de Taylor de $f$ d'ordre 2 en $1$ est $$x^2-1$$Par conséquent, c'est vrai.
