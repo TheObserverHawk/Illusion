@@ -17,7 +17,7 @@ _Calculus : Caractéristique d'une suite_
 
 _Math discrète : Relation d'ordre_
 1. [[../../Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.3 - Minimum|1.4.8.3 - Minimum]]
-# Question 3 point $a$ d'examen de août 2022
+# Question 3 point $a$ d'examen de janvier 2023
 ## Enoncé :
 ### $a$) Soient $(x_n)_{n∈\mathbb{N}}$ et $(y_n)_{n∈\mathbb{N}}$ des suites réelles, $f : \mathbb{R} → \mathbb{R}$ une fonction et $a ∈ \operatorname{Dom} f$ . 
 #### Définissez $(x_n)_{n∈\mathbb{N}}$ est non bornée : 
