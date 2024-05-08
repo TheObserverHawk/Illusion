@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q1E.01.20 - Existence et unicité d'une solution pour une équation différentielle dans un intervalle donné.md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q1E.01.20 - Existence et unicité d'une solution pour une équation différentielle dans un intervalle donné.md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q1E.01.20 - Existence et unicité d'une solution pour une équation différentielle dans un intervalle donné.md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q1E.01.20 - Existence et unicité d'une solution pour une équation différentielle dans un intervalle donné.md"
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 -.md"
               }
             }
           }
@@ -206,8 +206,11 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md",
+    "0 - Dossier Template/Note Examen.md",
+    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.c.01.20 -.md",
+    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q6E.06.22 - Analyse de la racine et du comportement local d'une fonction linéaire avec un terme négligeable.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/Q1E.01.20 - Existence et unicité d'une solution pour une équation différentielle dans un intervalle donné.md",
+    "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires.md",
     "1 - Science/Mathématique/Calculus/1.4 - Continuité d'une limite de fonction/1.4.5 - Coro = Thm des valeurs intermédiaires généralisée.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.2 - Classe d'équivalence.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/Q3E.a.01.23 - Définition des concepts de calculus.md",
@@ -229,9 +232,6 @@
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.7 - Relation inverse.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.7.1 - Prop = Relation entre relation inverse & relation binaire.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.4 - Relation symétrique.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.5 - Relation transitive.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.6 - Relation antisymétrique.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
