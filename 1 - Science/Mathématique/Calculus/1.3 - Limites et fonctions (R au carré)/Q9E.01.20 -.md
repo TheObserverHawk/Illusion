@@ -39,4 +39,6 @@ _Calculus : Série_
 ## Enoncé : Soit $f : \mathbb{R} → \mathbb{R}$ une fonction et $a ∈ \operatorname{Dom} f$ . Prouvez l’équivalence suivante : $a\notin\operatorname{adh(Dom}f\text{ \\ }\{a\})\quad\iff\quad\exists r>0, [a-r,a+r]\cap\operatorname{Dom}f=\{a\}$
 (Pas sûr, à voir)
 \
-On sait que par définition d'adhérence, on a $$\operatorname{(Dom}f\text{ \\ }\{a\})\subseteq\mathbb{R},\quad \operatorname{adh(Dom}f\text{ \\ }\{a\})= \{\ a \in \mathbb{R}\ |\ \exists\ (X_n) \subseteq E,\ X_n  \longrightarrow a\ \} $$
+On sait que par définition d'adhérence, on a $$\operatorname{(Dom}f\text{ \\ }\{a\})\subseteq\mathbb{R},\quad \operatorname{adh(Dom}f\text{ \\ }\{a\})= \{\ a \in \mathbb{R}\ |\ \exists\ (X_n) \subseteq \operatorname{(Dom}f\text{ \\ }\{a\}),\ X_n  \longrightarrow a\ \} $$ comme $a\notin\operatorname{adh(Dom}f\text{ \\ }\{a\})$, cela signifie que $$\operatorname{(Dom}f\text{ \\ }\{a\})\subseteq\mathbb{R},\quad \operatorname{adh(Dom}f\text{ \\ }\{a\})= \{\ a \in \mathbb{R}\ |\ \forall\ (X_n) \subseteq \operatorname{(Dom}f\text{ \\ }\{a\}),\ X_n  \nrightarrow a\ \}$$
+### $a\notin\operatorname{adh(Dom}f\text{ \\ }\{a\})\quad\Rightarrow\quad\exists r>0, [a-r,a+r]\cap\operatorname{Dom}f=\{a\}$
+Supposons que 
