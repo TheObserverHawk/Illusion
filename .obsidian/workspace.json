@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.1 - Force électrique/2.1.8 - Principe de superposition (force életrique).md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.1 - Force électrique/2.1.8 - Principe de superposition (force életrique).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.1 - Force électrique/2.1.8 - Principe de superposition (force életrique).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md"
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.1 - Force électrique/2.1.8 - Principe de superposition (force életrique).md"
               }
             }
           }
@@ -206,14 +206,14 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.2 - Représentation normalisée (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.2 - Instruction ''if'' - ''else''en MIPS.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.5 - Instruction ''for'' en MIPS.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.4 - Instruction ''while'' en MIPS.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.11.3 - Instruction ''switch'' en MIPS.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/Q9E.01.20 - Caractérisation de l'isolation d'un point dans le domaine d'une fonction réelle.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.0 - Prop = Caractère asymptotique.md",
     "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/Q8E.01.20 - Analyse de la croissance d'une fonction différentiable sur un intervalle.md",
