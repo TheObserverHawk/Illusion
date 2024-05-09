@@ -131,5 +131,6 @@ C'est un miss (Conflict miss), donc l'adresse `0x12AA` se charge à la ligne 2 d
 
 C'est un $$\text{Hit ratio}= \frac{N_{\text{hit}}}{N_{\text{hit}}+N_{\text{Miss}}}=7/14 = 50\text{\%}$$
 ### Cache $B$ : Direct-mapped
+**Illustration du Modèle de la cache** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240509160408.png]]
 **Illustration** : ![[../../../../0 - Dossier Template/Dossier IMage/Pasted image 20240429115200.png]]
 C'est un $$\text{Hit ratio}= \frac{N_{\text{hit}}}{N_{\text{hit}}+N_{\text{Miss}}}=5/14 = 35,7\text{\%}$$
