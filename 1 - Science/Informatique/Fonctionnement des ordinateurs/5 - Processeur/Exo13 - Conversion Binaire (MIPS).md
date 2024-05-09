@@ -1,20 +1,14 @@
 ---
-## Metadata
-tags : 
- - Note_done Note_WIP Informatique
- - 
-source : UMons - Fonctionnement des ordinateurs
+tags:
+  - Note_done
+  - Informatique
+source: UMons - Fonctionnement des ordinateurs
 ---
 
 Link :
 _Fonctionnement des ordinateurs : Représentation des nombres naturels & entiers_
-1.
-
-_Fonctionnement des ordinateurs : Caractères & Chaînes de caractères_
-1.
-
-_Fonctionnement des ordinateurs : Eléments de conception logique_
-1.
+1. [[../2 - Représentation des nombres naturels & entiers/2.4 - Conversion de bases|2.4 - Conversion de bases]]
+2. [[../2 - Représentation des nombres naturels & entiers/2.4.1 - Algorithme conversion de base (Python)|2.4.1 - Algorithme conversion de base (Python)]]
 
 _Fonctionnement des ordinateurs : Processeur_
 1. [[5.4 - Architecture MIPS]]
