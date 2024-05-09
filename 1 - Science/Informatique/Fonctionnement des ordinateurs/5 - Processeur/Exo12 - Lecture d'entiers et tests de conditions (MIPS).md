@@ -38,7 +38,7 @@ Dans cet exercice, il vous est demandé de produire un programme qui demande, en
 3. Sinon, la chaîne de caractères  ≪ `valeur acceptee` ≫ est affichée à la console. 
 
 Ce programme commence à devenir plus complexe. Il devrait s’étaler sur environ 30 lignes. Assurez-vous de bien le structurer, en employant l’indentation à bon escient, en insérant des lignes vides pour séparer les différentes tâches et en ajoutant éventuellement des commentaires (en utilisant le caractère spécial `#`).
-\
+
 - Pour demander un entier à l’utilisateur, utilisez l’appel système n°5 comme dans l’exercice 2.4. 
 - Pour adapter le comportement du programme aux entiers fournis par l’utilisateur, il faut réaliser des comparaisons et l’équivalent de `if`/`else`, à l’aide d’instructions de branchement conditionnel telles que `beq` (branch on equal), `bne` (branch on not equal), `blt` (branch on less than), etc... 
 - Pour afficher les chaînes de caractères, utilisez l’appel système n°4 comme dans l’exercice 2.3. 
@@ -76,7 +76,7 @@ main:
 	
 	la $a0, endl 
 	li $v0, 4 
-	syscall 31 
+	syscall 
 	j main 
 
 too_large: 
