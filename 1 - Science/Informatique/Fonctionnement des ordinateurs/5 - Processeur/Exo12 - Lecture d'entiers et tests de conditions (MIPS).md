@@ -37,4 +37,54 @@ Dans cet exercice, il vous est demandé de produire un programme qui demande, en
 2. Si l’entier est strictement supérieur à 10, la chaîne de caractères ≪ `trop grand` ≫ est affichée à la console. 
 3. Sinon, la chaîne de caractères  ≪ `valeur acceptee` ≫ est affichée à la console. 
 
-Ce programme commence à devenir plus complexe. Il devrait s’étaler sur environ 30 lignes. Assurez-vous de bien le structurer, ´ en employant l’indentation a bon escient, en ins ` erant des lignes vides pour s ´ eparer les diff ´ erentes t ´ aches et en ajoutant ˆ eventuellement ´ des commentaires (en utilisant le caractere sp ` ecial ´ #). — Pour demander un entier a l’utilisateur, utilisez l’appel syst ` eme n°5 comme dans l’exercice 2.4. ` — Pour adapter le comportement du programme aux entiers fournis par l’utilisateur, il faut realiser des comparaisons et l’ ´ equivalent ´ de if/else, a l’aide d’instructions de branchement conditionnel telles que ` beq (branch on equal), bne (branch on not equal), blt (branch on less than), etc. — Pour afficher les chaˆınes de caracteres, utilisez l’appel syst ` eme n°4 comme dans l’exercice 2.3. ` Nommez votre programme spim-read-int.s et verifiez-en le bon fonctionnement en le chargeant et l’ex ´ ecutant ´ a l’aide de ` SPIM. Fournissez des valeurs differentes permettant de tester toutes les conditions du programme.
+Ce programme commence à devenir plus complexe. Il devrait s’étaler sur environ 30 lignes. Assurez-vous de bien le structurer, en employant l’indentation à bon escient, en insérant des lignes vides pour séparer les différentes tâches et en ajoutant éventuellement des commentaires (en utilisant le caractère spécial `#`).
+\
+- Pour demander un entier à l’utilisateur, utilisez l’appel système n°5 comme dans l’exercice 2.4. 
+- Pour adapter le comportement du programme aux entiers fournis par l’utilisateur, il faut réaliser des comparaisons et l’équivalent de `if`/`else`, à l’aide d’instructions de branchement conditionnel telles que `beq` (branch on equal), `bne` (branch on not equal), `blt` (branch on less than), etc... 
+- Pour afficher les chaînes de caractères, utilisez l’appel système n°4 comme dans l’exercice 2.3. 
+
+Nommez votre programme `spim-read-int.s` et vérifiez-en le bon fonctionnement en le chargeant et l’exécutant à l’aide de SPIM. Fournissez des valeurs differentes permettant de tester toutes les conditions du programme.
+### Résolution de l'exo 12
+```mips
+	.data 
+msg1: .asciiz "Entrez un entier:\n" 
+msg2: .asciiz "Trop grand.\n" 
+msg3: .asciiz "Valeur acceptee: " 
+endl: .asciiz "\n" 
+
+
+	.text 
+main: 
+	la $a0, msg1 
+	li $v0, 4 
+	syscall 
+	
+	li $v0, 5 
+	syscall 
+	move $t0, $v0 
+	
+	bltz $v0, end_loop 
+	bgt $v0, 10, too_large 
+	
+	la $a0, msg3 
+	li $v0, 4 
+	syscall 
+	
+	move $a0, $t0
+	li $v0, 1 
+	syscall 
+	
+	la $a0, endl 
+	li $v0, 4 
+	syscall 31 
+	j main 
+
+too_large: 
+	la $a0, msg2 
+	li $v0, 4 
+	syscall 
+	j main 
+
+end_loop: 
+	jr $ra
+```
