@@ -1,45 +1,25 @@
 ---
-## Metadata
-tags : 
- - Note_done Note_WIP Informatique
- - 
-source : UMons - Fonctionnement des ordinateurs
+tags:
+  - Note_done
+  - Informatique
+source: UMons - Fonctionnement des ordinateurs
 ---
 
 Link :
-_Fonctionnement des ordinateurs : Représentation des nombres naturels & entiers_
-1.
-
-_Fonctionnement des ordinateurs : Caractères & Chaînes de caractères_
-1.
-
-_Fonctionnement des ordinateurs : Eléments de conception logique_
-1.
-
 _Fonctionnement des ordinateurs : Processeur_
-
 1. [[5.4 - Architecture MIPS]]
 2. [[5.4.2 - Registre d'usage général (GPR)]]
 3. [[5.4.3 - Directives d'assemblage (MIPS)]]
 4. [[5.4.4 - Etiquette (MIPS)]]
 5. [[5.4.5 - Pseudo-instruction (MIPS)]]
 6. [[5.4.6 - Jeu d'instructions (MIPS)]]
-7. [[5.4.6.3.1 - Instruction Add Word (ADD) (MIPS)]]
-8. [[5.4.6.3.5 - Instructions de type-R (MIPS)]]
-9. [[5.4.6.12.2.1 - Instruction Jump And Link (JAL) (MIPS)]]
-10. [[5.4.6.13 - Appel de systèmes (Syscall) (MIPS)]]
+7. [[5.4.6.8.1 - Instruction de Type-J (MIPS)]]
+8. [[5.4.6.8.2 - Instruction Jump (MIPS)]]
+9. [[5.4.6.11 - Branchement conditionnel (MIPS)]]
+10. [[5.4.6.12.2.1 - Instruction Jump And Link (JAL) (MIPS)]]
+11. [[5.4.6.13 - Appel de systèmes (Syscall) (MIPS)]]
 
-_Fonctionnement des ordinateurs : Micro-architecture_
-1.
 
-_Fonctionnement des ordinateurs : Assemblage & Compilation_
-1.
-
-_Fonctionnement des ordinateurs : Hiérarchie de mémoires_
-1.
-
-_Fonctionnement des ordinateurs : Nombres flottants_
-1.
 
 # Exo 12
 Dans cet exercice, il vous est demandé de produire un programme qui demande, en boucle, un entier à l’utilisateur : 
