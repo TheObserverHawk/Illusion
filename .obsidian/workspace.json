@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1.3 - Déf = Tangente (Pente).md",
-                "mode": "preview",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo11 - Somme de 2 entiers (MIPS).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1.3 - Déf = Tangente (Pente).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo11 - Somme de 2 entiers (MIPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1.3 - Déf = Tangente (Pente).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo11 - Somme de 2 entiers (MIPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1.3 - Déf = Tangente (Pente).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo11 - Somme de 2 entiers (MIPS).md"
               }
             }
           }
@@ -206,6 +206,10 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo11 - Somme de 2 entiers (MIPS).md",
+    "0 - Dossier Template/Note.md",
+    "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1.3 - Déf = Tangente (Pente).md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1.1 - Point d'accumulation (Math).md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1.2 - Point isolé.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1 - Déf = Dérivée d'une fonction en ''a''.md",
@@ -228,10 +232,6 @@
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.2 - Déf = Suite ultimement constante.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.1 - Déf = Suite constante.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.0 - Prop = Caractère asymptotique.md",
-    "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1 - Déf = Convergence au sens strict d'une suite.md",
-    "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.-1 - Somme téléscopique.md",
-    "1 - Science/Mathématique/Calculus/1.0 - Suite/1.0.1 - Déf = Suite de réel.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
