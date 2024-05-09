@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.3 - Langage d'assemblage.md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1 - Déf = Dérivée d'une fonction en ''a''.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.3 - Langage d'assemblage.md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1 - Déf = Dérivée d'une fonction en ''a''.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.3 - Langage d'assemblage.md",
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1 - Déf = Dérivée d'une fonction en ''a''.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.3 - Langage d'assemblage.md"
+                "file": "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.1 - Déf = Dérivée d'une fonction en ''a''.md"
               }
             }
           }
@@ -206,6 +206,12 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.2 - Représentation normalisée (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.3 - Langage d'assemblage.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.2.1 - Architecture (ISA).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.6.6 - Instructions Load & Store (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.6.4 - Adressage indirect par registre (MIPS).md",
@@ -222,16 +228,10 @@
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1 - Déf = Convergence au sens strict d'une suite.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.-1 - Somme téléscopique.md",
     "1 - Science/Mathématique/Calculus/1.0 - Suite/1.0.1 - Déf = Suite de réel.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.3 - Translation Lookaside Buffer (TLB) (Mémoire virtuelle).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.2 - Traducteur d'adresses (Mémoire virtuelle).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.1 - Pagination (Mémoire virtuelle).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.2 - Principe de superposition (Champ électrique).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
