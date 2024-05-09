@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo12 - Lecture d'entiers et tests de conditions (MIPS).md",
-                "mode": "preview",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo13 - Conversion Binaire (MIPS).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo12 - Lecture d'entiers et tests de conditions (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo13 - Conversion Binaire (MIPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo12 - Lecture d'entiers et tests de conditions (MIPS).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo13 - Conversion Binaire (MIPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo12 - Lecture d'entiers et tests de conditions (MIPS).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo13 - Conversion Binaire (MIPS).md"
               }
             }
           }
@@ -206,11 +206,11 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo12 - Lecture d'entiers et tests de conditions (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo13 - Conversion Binaire (MIPS).md",
+    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo13 - Conversion Binaire.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Untitled.md",
-    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo12 - Lecture d'entiers et tests de conditions (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo11 - Somme de 2 entiers (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 + 10 - Affichage d'une chaîne de caractères (MIPS).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240509135403.png",
