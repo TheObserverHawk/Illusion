@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE754 (Nombre flottant).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE754 (Nombre flottant).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE754 (Nombre flottant).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE754 (Nombre flottant).md"
               }
             }
           }
@@ -206,10 +206,12 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.2 - Représentation normalisée (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE754 (Nombre flottant).md",
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240509163539.png",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "0 - Dossier Template/Note Biologie.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.2 - Représentation normalisée (Nombre flottant).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240509162712.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240509161832.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.3 - Translation Lookaside Buffer (TLB) (Mémoire virtuelle).md",
@@ -234,14 +236,11 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.3 - Langage d'assemblage.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.2.1 - Architecture (ISA).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.6.6 - Instructions Load & Store (MIPS).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5326.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5322.jpeg",
-    "0 - Dossier Template/Dossier IMage/IMG_5317.jpeg",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1 - Compresser & Décompression d'un fichier",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.3 - Système à ''n'' équations linéaires à ''p'' inconnues",
