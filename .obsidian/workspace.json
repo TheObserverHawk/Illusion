@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 - Affichage d'une chaîne de caractères.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 + 10 - Affichage d'une chaîne de caractères.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 - Affichage d'une chaîne de caractères.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 + 10 - Affichage d'une chaîne de caractères.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 - Affichage d'une chaîne de caractères.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 + 10 - Affichage d'une chaîne de caractères.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 - Affichage d'une chaîne de caractères.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 + 10 - Affichage d'une chaîne de caractères.md"
               }
             }
           }
@@ -206,8 +206,9 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240509135403.png",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 - Affichage d'une chaîne de caractères.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo9 + 10 - Affichage d'une chaîne de caractères.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/Exo11 - Somme de 2 entiers (MIPS).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.6.13 - Appel de systèmes (Syscall) (MIPS).md",
     "0 - Dossier Template/Note.md",
@@ -231,7 +232,6 @@
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.4 - Prop = Suite ''a'' exposant ''n''.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.5 - Technique du monôme du plus haut degré.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.3 - Prop = Suite frac{1}{''n'' exposant ''p''}.md",
-    "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.2 - Déf = Suite ultimement constante.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
     "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
