@@ -17,7 +17,17 @@ _Fonctionnement des ordinateurs : Eléments de conception logique_
 1.
 
 _Fonctionnement des ordinateurs : Processeur_
-1.
+
+1. [[5.4 - Architecture MIPS]]
+2. [[5.4.2 - Registre d'usage général (GPR)]]
+3. [[5.4.3 - Directives d'assemblage (MIPS)]]
+4. [[5.4.4 - Etiquette (MIPS)]]
+5. [[5.4.5 - Pseudo-instruction (MIPS)]]
+6. [[5.4.6 - Jeu d'instructions (MIPS)]]
+7. [[5.4.6.3.1 - Instruction Add Word (ADD) (MIPS)]]
+8. [[5.4.6.3.5 - Instructions de type-R (MIPS)]]
+9. [[5.4.6.12.2.1 - Instruction Jump And Link (JAL) (MIPS)]]
+10. [[5.4.6.13 - Appel de systèmes (Syscall) (MIPS)]]
 
 _Fonctionnement des ordinateurs : Micro-architecture_
 1.
