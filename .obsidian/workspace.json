@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
-                "mode": "preview",
+                "file": "3 - Personal Project/Hacking (Ethique)/Sans titre.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
+                "file": "3 - Personal Project/Hacking (Ethique)/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
+                "file": "3 - Personal Project/Hacking (Ethique)/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md"
+                "file": "3 - Personal Project/Hacking (Ethique)/Sans titre.md"
               }
             }
           }
@@ -204,8 +204,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c613e2b3d52265aa",
+  "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "0 - Dossier Template/Note.md",
+    "3 - Personal Project/Hacking (Ethique)/Sans titre.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "3 - Personal Project/Hacking (Ethique)",
     "3 - Personal Project",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE754 (Nombre flottant).md",
@@ -214,11 +217,9 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.2 - Représentation normalisée (Nombre flottant).md",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
-    "0 - Dossier Template/Note.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.10 - Prop = (Valeurs Propres & Racines du Polynôme Caractéristique).md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.5 - Valeur propre & Vecteur propre.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.5 - Stratégie de réécriture (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.2 - Cache direct-mapped.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.7.1 - Cache L1 = Caches séparées pour instructions ou données.md",
@@ -250,7 +251,6 @@
     "1 - Science/Informatique/Algo et progra 1 (Python)/7 - Listes/7.1 - Gradient d'une image & Détection de contours",
     "1 - Science/Informatique/Algo et progra 1 (Python)/7 - Listes/7.2 - Opération mathématique en python (Liste)",
     "1 - Science/Mathématique/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.1 - Intervalle de R",
-    "1 - Science/Mathématique/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.2 - Valeur absolue",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers"
+    "1 - Science/Mathématique/Math élémentaire/1 - Fonction et Inéquation/1.1 - Inéquation/1.2 - Valeur absolue"
   ]
 }
