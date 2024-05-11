@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1 - Réseau Privé Virtuel (VPN) (Hacking).md",
-                "mode": "preview",
+                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.2 - Théorie de l'information (Hacking).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1 - Réseau Privé Virtuel (VPN) (Hacking).md",
+                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.2 - Théorie de l'information (Hacking).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1 - Réseau Privé Virtuel (VPN) (Hacking).md",
+                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.2 - Théorie de l'information (Hacking).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1 - Réseau Privé Virtuel (VPN) (Hacking).md"
+                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.2 - Théorie de l'information (Hacking).md"
               }
             }
           }
@@ -206,11 +206,12 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "0 - Dossier Template/Note.md",
+    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.2 - Théorie de l'information (Hacking).md",
+    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1 - Réseau Privé Virtuel (VPN) (Hacking).md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240511135058.png",
     "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence",
     "3 - Personal Project/Hacking (Ethique)/Hacking.md",
-    "0 - Dossier Template/Note.md",
-    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1 - Réseau Privé Virtuel (VPN) (Hacking).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "3 - Personal Project/Hacking (Ethique)",
     "3 - Personal Project",
@@ -244,7 +245,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240509135403.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240504160846.png",
     "0 - Dossier Template/Dossier IMage/Capture d’écran (36).png",
-    "0 - Dossier Template/Dossier IMage/IMG_5327.jpeg",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants",
     "1 - Science/Informatique/Algo et progra 1 (Python)/12 - Fichiers et exceptions/12.1 - Compresser & Décompression d'un fichier",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.3 - Système à ''n'' équations linéaires à ''p'' inconnues",
