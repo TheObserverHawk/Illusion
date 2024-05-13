@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.4 - Partition d'un ensemble.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.5 - Quotient d'un ensemble par une relation d'équivalence.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.4 - Partition d'un ensemble.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.5 - Quotient d'un ensemble par une relation d'équivalence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.4 - Partition d'un ensemble.md",
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.5 - Quotient d'un ensemble par une relation d'équivalence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.4 - Partition d'un ensemble.md"
+                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.5 - Quotient d'un ensemble par une relation d'équivalence.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.4 - Partition d'un ensemble.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.3 - Théorème (Classe d'équivalence).md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/1.3.2 - Classe d'équivalence.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.6 - Relation antisymétrique.md",
@@ -233,7 +234,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240511135058.png",
     "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence",
     "3 - Personal Project/Hacking (Ethique)/Hacking.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
     "3 - Personal Project/Hacking (Ethique)",
     "3 - Personal Project",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240510165555.png",
