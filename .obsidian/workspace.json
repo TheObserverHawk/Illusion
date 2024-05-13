@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.4.1 - Dépendance linéaire.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Théorème de Rang.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.4.1 - Dépendance linéaire.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Théorème de Rang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.4.1 - Dépendance linéaire.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Théorème de Rang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.4.1 - Dépendance linéaire.md"
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Théorème de Rang.md"
               }
             }
           }
@@ -206,9 +206,9 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Math élémentaire/0 - Logique/0.5 - Fonction/0.5.4 - Fonction injective.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.4.1 - Dépendance linéaire.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.16.1 - Prop = (Relation injectivité-Noyau).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.4.1 - Dépendance linéaire.md",
+    "1 - Science/Mathématique/Math élémentaire/0 - Logique/0.5 - Fonction/0.5.4 - Fonction injective.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.4.2 - Indépendance linéaire (Famille libre).md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.3 - Espace vectoriel engendré.md",
     "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.3.1 - Famille génératrice.md",
