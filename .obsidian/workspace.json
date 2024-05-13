@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.2 - Maximal.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.2 - Application linéaire associée à une matrice.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.2 - Maximal.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.2 - Application linéaire associée à une matrice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.2 - Maximal.md",
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.2 - Application linéaire associée à une matrice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.2 - Maximal.md"
+                "file": "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.2 - Application linéaire associée à une matrice.md"
               }
             }
           }
@@ -206,8 +206,14 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.1 - Maximum.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.3 - Matrice associée à une application linéaire.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.4 - Prop = (App liné de composé de matrices).md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.5 - Valeur propre & Vecteur propre.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.8 - Multiplicité d'une racine d'un polynôme.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.9 - Polynôme caractéristique.md",
+    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.10 - Prop = (Valeurs Propres & Racines du Polynôme Caractéristique).md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.2 - Maximal.md",
+    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.1 - Maximum.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.6 - Successeur immédiat (Math discrète).md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.10.2 - Infimum.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.11 - Treillis.md",
@@ -226,12 +232,6 @@
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.7 - Relation inverse.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.7.1 - Prop = Relation entre relation inverse & relation binaire.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8.1 - Prop = (Équivalence de la Transitivité dans les Relations Binaires).md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb9 - Propriété de réflexivité pour les puissances successives d'une relation réflexive.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/Rb12 - Propriétés des Relations Binaires sur un Ensemble à un Seul Élément.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re3 - Preuve de l'inclusion des ensembles de parties sous une inclusion d'ensembles.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.2 - Relation binaire/1.2.8 - Composition de relations.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.2 - Matrice/2.2.5 - Valeur propre & Vecteur propre.md",
-    "1 - Science/Mathématique/Math informatique/2 - Algèbre linéaire/2.1 - Sous-espace vectoriel/2.1.19 - Théorème de Rang.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240511135058.png",
     "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence",
     "3 - Personal Project/Hacking (Ethique)",
