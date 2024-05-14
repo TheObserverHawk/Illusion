@@ -53,4 +53,4 @@ Prenons $$f:\mathbb{R}\to\mathbb{R}:x\mapsto x^3$$ qui est une fonction
 - dérivable sur $\mathbb{R}$ 
 - Strictement croissante
 
-On a que $$\partial f(0)=\partial f(x)\left.\right|_{x=0}=3x^2\left.\right|_{x=0}=3.0^2= 0$$ Montrons que $0$ n'est pas un maximum i.e. $$\neg(\forall x\in\operatorname{Dom}f,\quad 0\ge x)\iff\exists$$
+On a que $$\partial f(0)=\partial f(x)\left.\right|_{x=0}=3x^2\left.\right|_{x=0}=3.0^2= 0$$ Montrons que $0$ n'est pas un maximum i.e. $$\neg(\forall x\in\operatorname{Dom}f,\quad 0\ge x)\iff\exists x\in\operatorname{Dom}f,\quad 0<x$$ Prenons $$x=1\in\operatorname{Dom}f$$ on a que $$f(1)=1^3=1>0$$ Montrons que $0$ n'est pas un minimum i.e. $$\neg(\forall x\in\operatorname{Dom}f,\quad 0\le x)\iff \exists x\in\operatorname{Dom}f,\quad 0>x$$ Prenons $$x=-1\in\operatorname{Dom}f$$ On a que $$f(-1)=(-1)^3=-1<0$$

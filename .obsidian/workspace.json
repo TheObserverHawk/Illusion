@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md",
-                "mode": "source",
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q1E.01.24 - Théorème des bornes atteintes et illustration de la nécessité de l'hypothèse de continuité.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md",
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q1E.01.24 - Théorème des bornes atteintes et illustration de la nécessité de l'hypothèse de continuité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md",
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q1E.01.24 - Théorème des bornes atteintes et illustration de la nécessité de l'hypothèse de continuité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md"
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q1E.01.24 - Théorème des bornes atteintes et illustration de la nécessité de l'hypothèse de continuité.md"
               }
             }
           }
@@ -206,10 +206,12 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Juin/Q1E.06.23 - Théorème de Rolle (+ Interprétation géométrique).md",
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q1E.01.23 -  Théorème de la moyenne (+ Interprétation géométrique).md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q4E.01.23 - Limites de fonctions sur des ensembles et adhérences.md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q1E.01.23 -  Théorème de la moyenne (+ Interprétation géométrique).md",
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q6E.b.01.22 - Théorème de la moyenne (+ Interprétation géométrique).md",
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.1 - Prop = Suite bornée.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.4 - Prop = Suite majorée.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.4.1 - Ensemble majoré.md",
@@ -230,8 +232,6 @@
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q6E.a.01.22 - Stricte croissante d'une fonction.md",
     "0 - Dossier Template/Note Examen.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier/Q6E.c.01.20 - Analyse des comportements asymptotiques.md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q6E.b.01.22 - Théorème de la moyenne (+ Interprétation géométrique).md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q7E.01.22 - si ''f'' pas const, alors existe 1 ''gamma'' tq sa dériv n'est pas nulle.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier",
