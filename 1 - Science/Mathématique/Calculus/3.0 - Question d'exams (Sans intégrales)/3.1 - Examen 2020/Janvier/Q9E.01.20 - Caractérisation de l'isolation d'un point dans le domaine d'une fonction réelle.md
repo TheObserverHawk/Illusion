@@ -11,7 +11,7 @@ _Calculus : Limite de fonctions_
 1. [[1.3.3 - Déf = Adhérence]]
 
 _Math élémentaire : Logique_
-1. [[../../Math élémentaire/0 - Logique/0.2 - Logique du 1er ordre et technique de preuve/0.2.8 - Preuve par l'absurde|0.2.8 - Preuve par l'absurde]]
+1. [[../../../../Math élémentaire/0 - Logique/0.2 - Logique du 1er ordre et technique de preuve/0.2.8 - Preuve par l'absurde|0.2.8 - Preuve par l'absurde]]
 # Question 9 d'examen du janvier 2020
 ## Enoncé : Soit $f : \mathbb{R} → \mathbb{R}$ une fonction et $a ∈ \operatorname{Dom} f$ . Prouvez l’équivalence suivante : $a\notin\operatorname{adh(Dom}f\text{ \\ }\{a\})\quad\iff\quad\exists r>0, [a-r,a+r]\cap\operatorname{Dom}f=\{a\}$
 (Pas sûr, à voir)

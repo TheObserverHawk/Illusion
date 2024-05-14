@@ -4,5 +4,5 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "0 - Dossier Template/Dossier IMage",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "shortest"
 }

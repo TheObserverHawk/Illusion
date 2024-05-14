@@ -7,15 +7,15 @@ source: UMons - Calculus Examen
 
 Link :
 _Calculus : Théorème de la moyenne_
-1. [[../1.6 - Théorème de la moyenne/1.6.3 - Thm = Théorème de la moyenne|1.6.3 - Thm = Théorème de la moyenne]]
-2. [[../1.6 - Théorème de la moyenne/1.6.3.3 - Prop = Si ''f'' croissante, alors dériv de ''f'' sur ''I'' est positif|1.6.3.3 - Prop = Si ''f'' croissante, alors dériv de ''f'' sur ''I'' est positif]]
+1. [[../../../1.6 - Théorème de la moyenne/1.6.3 - Thm = Théorème de la moyenne|1.6.3 - Thm = Théorème de la moyenne]]
+2. [[../../../1.6 - Théorème de la moyenne/1.6.3.3 - Prop = Si ''f'' croissante, alors dériv de ''f'' sur ''I'' est positif|1.6.3.3 - Prop = Si ''f'' croissante, alors dériv de ''f'' sur ''I'' est positif]]
 
 _Calculus : Dérivée d'ordre supérieur_
 1. [[1.7.1 - Prop = Classe de fonctions]]
 2. [[1.7.3 - Déf = (Classe de fonctions dérivables)]]
 
 _Math élémentaire : Inégalité_
-1. [[../../Math élémentaire/1 - Fonction et Inéquation/1.2 - Fonction/1.2.2 - Fonction strictement croissant|1.2.2 - Fonction strictement croissant]]
+1. [[../../../../Math élémentaire/1 - Fonction et Inéquation/1.2 - Fonction/1.2.2 - Fonction strictement croissant|1.2.2 - Fonction strictement croissant]]
 
 # Question 8 d'examen du janvier 2020
 ## Enoncé : Soit $f ∈ C^1 ([a,b];\mathbb{R})$ où $a < b$ sont deux réels.
