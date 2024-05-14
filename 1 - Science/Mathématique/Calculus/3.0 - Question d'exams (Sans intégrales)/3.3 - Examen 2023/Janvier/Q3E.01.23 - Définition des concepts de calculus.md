@@ -15,7 +15,17 @@ _Calculus : Caractéristique d'une suite_
 3. [[1.2.5 - Prop = Suite minorée]]
 4. [[1.2.7 - Thm = (Convergence bornée)]]
 
+_Calculus : Continuité d'une fonction_
+1. [[1.4.1 - Déf = Continuité d'une fonction]]
+
+_Calculus : Dérivée de fonctions d'une variable_
+1. [[1.5.1 - Déf = Dérivée d'une fonction en ''a'']]
+
+_Calculus : Dérivée d'ordre supérieur_
+1. [[1.7.1 - Prop = Classe de fonctions]]
+
 _Math discrète : Relation d'ordre_
+1. [[1.4.8.1 - Maximum]]
 1. [[../../../../Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.3 - Minimum|1.4.8.3 - Minimum]]
 # Question 3 point $a$ d'examen de janvier 2023
 ## Enoncé :
@@ -37,4 +47,10 @@ Prenons $$(y_n)_{n\in\mathbb{N}}=(x_{3n+1})_{n\in\mathbb{N}}$$ qui est une sous-
 
 Donc $y_n$ est bien une sous-suite de $x_n$ et comme $y_n = x_{3n+1}$, donc $y_n=1\to 1$ car suite constante 
 
-### $c$) Donnez un exemple d'une fonction $f\in\mathscr
+### $c$) Donnez un exemple d'une fonction $f\in\mathscr{C}^1(\mathbb{R},\mathbb{R})$ tel que $\partial f(0)=0$ et pour laquelle $0$ n'est ni un point minimum, ni un point maximum. Le fait que votre exemple satisfasse ce qui est demandé doit être rigoureusement établi
+Prenons $$f:\mathbb{R}\to\mathbb{R}:x\mapsto x^3$$ qui est une fonction 
+- continue sur $\mathbb{R}$ pour $\partial f$ 
+- dérivable sur $\mathbb{R}$ 
+- Strictement croissante
+
+On a que $$\partial f(0)=\partial f(x)\left.\right|_{x=0}=3x^2\left.\right|_{x=0}=3.0^2= 0$$ Montrons que $0$ n'est pas un maximum i.e. $$\neg(\forall x\in\operatorname{Dom}f,\quad 0\ge x)\iff\exists$$
