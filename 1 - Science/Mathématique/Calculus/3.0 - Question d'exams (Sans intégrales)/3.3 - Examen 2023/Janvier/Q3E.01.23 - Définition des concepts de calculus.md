@@ -26,3 +26,8 @@ $$\begin{aligned}\text{bornée }&\to\exists R_1,R_2\in\mathbb{\mathbb{R}},\foral
 $$\exists\varphi:\mathbb{N}\to\mathbb{N}, \text{ strictement croissante  tels que }\forall n\in\mathbb{N}, y_n=x_{\varphi(n)}$$
 #### Définissez $a$ est un point minimum de $f$
 $$\forall x\in\operatorname{Dom}f, f(x)\ge f(a)$$
+### $b)$ Donnez un exemple d'une suite $(x_n)_{n\in\mathbb{N}}$ non bornée qui possède une sous-suite $(y_n)_{n\in\mathbb{N}}$ converge au sens strict. Le fait que votre exemple satisfasse ce qui est demandé doit être rigoureusement établi
+(Pas sûr, à voir)
+\
+Prenons $$x_n=\begin{cases}n\quad\text{ si }n\in3n\\1\quad\text{ si }n\in3n+1\\-n\quad\text{ si } n\in3n+2\end{cases}$$ On a bien que $x_n$ est non bornée, prouvons le
+Soient $R_1,R_2\in\mathbb{N}$, supposons par l'absurde que $x_n$ est bornée i.e. $$\exists R_1,R_2\in\mathbb{R},\quad R_1\le x_n\cap x_n\le R_2$$ prenons $$R_1=-2\quad\text{ et }\quad R_2=2$$ On a alors $$-2\le x_n\le 2$$ Or, on a que $$\begin{aligned}x_n=-3\end{aligned}$$
