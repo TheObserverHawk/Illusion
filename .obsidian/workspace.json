@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q4E.01.23 - Limites de fonctions sur des ensembles et adhérences.md",
-                "mode": "preview",
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q4E.01.23 - Limites de fonctions sur des ensembles et adhérences.md",
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q4E.01.23 - Limites de fonctions sur des ensembles et adhérences.md",
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q4E.01.23 - Limites de fonctions sur des ensembles et adhérences.md"
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md"
               }
             }
           }
@@ -206,8 +206,10 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.7 - Dérivée d'ordre supérieur/1.7.1 - Prop = Classe de fonctions.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q4E.01.23 - Limites de fonctions sur des ensembles et adhérences.md",
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q1E.01.23 -  Théorème de la moyenne (+ Interprétation géométrique).md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.1 - Prop = Suite bornée.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.4 - Prop = Suite majorée.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.4.1 - Ensemble majoré.md",
@@ -225,7 +227,6 @@
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier/Q1E.01.20 - Existence et unicité d'une solution pour une équation différentielle dans un intervalle donné.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier/Q8E.01.20 - Analyse de la croissance d'une fonction différentiable sur un intervalle.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier/Q9E.01.20 - Caractérisation de l'isolation d'un point dans le domaine d'une fonction réelle.md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q1E.01.23 -  Théorème de la moyenne (+ Interprétation géométrique).md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q6E.a.01.22 - Stricte croissante d'une fonction.md",
     "0 - Dossier Template/Note Examen.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier/Q6E.c.01.20 - Analyse des comportements asymptotiques.md",
@@ -241,7 +242,6 @@
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q8E.b.01.22 - si la dériv est nég, alors ''f'' est strict décroissante.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240511135058.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240510165555.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240509164349.png",

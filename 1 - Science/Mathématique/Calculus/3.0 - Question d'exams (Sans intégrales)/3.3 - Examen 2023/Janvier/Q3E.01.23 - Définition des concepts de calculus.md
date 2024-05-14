@@ -36,3 +36,5 @@ Prenons $$(y_n)_{n\in\mathbb{N}}=(x_{3n+1})_{n\in\mathbb{N}}$$ qui est une sous-
 2. Montrons que $$\forall n\in\mathbb{N},y_n=x_{\varphi(n)}$$ Soit $n\in\mathbb{N}$, on a $$y_n=x_{3n+1}=x_{\varphi(n)}$$ 
 
 Donc $y_n$ est bien une sous-suite de $x_n$ et comme $y_n = x_{3n+1}$, donc $y_n=1\to 1$ car suite constante 
+
+### $c$) Donnez un exemple d'une fonction $f\in\mathscr
