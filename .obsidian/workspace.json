@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.4 - Prop = Suite ''a'' exposant ''n''.md",
+                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.5 - Déf = Sous-suite.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.4 - Prop = Suite ''a'' exposant ''n''.md",
+                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.5 - Déf = Sous-suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.4 - Prop = Suite ''a'' exposant ''n''.md",
+                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.5 - Déf = Sous-suite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.4 - Prop = Suite ''a'' exposant ''n''.md"
+                "file": "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.5 - Déf = Sous-suite.md"
               }
             }
           }
@@ -206,6 +206,8 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.6 - Déf = Sous-suite exhaustive.md",
+    "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.4 - Prop = Suite ''a'' exposant ''n''.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.3.3 - Prop = Suite frac{''a'' expo ''n''}{fact de ''n''}.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.3.4 - Prop = Suite ''n'' expo ''p'' multi par ''a'' expo ''n''.md",
     "1 - Science/Mathématique/Calculus/1.1 - Convergence/1.1.1.3 - Prop = Suite frac{1}{''n'' exposant ''p''}.md",
@@ -230,8 +232,6 @@
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.2 - Maximal.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.1 - Maximum.md",
     "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.6 - Successeur immédiat (Math discrète).md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.10.2 - Infimum.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.11 - Treillis.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240511135058.png",
     "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence",
     "3 - Personal Project/Hacking (Ethique)",
