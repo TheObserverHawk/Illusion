@@ -26,4 +26,4 @@ On remarque que
 - $$\partial f(\xi)$$ est une pente de la tangente passante par le point $(\xi,f(\xi))$ 
 - $$\frac{f(b)-f(a)}{b-a}$$ est une pente de la droite passante par les points $(a,f(a))$ et $(b, f(b))$ 
 
-Et donc dire que $$\frac{f(b)-f(a)}{b-a}=\partial f(\xi)$$ revient à dire que les 2 pentes sont parallèles et valent la même valeur
+Et donc dire que $$\frac{f(b)-f(a)}{b-a}=\partial f(\xi)$$ revient à dire que les 2 pentes sont parallèles

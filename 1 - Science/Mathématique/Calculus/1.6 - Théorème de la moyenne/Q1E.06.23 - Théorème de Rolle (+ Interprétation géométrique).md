@@ -15,7 +15,7 @@ _Calculus : Dérivée de fonctions d'une variable_
 _Calculus : Théorème de la moyenne_
 1. [[1.6.2 - Thm = Théorème de Rolle]]
 
-# Question 1 d'examen du juin 2023
+# Question 6 point $b$ d'examen du janvier 2022
 ## Enoncé : Énoncez le théorème de Rolle. Interprétez-le géométriquement en veillant à faire un lien explicite et argumenté entre l’énoncé et les objets géométriques
 Soit $f : [a, b] \to \mathbb{R}$ tel que
 1. $f(a) = f(b)$
