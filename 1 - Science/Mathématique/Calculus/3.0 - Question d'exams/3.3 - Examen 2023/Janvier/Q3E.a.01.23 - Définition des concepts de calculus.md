@@ -7,7 +7,7 @@ source: UMons - Calculus Examen
 
 Link :
 _Calculus : Convergence d’une suite de réel_
-1. [[../1.1 - Convergence/1.1.5 - Déf = Sous-suite|1.1.5 - Déf = Sous-suite]]
+1. [[../../../1.1 - Convergence/1.1.5 - Déf = Sous-suite|1.1.5 - Déf = Sous-suite]]
 
 _Calculus : Caractéristique d'une suite_
 1. [[1.2.1 - Prop = Suite bornée]]
@@ -16,7 +16,7 @@ _Calculus : Caractéristique d'une suite_
 4. [[1.2.7 - Thm = (Convergence bornée)]]
 
 _Math discrète : Relation d'ordre_
-1. [[../../Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.3 - Minimum|1.4.8.3 - Minimum]]
+1. [[../../../../Math informatique/1 - Math discrète/1.4 - Relation d'ordre/1.4.8.3 - Minimum|1.4.8.3 - Minimum]]
 # Question 3 point $a$ d'examen de janvier 2023
 ## Enoncé :
 ### $a$) Soient $(x_n)_{n∈\mathbb{N}}$ et $(y_n)_{n∈\mathbb{N}}$ des suites réelles, $f : \mathbb{R} → \mathbb{R}$ une fonction et $a ∈ \operatorname{Dom} f$ . 

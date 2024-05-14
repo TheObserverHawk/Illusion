@@ -7,8 +7,8 @@ source: UMons - Calculus Examen
 
 Link :
 _Calculus : Continuité d'une fonction_
-1. [[../1.4 - Continuité d'une limite de fonction/1.4.1 - Déf = Continuité d'une fonction|1.4.1 - Déf = Continuité d'une fonction]]
-2. [[../1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires|1.4.4 - Thm = Théorème des valeurs intermédiaires]]
+1. [[../../../1.4 - Continuité d'une limite de fonction/1.4.1 - Déf = Continuité d'une fonction|1.4.1 - Déf = Continuité d'une fonction]]
+2. [[../../../1.4 - Continuité d'une limite de fonction/1.4.4 - Thm = Théorème des valeurs intermédiaires|1.4.4 - Thm = Théorème des valeurs intermédiaires]]
 
 _Calculus : Dérivée de fonctions d'une variable_
 1. [[1.5.1 - Déf = Dérivée d'une fonction en ''a'']]
