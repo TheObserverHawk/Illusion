@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.6 - Thm = (Convergence monotone).md",
+                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.1 - Prop = Suite bornée.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.6 - Thm = (Convergence monotone).md",
+                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.1 - Prop = Suite bornée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.6 - Thm = (Convergence monotone).md",
+                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.1 - Prop = Suite bornée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.6 - Thm = (Convergence monotone).md"
+                "file": "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.1 - Prop = Suite bornée.md"
               }
             }
           }
@@ -206,8 +206,9 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.7 - Thm = (Convergence bornée).md",
+    "1 - Science/Mathématique/Calculus/1.0 - Suite/1.0.1 - Déf = Suite de réel.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.6 - Thm = (Convergence monotone).md",
+    "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.7 - Thm = (Convergence bornée).md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.4.1 - Ensemble majoré.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.4 - Prop = Suite majorée.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.1 - Prop = Suite bornée.md",
@@ -241,7 +242,6 @@
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q8E.b.01.22 - si la dériv est nég, alors ''f'' est strict décroissante.md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q8E.c.01.22 - si ''f'' est strict décroissante, alors sa dériv est strict nég.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240511135058.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240510165555.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240509164349.png",
