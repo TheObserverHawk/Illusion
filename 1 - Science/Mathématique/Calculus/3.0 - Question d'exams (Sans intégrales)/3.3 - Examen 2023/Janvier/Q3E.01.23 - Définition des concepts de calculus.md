@@ -30,4 +30,6 @@ $$\forall x\in\operatorname{Dom}f, f(x)\ge f(a)$$
 (Pas sûr, à voir)
 \
 Prenons $$x_n=\begin{cases}n\quad\text{ si }n\in3n\\1\quad\text{ si }n\in3n+1\\-n\quad\text{ si } n\in3n+2\end{cases}$$ On a bien que $x_n$ est non bornée, prouvons le
-Soient $R_1,R_2\in\mathbb{N}$, supposons par l'absurde que $x_n$ est bornée i.e. $$\exists R_1,R_2\in\mathbb{R},\quad R_1\le x_n\cap x_n\le R_2$$ prenons $$R_1=-2\quad\text{ et }\quad R_2=2$$ On a alors $$-2\le x_n\le 2$$ Or, on a que $$\begin{aligned}x_n&=-3\quad\text{ pour }n\in3n+2\\x_n&=3\quad\text{ pour }n\in3n\end{aligned}$$
+Soient $R_1,R_2\in\mathbb{N}$, supposons par l'absurde que $x_n$ est bornée i.e. $$\exists R_1,R_2\in\mathbb{R},\quad R_1\le x_n\cap x_n\le R_2$$ prenons $$R_1=-2\quad\text{ et }\quad R_2=2$$ On a alors $$-2\le x_n\le 2$$ Or, pour $n=1$ on a que $$\begin{aligned}x_n&=-5\quad\text{ pour }n\in3n+2\\x_n&=3\quad\text{ pour }n\in3n\end{aligned}$$ ce qui est une contradiction, par conséquent, $x_n$ est non bornée
+Prenons $$(y_n)_{n\in\mathbb{N}}=(x_{3n+1})_{n\in\mathbb{N}}$$ qui est une sous-suite de $(x_n)_{n\in\mathbb{N}}$ car
+1. Prenons $$\varphi:\mathbb{N}\to\mathbb{N}:n\mapsto3n+1$$Montrons que $\varphi$ est strictement croissante i.e. $$\forall x_1,x_2\in\operatorname{Dom}\varphi,\quad x_1<x_2\quad\Rightarrow\quad \varphi(x_1)<\varphi(x_2)$$ Soit $n\in\mathbb{N}$, on a $$\begin{aligned}n_1<n_2\quad\Rightarrow\quad 3n_1+1&<3n_2+1\\\varphi(n_1)&<\varphi\end{aligned}$$
