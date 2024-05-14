@@ -1,9 +1,8 @@
 ---
-## Metadata
-tags : 
- - Note_done Note_WIP Math
- - 
-source : UMons - Calculus Examen
+tags:
+  - Note_done
+  - Math
+source: UMons - Calculus Examen
 ---
 
 Link :
@@ -18,4 +17,13 @@ _Calculus : Théorème de la moyenne_
 
 # Question 1 d'examen du janvier 2023
 ## Enoncé : Énoncez le théorème de la moyenne. Interprétez-le géométriquement en veillant à faire un lien explicite et argumenté entre l’énoncé et les objets géométriques.
-Soit $f:[a,b]\to\mathbb{}
+Soit $f:[a,b]\to\mathbb{R}$,
+- une fonction continue sur $[a,b]$ 
+- dérivable sur $]a,b[$ 
+
+alors il existe un $\xi\in\ ]a,b[$ tel que $$f(b)-f(a)=\partial f(\xi).(b-a)\quad\iff\quad\frac{f(b)-f(a)}{b-a}=\partial f(\xi)$$ **Interprétation géométrique** : ![[Pasted image 20231201103158.png]]
+On remarque que 
+- $$\partial f(\xi)$$ est une pente de la tangente passante par le point $(\xi,f(\xi))$ 
+- $$\frac{f(b)-f(a)}{b-a}$$ est une pente de la droite passante par les points $(a,f(a))$ et $(b, f(b))$ 
+
+Et donc dire que $$\frac{f(b)-f(a)}{b-a}=\partial f(\xi)$$ revient à dire que les 2 pentes sont parallèles et valent la même valeur
