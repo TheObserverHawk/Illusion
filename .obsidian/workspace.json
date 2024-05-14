@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
-                "mode": "preview",
+                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1.1 - HTTPS Everywhere (Hacking).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
+                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1.1 - HTTPS Everywhere (Hacking).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
+                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1.1 - HTTPS Everywhere (Hacking).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md"
+                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1.1 - HTTPS Everywhere (Hacking).md"
               }
             }
           }
@@ -206,8 +206,13 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
+    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1 - Navigateur Tor (Hacking).md",
+    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1 - Réseau Privé Virtuel (VPN) (Hacking).md",
+    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1.1 - HTTPS Everywhere (Hacking).md",
+    "0 - Dossier Template/Note.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
+    "0 - Dossier Template/Dossier IMage/IMG_5354.jpeg",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240514163249.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240514162027.png",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.2 - Valeur spéciale (IEEE754) (Nombre flottant).md",
@@ -230,10 +235,6 @@
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.4 - Prop = Suite majorée.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.4.1 - Ensemble majoré.md",
     "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.6 - Thm = (Convergence monotone).md",
-    "1 - Science/Mathématique/Calculus/1.2 - Caractéristiques d'une suite R/1.2.7 - Thm = (Convergence bornée).md",
-    "1 - Science/Mathématique/Calculus/1.0 - Suite/1.0.1 - Déf = Suite de réel.md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q6E.b.01.24 - Continuité asymptotique et positivité locale.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier",
@@ -250,7 +251,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240509163539.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240509162712.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240509161832.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240509160408.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240509135403.png"
+    "0 - Dossier Template/Dossier IMage/Pasted image 20240509160408.png"
   ]
 }
