@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md"
               }
             }
           }
@@ -206,9 +206,10 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE754 (Nombre flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.2 - Valeur spéciale (IEEE754) (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.2 - Bit significatif.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
@@ -231,7 +232,6 @@
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q6E.b.01.24 - Continuité asymptotique et positivité locale.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q6E.a.01.24 - Vérification de l'Unicité de la Limite et de l'Égalité à la Valeur en un Point.md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q4E.01.24 - Propriétés de Convergence et de Limite pour Fonctions Réelles.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier",
