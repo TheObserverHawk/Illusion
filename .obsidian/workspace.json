@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.3 - Précision machine (IEEE 754) (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Dossier Template/Note fonctionnement des ordinateurs.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md"
               }
             }
           }
@@ -205,11 +204,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4c57c0022fab7ce",
+  "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.2 - Valeur spéciale (IEEE754) (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.3 - Précision machine (IEEE 754) (Nombre flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.4 - Arrondis (Rounding) (IEEE 754) (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
+    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "0 - Dossier Template/Dossier IMage/IMG_5364.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5363.jpeg",
     "0 - Dossier Template/Note Examen.md",
@@ -226,7 +227,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire.md",
-    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "0 - Dossier Template/Note.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5 - Nombre naturel (nbre non signé).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.4.1 - Algorithme conversion de base (Python).md",
@@ -234,7 +234,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.3 - Représentation hexadécimale.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.4 - Représentation octale.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.3 - Taille des mots binaires.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
     "3 - Personal Project/Hacking (Ethique)/2 - Niveau Débutant",
     "0 - Dossier Template/Dossier IMage/IMG_5354.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240514163249.png",
