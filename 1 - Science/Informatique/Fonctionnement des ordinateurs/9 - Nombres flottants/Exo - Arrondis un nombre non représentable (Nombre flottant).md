@@ -29,6 +29,14 @@ _Fonctionnement des ordinateurs : Hiérarchie de mémoires_
 1.
 
 _Fonctionnement des ordinateurs : Nombres flottants_
-1.
+1. [[9.2.1 - Biais de l'exposant (Représentation en virgule flottant)]]
+1. [[9.2.2 - Représentation normalisée (Nombre flottant)]]
+2. [[9.3 - Standard IEEE 754 (Nombre flottant)]]
+3. [[9.3.2 - Valeur spéciale (IEEE754) (Nombre flottant)]]
+4. [[9.3.4 - Arrondis (Rounding) (IEEE 754) (Nombre flottant)]]
 
 # Exo
+Soit $M=3, E=2$ et un biais $B=4$. Il n’y a pas de valeurs spéciales ($NaN, +/- ∞$) et seule la représentation normalisée est supportée. 
+\
+Comment représenter le nombre $x = 0,815$ ?
+\
