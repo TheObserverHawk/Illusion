@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
-                "mode": "source",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.9.4 - Stratégie de remplacement (Mémoire cache).md"
               }
             }
           }
@@ -206,6 +206,16 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.3 - Translation Lookaside Buffer (TLB) (Mémoire virtuelle).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.2 - Traducteur d'adresses (Mémoire virtuelle).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11.1 - Pagination (Mémoire virtuelle).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.10 - Résumé de la mémoire cache.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/Exo - Simulation de caches.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire.md",
+    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+    "0 - Dossier Template/Note.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.5 - Nombre naturel (nbre non signé).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.4.1 - Algorithme conversion de base (Python).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.4 - Conversion de bases.md",
@@ -222,16 +232,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.2.1 - Représentation positionnelle.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.2 - Nombre.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.1 - Chiffre.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.2 - Transistor.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.2.1 - Technologie CMOS.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.1 - Circuit à relais.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5 - Logique combinatoire.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.2 - Circuit électrique digital.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.3 - Algèbre de Boole.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.3.1 - Algèbre de commutation.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.3.2 - Table de vérité (Fonc ordi).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.1 - Circuit logique.md",
     "3 - Personal Project/Hacking (Ethique)/2 - Niveau Débutant",
     "0 - Dossier Template/Dossier IMage/IMG_5354.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240514163249.png",
