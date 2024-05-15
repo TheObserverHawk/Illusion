@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.3 - Théorie de l'information (Hacking).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.4 - Représentation octale.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.3 - Théorie de l'information (Hacking).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.4 - Représentation octale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.3 - Théorie de l'information (Hacking).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.4 - Représentation octale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.3 - Théorie de l'information (Hacking).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.4 - Représentation octale.md"
               }
             }
           }
@@ -206,36 +206,36 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/3 - Caractères & Chaînes de caractères/3.2 - American Standard Code for Information Interchange (ASCII).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1.4 - Chaîne de compilation (Compilation - fonc ordi).md",
-    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.2 - Réseau Privé Virtuel (VPN) (Hacking).md",
-    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1.2 - Transport Layer Security (TLS) (Hacking).md",
-    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1.1 - HTTPS Everywhere (Hacking).md",
-    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.1 - Navigateur Tor (Hacking).md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re13 - Analyse de la Relation d'Union sur les Sous-ensembles Non-vides de Nombres Naturels.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re12 - Analyse de la Relation d'Intersection sur les Sous-ensembles Non-vides de Nombres Naturels.md",
-    "1 - Science/Mathématique/Math informatique/1 - Math discrète/1.3 - Relation d'équivalence/Re3 - Preuve de l'inclusion des ensembles de parties sous une inclusion d'ensembles.md",
-    "3 - Personal Project/Hacking (Ethique)/1 - Dark Web + Cachez votre présence/1.3 - Théorie de l'information (Hacking).md",
-    "3 - Personal Project/Hacking (Ethique)/2 - Niveau Débutant",
-    "0 - Dossier Template/Note.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
-    "0 - Dossier Template/Dossier IMage/IMG_5354.jpeg",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.3 - Représentation hexadécimale.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.3 - Taille des mots binaires.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.2 - Octet.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2.1 - Bit.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.2 - Représentation binaire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.1.2 - Chiffre significatif.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.1.1 - Chiffre poids fort & Chiffre poids faible.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3.1 - Représentation décimale.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.3 - Notation positionnelle généralisée.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.2.1 - Représentation positionnelle.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.2 - Nombre.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/2 - Représentation des nombres naturels & entiers/2.1 - Chiffre.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.2 - Transistor.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.2.1 - Technologie CMOS.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.1 - Circuit à relais.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5 - Logique combinatoire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.2 - Circuit électrique digital.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.3 - Algèbre de Boole.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.3.1 - Algèbre de commutation.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.3.2 - Table de vérité (Fonc ordi).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.1 - Circuit logique.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4 - Porte logique.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.1 - Monde digital.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.0 - Monde analogique.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/5 - Processeur/5.4.1 - Cycle d'instructions.md",
+    "3 - Personal Project/Hacking (Ethique)/2 - Niveau Débutant",
+    "0 - Dossier Template/Dossier IMage/IMG_5354.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240514163249.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240514162027.png",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.2 - Valeur spéciale (IEEE754) (Nombre flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.1 - Représentation approximative (Nombre flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1.2 - Bit significatif.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.2 - Représentation normalisée (Nombre flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.1 - Représentation dénormalisée (Nombre flottant).md",
-    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q1E.01.24 - Théorème des bornes atteintes et illustration de la nécessité de l'hypothèse de continuité.md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Juin/Q1E.06.23 - Théorème de Rolle (+ Interprétation géométrique).md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q1E.01.23 -  Théorème de la moyenne (+ Interprétation géométrique).md",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q3E.01.23 - Définition des concepts de calculus.md",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier",
