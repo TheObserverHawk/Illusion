@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md"
               }
             }
           }
@@ -206,13 +206,14 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.2 - Représentation normalisée (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Arrondis un nombre non représentable (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.1 - Représentation dénormalisée (Nombre flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.4 - Addition de nombres en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.3 - Performance de la cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.2 - Cache hit (Mémoire cache).md",
@@ -233,7 +234,6 @@
     "0 - Dossier Template/Dossier IMage/IMG_5363.jpeg",
     "0 - Dossier Template/Note Examen.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1.4.1 - Assembleur + (Compilation - fonc ordi).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1.4 - Chaîne de compilation (Compilation - fonc ordi).md",
     "3 - Personal Project/Hacking (Ethique)/2 - Niveau Débutant",
     "0 - Dossier Template/Dossier IMage/IMG_5354.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240514163249.png",
