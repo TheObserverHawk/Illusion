@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Arrondis un nombre non représentable (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Arrondis un nombre non représentable (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Arrondis un nombre non représentable (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Arrondis un nombre non représentable (Nombre flottant).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md"
               }
             }
           }
@@ -206,9 +206,14 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.4 - Addition de nombres en virgule flottant.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Arrondis un nombre non représentable (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.2 - Représentation normalisée (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.1 - Représentation dénormalisée (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.4 - Addition de nombres en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.3 - Performance de la cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.2 - Cache hit (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.1 - Cache miss (Mémoire cache).md",
@@ -219,7 +224,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2 - Module mémoire.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.1 - Accès en rafale (burst).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "0 - Dossier Template/Note.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.2 - Valeur spéciale (IEEE754) (Nombre flottant).md",
@@ -230,10 +234,6 @@
     "0 - Dossier Template/Note Examen.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1.4.1 - Assembleur + (Compilation - fonc ordi).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1.4 - Chaîne de compilation (Compilation - fonc ordi).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1.2 - Analyse syntaxique (Compilation - fonc ordi).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/7 - Assemblage & Compilation/7.1.3 - Génération de code (Compilation - fonc ordi).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.1 - Mémoire SRAM.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.11 - Mémoire virtuelle.md",
     "3 - Personal Project/Hacking (Ethique)/2 - Niveau Débutant",
     "0 - Dossier Template/Dossier IMage/IMG_5354.jpeg",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240514163249.png",

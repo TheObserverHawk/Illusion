@@ -40,3 +40,17 @@ Soit $M=3, E=2$ et un biais $B=4$. Il n’y a pas de valeurs spéciales ($NaN, +
 \
 Comment représenter le nombre $x = 0,815$ ?
 \
+**Grâce à l'algorithme normalisation** : 
+Soit un nombre $x\neq 0$ 
+On souhaite trouver $(m, e)$ tel que $m$ est normalisé (i.e. de la forme 1,…) et $x = m.2^e$ 
+```python
+m = x 
+e = 0 
+while m < 1: 
+	m = m * 2 
+	e = e – 1 
+while m >= 2: 
+	m = m / 2
+	e = e + 1
+```
+On a donc que 
