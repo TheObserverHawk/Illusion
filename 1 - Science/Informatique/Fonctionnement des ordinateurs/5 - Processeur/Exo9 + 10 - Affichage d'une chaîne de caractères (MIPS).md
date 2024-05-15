@@ -10,7 +10,7 @@ _Fonctionnement des ordinateurs : Représentation des nombres naturels & entiers
 1. [[../2 - Représentation des nombres naturels & entiers/2.3.3 - Représentation hexadécimale|2.3.3 - Représentation hexadécimale]]
 
 _Fonctionnement des ordinateurs : Caractères & Chaînes de caractères_
-1. [[../3 - Caractères & Chaînes de caractères/3.2 - ASCII|3.2 - ASCII]]
+1. [[3.2 - American Standard Code for Information Interchange (ASCII)|3.2 - American Standard Code for Information Interchange (ASCII)]]
 
 _Fonctionnement des ordinateurs : Eléments de conception logique_
 1. [[../4 - Eléments de conception logique/4.6.6.4.2 - Adressage de données multi-octets (Endianness)|4.6.6.4.2 - Adressage de données multi-octets (Endianness)]]

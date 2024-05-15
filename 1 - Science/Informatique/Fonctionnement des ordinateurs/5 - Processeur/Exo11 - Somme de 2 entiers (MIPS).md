@@ -7,7 +7,7 @@ source: UMons - Fonctionnement des ordinateurs
 
 Link :
 _Fonctionnement des ordinateurs : Caractères & Chaînes de caractères_
-1. [[../3 - Caractères & Chaînes de caractères/3.2 - ASCII|3.2 - ASCII]]
+1. [[3.2 - American Standard Code for Information Interchange (ASCII)|3.2 - American Standard Code for Information Interchange (ASCII)]]
 
 _Fonctionnement des ordinateurs : Processeur_
 1. [[5.4 - Architecture MIPS]]
