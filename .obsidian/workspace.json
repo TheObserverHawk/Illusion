@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
-                "mode": "preview",
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q7E.01.23 - Propositions sur les fonctions dérivables et strictement décroissantes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q7E.01.23 - Propositions sur les fonctions dérivables et strictement décroissantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q7E.01.23 - Propositions sur les fonctions dérivables et strictement décroissantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md"
+                "file": "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q7E.01.23 - Propositions sur les fonctions dérivables et strictement décroissantes.md"
               }
             }
           }
@@ -206,6 +206,13 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q8E.c.01.22 - si ''f'' est strict décroissante, alors sa dériv est strict nég.md",
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier/Q7E.01.23 - Propositions sur les fonctions dérivables et strictement décroissantes.md",
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q10E.a.01.22 - fonc inverse est strict décroissante car sa dériv est strict négatif.md",
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q8E.a.01.22 - si ''f'' est strict décroissante, alors sa dériv est négative.md",
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q8E.b.01.22 - si la dériv est nég, alors ''f'' est strict décroissante.md",
+    "0 - Dossier Template/Note Examen.md",
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier/Q7E.01.24 - Développement de Taylor d'une fonction composée complexe.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.4 - Prop = Si ''f'' décroissante, alors dériv de ''f'' sur ''I'' est négatif.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3 - Thm = Théorème de la moyenne.md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
@@ -225,13 +232,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.1 - Représentation d'un nombre flottant en virgule fixe (fixed point).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Arrondis un nombre non représentable (Nombre flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2.1 - Biais de l'exposant (Représentation en virgule flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3.1 - Représentation dénormalisée (Nombre flottant).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.3 - Performance de la cache.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.2 - Cache hit (Mémoire cache).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5.1 - Cache miss (Mémoire cache).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
     "0 - Dossier Template/Dossier IMage/IMG_5364.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5363.jpeg",
     "3 - Personal Project/Hacking (Ethique)/2 - Niveau Débutant",
