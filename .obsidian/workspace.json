@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8.1 - Multiples cellules dans une entrée de cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.4 - Addition de nombres en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
@@ -222,7 +223,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.5 - Mémoire cache.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.3 - Résumé sur les débits (Hiérarchie de mémoire).md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.8 - RAM vs Cache (Fonctionnement).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2 - Module mémoire.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.1 - Accès en rafale (burst).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.2 - Latence des DRAMs.md",
