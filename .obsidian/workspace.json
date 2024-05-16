@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
+                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.4 - Prop = Si ''f'' décroissante, alors dériv de ''f'' sur ''I'' est négatif.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
+                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.4 - Prop = Si ''f'' décroissante, alors dériv de ''f'' sur ''I'' est négatif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
+                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.4 - Prop = Si ''f'' décroissante, alors dériv de ''f'' sur ''I'' est négatif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md"
+                "file": "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3.4 - Prop = Si ''f'' décroissante, alors dériv de ''f'' sur ''I'' est négatif.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.5 - Prop Prop 3 = Dériv des fonc composées.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11 - Prop Prop 8 = Dériv des fonct trigonométriques.md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.9 - Prop = Exhaustivité (Calculus).md",
@@ -231,7 +232,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.4 - Principe de localité (Mémoire cache).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.3 - Résumé sur les débits (Hiérarchie de mémoire).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2 - Module mémoire.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/8 - Hiérarchie de mémoires/8.3.2.1 - Accès en rafale (burst).md",
     "0 - Dossier Template/Dossier IMage/IMG_5364.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5363.jpeg",
     "3 - Personal Project/Hacking (Ethique)/2 - Niveau Débutant",
