@@ -1,9 +1,8 @@
 ---
-## Metadata
-tags : 
- - Note_done Note_WIP Math
- - 
-source : UMons - Calculus Examen
+tags:
+  - Note_done
+  - Math
+source: UMons - Calculus Examen
 ---
 
 Link :
@@ -12,6 +11,7 @@ _Calculus : Dérivée de fonctions d'une variable_
 2. [[1.5.8 - Prop Prop 5 = Dériv fonc de puissance]]
 
 _Calculus : Théorème de la moyenne_
+1. [[1.6.3 - Thm = Théorème de la moyenne]]
 1. [[1.6.3.4 - Prop = Si ''f'' décroissante, alors dériv de ''f'' sur ''I'' est négatif]]
 
 _Calculus : Dérivée d'ordre supérieure_
@@ -32,4 +32,4 @@ _Math élémentaire : Logique_
 ### Question 7.$b$ : Si $\forall x \in \mathbb{R},\ \partial f(x) < 0$, alors  $f$ est strictement décroissante
 _Réponse_ : Vrai
 \
-Supposons que $$\forall x \in \mathbb{R},\ \partial f(x) < 0$$ Montrons que $f$ est strictement décroissante i.e. $$\forall x_1, x_2\in\operatorname{Dom}f,\quad x_1<x_2\quad\Rightarrow\quad f(x_1)>f(x_2)$$ 
+Supposons que $$\forall x \in \mathbb{R},\ \partial f(x) < 0$$ Montrons que $f$ est strictement décroissante i.e. $$\forall x_1, x_2\in\operatorname{Dom}f,\quad x_1<x_2\quad\Rightarrow\quad f(x_1)>f(x_2)$$ Soient $x_1,x_2\in\mathbb{R}$ tel que $$x_1<x_2$$ Montrons que $$f(x_1)>f(x_2)$$ Appliquons le théorème de la moyenne sur $[x_1,x_2]$, on a donc un $\xi\in\ ]x_1,x_2[$ tel que $$f(x_2) - f(x_1) = \underbrace{\partial f(\xi)}_{< 0 \text{ par hyp }}\underbrace{(x_2-x_1)}_{> 0} < 0$$ d'où $$f(x_2)-f(x_1)<0$$ i.e. $$f(x_2)<f(x_1)$$
