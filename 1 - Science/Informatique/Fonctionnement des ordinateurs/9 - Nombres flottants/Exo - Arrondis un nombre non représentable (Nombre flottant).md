@@ -1,32 +1,15 @@
 ---
-## Metadata
-tags : 
- - Note_done Note_WIP Informatique
- - 
-source : UMons - Fonctionnement des ordinateurs
+tags:
+  - Note_done
+  - Informatique
+source: UMons - Fonctionnement des ordinateurs
 ---
 
 Link :
 _Fonctionnement des ordinateurs : Représentation des nombres naturels & entiers_
-1.
+1. [[2.3.2 - Représentation binaire]]
+2. [[2.3.2.1 - Bit]]
 
-_Fonctionnement des ordinateurs : Caractères & Chaînes de caractères_
-1.
-
-_Fonctionnement des ordinateurs : Eléments de conception logique_
-1.
-
-_Fonctionnement des ordinateurs : Processeur_
-1.
-
-_Fonctionnement des ordinateurs : Micro-architecture_
-1.
-
-_Fonctionnement des ordinateurs : Assemblage & Compilation_
-1.
-
-_Fonctionnement des ordinateurs : Hiérarchie de mémoires_
-1.
 
 _Fonctionnement des ordinateurs : Nombres flottants_
 1. [[9.2.1 - Biais de l'exposant (Représentation en virgule flottant)]]
@@ -40,17 +23,6 @@ Soit $M=3, E=2$ et un biais $B=4$. Il n’y a pas de valeurs spéciales ($NaN, +
 \
 Comment représenter le nombre $x = 0,815$ ?
 \
-**Grâce à l'algorithme normalisation** : 
-Soit un nombre $x\neq 0$ 
-On souhaite trouver $(m, e)$ tel que $m$ est normalisé (i.e. de la forme 1,…) et $x = m.2^e$ 
-```python
-m = x 
-e = 0 
-while m < 1: 
-	m = m * 2 
-	e = e – 1 
-while m >= 2: 
-	m = m / 2
-	e = e + 1
-```
-On a donc que 
+En conversion binaire, on a $$0.1101000010100011110101110…$$ qui n’est pas représentable sur $M=3$ bits. En normalisant, on a $$1.101000010100011110101110…$$ car on a multiplié par 2 i.e. 1 décalage vers la gauche. En arrondissant, on a $$1.101$$ L’exposant $e-B$ doit valoir $-1$, par conséquent $$e=-1+4=3$$ Le nombre arrondi est représenté avec $m=101$ et $e=11$, ce qui correspond à $$x^\prime= \left(1+\frac{5}{2^3}\right).2^{3-4}=\frac{1}{2}+\frac{5}{2^4}=\frac{8+5}{16}=0,8125$$ 
+- L’erreur absolue est égale à $$\Delta_x=|x-x^\prime|=|0,815-0,8125|=0,0025$$
+- L’erreur relative est égale à $$\epsilon_x=\frac{\Delta_x}{|x|}=\frac{|0,815-0,8125|}{|0,815|}\approx0,003604<\varepsilon_M=2^{-(M+1)}=0,0625$$
