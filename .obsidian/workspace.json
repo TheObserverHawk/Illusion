@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.5 - Cancellation = soustraction de nombres proches (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.5 - Cancellation = soustraction de nombres proches (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.5 - Cancellation = soustraction de nombres proches (Nombre flottant).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.5 - Cancellation = soustraction de nombres proches (Nombre flottant).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md"
               }
             }
           }
@@ -206,6 +206,14 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.1 - Type de mémoires (fonc ordi).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6 - Mémoire à accès aléatoire (RAM).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5.3 - Compteur (fonc ordi).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5.2 - Machine à état de Mealy.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5.1.1 - Contrôleur de feux de signalisation.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5 - Machine à état.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4.1 - Banque de registres (Circuit logique).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.5 - Cancellation = soustraction de nombres proches (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
@@ -225,14 +233,6 @@
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.1.1 - Déf = Ensemble borné.md",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.1 - Prop = Suite bornée.md",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R/1.2.2 - Déf = Croissance d'une suite.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R/1.2.2.1 - Stricte croissance d'une suite.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R/1.2.3 - Déf = Décroissance d'une suite.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R/1.2.3.1 - Stricte décroissance d'une suite.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R/1.2.5 - Prop = Suite minorée.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R/1.2.4.1 - Ensemble majoré.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R/1.2.4 - Prop = Suite majorée.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R/1.2.6 - Thm = (Convergence monotone).md",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel",
     "1 - Science/Mathématique/Analyse",
