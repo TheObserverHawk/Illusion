@@ -34,6 +34,8 @@ Comme on sait que $$0,625=0,5+0,125=\frac{1}{2}+\frac{1}{8}$$ donc en conversion
 ### Cas 3 : 0,815
 Grâce à l’algorithme suivant : 
 ```python
+# Précondition : x < 1
+
 w = "" 
 bits = 0 
 while x > 0 and bits < M: 
