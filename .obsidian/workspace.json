@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
-                "mode": "preview",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.5 - Cancellation = soustraction de nombres proches (Nombre flottant).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.5 - Cancellation = soustraction de nombres proches (Nombre flottant).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.5 - Cancellation = soustraction de nombres proches (Nombre flottant).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.5 - Cancellation = soustraction de nombres proches (Nombre flottant).md"
               }
             }
           }
@@ -204,8 +204,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c613e2b3d52265aa",
+  "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
+    "README.md",
     "3 - Personal Project/Manga",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.9 - Prop = Exhaustivité (Calculus).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.4.1 - Swamping (Nombre flottant).md",
@@ -226,7 +228,6 @@
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier/Q8E.b.01.22 - si la dériv est nég, alors ''f'' est strict décroissante.md",
     "0 - Dossier Template/Note Examen.md",
     "1 - Science/Mathématique/Calculus/1.6 - Théorème de la moyenne/1.6.3 - Thm = Théorème de la moyenne.md",
-    "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.4 - Thm = Théorème de localité.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.5 - Prop Prop 3 = Dériv des fonc composées.md",
     "1 - Science/Mathématique/Calculus/1.5 - Dérivée des fonctions d'une variable/1.5.11 - Prop Prop 8 = Dériv des fonct trigonométriques.md",
     "1 - Science/Mathématique/Calculus/1.3 - Limites et fonctions (R au carré)/1.3.1 - Déf = Convergence de limite de fonctions.md",
@@ -247,7 +248,6 @@
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Janvier",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Janvier",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240511135058.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240510165555.png",
     "0 - Dossier Template/Dossier IMage/Pasted image 20240509164349.png",
