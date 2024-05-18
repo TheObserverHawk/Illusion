@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
-                "mode": "preview",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md"
               }
             }
           }
@@ -206,6 +206,16 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
+    "0 - Dossier Template/Note.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.2 - Transistor à effet de champ (Fonc ordi).md",
+    "0 - Dossier Template/Dossier IMage/IMG_5372.jpeg",
+    "0 - Dossier Template/Dossier IMage/IMG_5370.jpeg",
+    "0 - Dossier Template/Dossier IMage/IMG_5369.jpeg",
+    "0 - Dossier Template/Dossier IMage/image.gif",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.0 - Table de vérité (Fonc ordi).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6.1 - Type de mémoires (fonc ordi).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.6 - Mémoire à accès aléatoire (RAM).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.5.3 - Compteur (fonc ordi).md",
@@ -226,12 +236,6 @@
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.6 - Thm = (Convergence monotone).md",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.4.1 - Ensemble majoré.md",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.5.1 - Ensemble minoré.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.5 - Prop = Suite minorée.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.3.1 - Stricte décroissance d'une suite.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.3 - Déf = Décroissance d'une suite.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.2.1 - Stricte croissance d'une suite.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.1.1 - Déf = Ensemble borné.md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.1 - Prop = Suite bornée.md",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel",
@@ -247,10 +251,6 @@
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240511135058.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240510165555.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240509164349.png",
-    "0 - Dossier Template/Dossier IMage/Pasted image 20240509163539.png"
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier"
   ]
 }
