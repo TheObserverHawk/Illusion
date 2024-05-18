@@ -46,7 +46,10 @@ Afin de limiter le nombre d’entrées et la complexité du circuit logique du c
 
 | Valeur | $a_1$ | $a_0$ | Valeur | $b_1$ | $b_0$ | less $(a<b)$ | eq $(a=b)$ |
 | ------ | ----- | ----- | ------ | ----- | ----- | ------------ | ---------- |
-|        |       |       |        |       |       |              |            |
+| 0      | `0`   | `0`   | 0      | `0`   | `0`   | 0            | 1          |
+| 0      | `0`   | `0`   | 1      | `0`   | `1`   | 1            | 0          |
+| 1      | `0`   | `1`   | 1      | `0`   | `1`   | 0            | 1          |
+| 0      |       |       |        |       |       |              |            |
 
 ### $b$) Dérivez une expression logique pour `less` et `eq`. Il vous est conseillé d’utiliser pour cela les sommes ou produits canoniques. A vous de choisir entre somme et produit, de façon à minimiser le nombre de termes de l’expression.
 
