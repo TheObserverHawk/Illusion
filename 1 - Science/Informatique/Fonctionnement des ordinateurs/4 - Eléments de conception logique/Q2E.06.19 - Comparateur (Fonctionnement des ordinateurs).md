@@ -8,10 +8,7 @@ source : UMons - Fonctionnement des ordinateurs
 
 Link :
 _Fonctionnement des ordinateurs : Représentation des nombres naturels & entiers_
-1.
-
-_Fonctionnement des ordinateurs : Caractères & Chaînes de caractères_
-1.
+1. [[2.3.2.1 - Bit]]
 
 _Fonctionnement des ordinateurs : Eléments de conception logique_
 1. [[4.4 - Porte logique]]
@@ -19,21 +16,6 @@ _Fonctionnement des ordinateurs : Eléments de conception logique_
 3. [[4.5 - Logique combinatoire]]
 4. [[4.5.1 - Circuit logique]]
 5. [[4.5.2 - Combinaisons de portes]]
-
-_Fonctionnement des ordinateurs : Processeur_
-1.
-
-_Fonctionnement des ordinateurs : Micro-architecture_
-1.
-
-_Fonctionnement des ordinateurs : Assemblage & Compilation_
-1.
-
-_Fonctionnement des ordinateurs : Hiérarchie de mémoires_
-1.
-
-_Fonctionnement des ordinateurs : Nombres flottants_
-1.
 
 # Question 2 partie 2 d'exam de juin 2019
 ## Question : 
@@ -49,8 +31,16 @@ Afin de limiter le nombre d’entrées et la complexité du circuit logique du c
 | 0      | `0`   | `0`   | 0      | `0`   | `0`   | 0            | 1          |
 | 0      | `0`   | `0`   | 1      | `0`   | `1`   | 1            | 0          |
 | 1      | `0`   | `1`   | 1      | `0`   | `1`   | 0            | 1          |
-| 0      |       |       |        |       |       |              |            |
+| 0      | `0`   | `0`   | 2      | `1`   | `0`   | 1            | 0          |
+| 1      | `0`   | `1`   | 2      | `1`   | `0`   | 1            | 0          |
+| 2      | `1`   | `0`   | 2      | `1`   | `0`   | 0            | 1          |
+| 0      | `0`   | `0`   | 3      | `1`   | `1`   | 1            | 0          |
+| 1      | `0`   | `1`   | 3      | `1`   | `1`   | 1            | 0          |
+| 2      | `1`   | `0`   | 3      | `1`   | `1`   | 1            | 0          |
+| 3      | `1`   | `1`   | 3      | `1`   | `1`   | 0            | 1          |
+| $a>b$  | `x`   | `x`   | $a>b$  | `x`   | `x`   | 0            | 0          |
 
 ### $b$) Dérivez une expression logique pour `less` et `eq`. Il vous est conseillé d’utiliser pour cela les sommes ou produits canoniques. A vous de choisir entre somme et produit, de façon à minimiser le nombre de termes de l’expression.
-
+Soient $a,b\in B$ 
+L'expression logique est $$\begin{aligned}\text{eq }(a=b)&=a.b\\\text{less }(a<b)&=\end{aligned}$$
 ### $c$) Fournissez le schéma du circuit logique correspondant au test d’égalité. Ce circuit logique possèdera 4 entrées $a_1, a_0, b_1$ et $b_0$ ainsi qu’une sortie unique $eq$. Veillez à utiliser les symboles standards pour exprimer les portes logiques AND, OR et NOT. Veillez également à la propreté et la clarté de votre schéma.
