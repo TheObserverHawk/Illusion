@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
-                "mode": "preview",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md"
               }
             }
           }
@@ -206,7 +206,10 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.4.1 - Décodeur binaire.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4.0 - Tampon (Buffer).md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.4 - Registre.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3.1.1 - Synchrone.md",
@@ -216,13 +219,11 @@
     "0 - Dossier Template/Dossier IMage/Timeline 1.mov",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.1 - Verrou S-R.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.1.1 - Méta-stabilité.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
     "Untitled",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.6.1 - Demi-additionneur.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.6.2 - Additionneur à propagation de report.md",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "0 - Dossier Template/Note.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.2 - Combinaisons de portes.md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.4.2 - Transistor à effet de champ (Fonc ordi).md",
     "0 - Dossier Template/Dossier IMage/IMG_5372.jpeg",
     "0 - Dossier Template/Dossier IMage/IMG_5370.jpeg",
@@ -239,7 +240,6 @@
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.5 - Cancellation = soustraction de nombres proches (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.3 - Standard IEEE 754 (Nombre flottant).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/9.2 - Représentation d'un nombre flottant en virgule flottant.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/9 - Nombres flottants/Exo - Conversion des nombres flottants en représentation binaire (Nombre flottant).md",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel",

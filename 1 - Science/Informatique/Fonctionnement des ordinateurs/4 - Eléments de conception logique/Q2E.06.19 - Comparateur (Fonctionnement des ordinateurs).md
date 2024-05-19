@@ -41,6 +41,6 @@ Afin de limiter le nombre d’entrées et la complexité du circuit logique du c
 | $a>b$  | `x`   | `x`   | $a>b$  | `x`   | `x`   | 0            | 0          |
 
 ### $b$) Dérivez une expression logique pour `less` et `eq`. Il vous est conseillé d’utiliser pour cela les sommes ou produits canoniques. A vous de choisir entre somme et produit, de façon à minimiser le nombre de termes de l’expression.
-Soient $a,b\in B$ 
-L'expression logique est $$\begin{aligned}\text{eq }(a=b)&=a.b\\\text{less }(a<b)&=\end{aligned}$$
+Soient $a_0, a_1,b_0, b_1\in B$ 
+L'expression logique est $$\begin{aligned}\text{eq }(a=b)&=(a'_1.a'_0).(b'_1.b'_0)+(a'_1.a_0).(b'_1.b_0)+(a_1.a'_0).(b_1.b'_0)+(a_1.a_0).(b_1.b_0)\\\text{less }(a<b)&=(a'_1.a'_0).(b'_1.b_0)\\&+(a'_1.a'_0).(b_1.b'_0)+(a'_1.a_0).(b_1.b'_0)\\&+(a'_1.a'_0).(b_1.b_0)+(a'_1.a_0).(b_1.b_0)+(a_1.a'_0).(b_1.b_0)\end{aligned}$$
 ### $c$) Fournissez le schéma du circuit logique correspondant au test d’égalité. Ce circuit logique possèdera 4 entrées $a_1, a_0, b_1$ et $b_0$ ainsi qu’une sortie unique $eq$. Veillez à utiliser les symboles standards pour exprimer les portes logiques AND, OR et NOT. Veillez également à la propreté et la clarté de votre schéma.
