@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
-                "mode": "source",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md"
+                "file": "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.3 - Bascule bistable de type D.md"
               }
             }
           }
@@ -206,9 +206,11 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.1 - Verrou S-R.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.6.1.1 - Méta-stabilité.md",
+    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
     "Untitled",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.6.1 - Demi-additionneur.md",
-    "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/Q2E.06.19 - Comparateur (Fonctionnement des ordinateurs).md",
     "1 - Science/Informatique/Fonctionnement des ordinateurs/4 - Eléments de conception logique/4.5.6.2 - Additionneur à propagation de report.md",
     "0 - Dossier Template/Note fonctionnement des ordinateurs.md",
     "0 - Dossier Template/Note.md",
@@ -235,7 +237,6 @@
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.4 - Prop = Suite majorée.md",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.2 - Déf = Croissance d'une suite.md",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.1.1 - Déf = Suite de Cauchy (Analyse).md",
-    "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)/1.2.7 - Thm = (Convergence bornée).md",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R (Rappel)",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel/1.2 - Caractéristiques d'une suite R",
     "1 - Science/Mathématique/Analyse/1.1 - Convergence & Nombre réel",
@@ -250,7 +251,6 @@
     "0 - Dossier Template/Dossier IMage/Pasted image 20240514162027.png",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.3 - Examen 2023/Juin",
     "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.2 - Examen 2022/Juin",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier",
-    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.4 - Examen 2024/Janvier"
+    "1 - Science/Mathématique/Calculus/3.0 - Question d'exams (Sans intégrales)/3.1 - Examen 2020/Janvier"
   ]
 }
