@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.8 - Doublets de charges (Superposition de potentiel).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.8.1 - Energie potentielle d'un système de charges ponctuelles.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.8 - Doublets de charges (Superposition de potentiel).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.8.1 - Energie potentielle d'un système de charges ponctuelles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.8 - Doublets de charges (Superposition de potentiel).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.8.1 - Energie potentielle d'un système de charges ponctuelles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.8 - Doublets de charges (Superposition de potentiel).md"
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.8.1 - Energie potentielle d'un système de charges ponctuelles.md"
               }
             }
           }
@@ -207,10 +207,11 @@
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.7 - Potentiel au voisinage d'une charge ponctuelle.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.8.1 - Energie potentielle d'un système de charges ponctuelles.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5.1 - Relation entre champ électrique & potentiel électrique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.8 - Doublets de charges (Superposition de potentiel).md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.6 - Potentiel & énergie potentielle dans un champ uniforme.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5.3 - Le potentiel en fonction de la direction du champ électrique.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5.1 - Relation entre champ électrique & potentiel électrique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5 - Travail fait par la force électrique sur la charge.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.4 - Charge libre accélérée par une différence de potentielle.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3.1 - Définition opérationnelle (Potentiel électrique).md",
@@ -231,7 +232,6 @@
     "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.6.5 - Force sur un objet chargé ds un champ uniforme.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7 - Dipôle électrique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.1 -  Force d'un dipôle ds un champ électrique uniforme.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.2 - Champ électrique/2.2.7.3 - Moment de force d'1 dipôle ds un champ uniforme.md",
     "0 - Dossier Template/Dossier video/Timeline_1.mov",
     "0 - Dossier Template/Dossier gif/Convolucion_Funcion_Pi.gif",
     "0 - Dossier Template/Dossier gif",
