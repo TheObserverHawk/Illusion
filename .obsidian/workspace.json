@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.4 - Charge libre accélérée par une différence de potentielle.md",
-                "mode": "source",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3.1 - Définition opérationnelle (Potentiel électrique).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.4 - Charge libre accélérée par une différence de potentielle.md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3.1 - Définition opérationnelle (Potentiel électrique).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.4 - Charge libre accélérée par une différence de potentielle.md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3.1 - Définition opérationnelle (Potentiel électrique).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.4 - Charge libre accélérée par une différence de potentielle.md"
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3.1 - Définition opérationnelle (Potentiel électrique).md"
               }
             }
           }
@@ -206,17 +206,17 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3.1 - Définition opérationnelle (Potentiel électrique).md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.1 - Potentiel électrique & Energie potentielle électrique.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.2 - Surface équipotentielle.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3 - Charges en déplacement sous contrainte.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5 - Travail fait par la force électrique sur la charge.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.4.1 - Electronvolt.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.4 - Charge libre accélérée par une différence de potentielle.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3.1 - Définition opérationnelle (Potentiel électrique).md",
     "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.2.8 - Champ électrique et diélectrique (Condensateur & Diélectrique).md",
     "1 - Science/Physique/2 - Electromagnétisme/2.7 - Circuit à courant continu/2.7.10 - Potentiomètre.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5 - Travail fait par la force électrique sur la charge.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.4 - Charge libre accélérée par une différence de potentielle.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5.1 - Relation entre champ électrique & potentiel électrique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5.2 - Equation faraday (3e éq de Maxwell).md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.4.1 - Electronvolt.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.2 - Surface équipotentielle.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.1 - Potentiel électrique & Energie potentielle électrique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.2.2 - Flux électrique d'une charge ponctuelle à l'extérieur d'une surface fermée.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.2.3 - Surface de Gauss non sphérique entourant une charge ponctuelle.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.3 - Théorème de Gauss/2.3.3 - Théorème de Gauss (1ère éq de Maxwell).md",
