@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.6 - Résistance (Courant électrique).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.6 - Résistance (Courant électrique).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.6 - Résistance (Courant électrique).md",
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.6 - Résistance (Courant électrique).md"
+                "file": "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md"
               }
             }
           }
@@ -206,14 +206,15 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
+    "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.8 - Densité d'énergie du champ électrique.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.6 - Résistance (Courant électrique).md",
     "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.5 - Densité du courant.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.4 - Vitesse de dérive.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.3 - Courant électrique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.10 - Théorème de Gauss dans les diélectriques.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.9.1 - Rigidité diélectrique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.9 - Condensateur avec matériau diélectrique.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.8 - Densité d'énergie du champ électrique.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5 - Travail fait par la force électrique sur la charge.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.3 - Condensateur plan (Condensateur & Diélectrique).md",
     "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.2.8 - Champ électrique et diélectrique (Condensateur & Diélectrique).md",
@@ -231,7 +232,6 @@
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3.1 - Définition opérationnelle (Potentiel électrique).md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.1 - Potentiel électrique & Energie potentielle électrique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.2 - Surface équipotentielle.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3 - Charges en déplacement sous contrainte.md",
     "0 - Dossier Template/Dossier video/Timeline_1.mov",
     "0 - Dossier Template/Dossier gif/Convolucion_Funcion_Pi.gif",
     "0 - Dossier Template/Dossier gif",
