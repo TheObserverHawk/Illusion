@@ -33,4 +33,10 @@ L'interaction nucléaire faible permet d'établir la désintégration $\beta$ (l
 | ---------------- | ------------------ | ----------- |
 | Nucléaire forte  | 1                  | $10^{-15}$m |
 | Eletromagnétisme | $10^{-2}$          | $\infty$    |
-| Nucléaire faible | $1                 |             |
+| Nucléaire faible | $10^{-6}$          | $10^{-17}$m |
+| Gravitationnelle | $10^{-38}$         | $\infty$    |
+
+## Unification des interactions (Modèle standard)
+Le modèle standard est un cadre théorique qui décrit les interactions électromagnétique, nucléaire forte et nucléaire faible tant dans le monde macroscopique que dans le monde microscopique. 
+\
+Cependant, seule l'interaction gravitationnelle est impossible d'inclure dans le modèle standard, surtout dans le monde microscopique
