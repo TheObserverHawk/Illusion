@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md",
-                "mode": "preview",
+                "file": "1 - Science/Physique/1 - Physique mécanique/Mécanique classique.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md",
+                "file": "1 - Science/Physique/1 - Physique mécanique/Mécanique classique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md",
+                "file": "1 - Science/Physique/1 - Physique mécanique/Mécanique classique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md"
+                "file": "1 - Science/Physique/1 - Physique mécanique/Mécanique classique.md"
               }
             }
           }
@@ -206,8 +206,10 @@
   },
   "active": "9f9f81064454146b",
   "lastOpenFiles": [
-    "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.8 - Densité d'énergie du champ électrique.md",
+    "0 - Dossier Template/Note.md",
+    "1 - Science/Physique/1 - Physique mécanique/Mécanique classique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.7 - Energie du condensateur.md",
+    "1 - Science/Physique/2 - Electromagnétisme/2.5 - Condensateurs & Diélectrique/2.5.8 - Densité d'énergie du champ électrique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.6 - Résistance (Courant électrique).md",
     "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.5 - Densité du courant.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.6 - Courant électrique & Résistance électrique/2.6.4 - Vitesse de dérive.md",
@@ -230,8 +232,6 @@
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.5.3 - Le potentiel en fonction de la direction du champ électrique.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.4 - Charge libre accélérée par une différence de potentielle.md",
     "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.3.1 - Définition opérationnelle (Potentiel électrique).md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.1 - Potentiel électrique & Energie potentielle électrique.md",
-    "1 - Science/Physique/2 - Electromagnétisme/2.4 - Potentiel électrique/2.4.2 - Surface équipotentielle.md",
     "0 - Dossier Template/Dossier video/Timeline_1.mov",
     "0 - Dossier Template/Dossier gif/Convolucion_Funcion_Pi.gif",
     "0 - Dossier Template/Dossier gif",
